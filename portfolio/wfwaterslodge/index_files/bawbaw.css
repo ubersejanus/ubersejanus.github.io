@@ -1,0 +1,34 @@
+/* *************************************** */
+/* VicRovers Baw Baw Specific Styles */
+/* ************************************** */
+
+/* **** GENERAL **** */
+/* Body Background */
+body {}
+
+/* Normal Links */
+a, a:link, a:visited {color: #3366cc;}
+a:hover {color: #3366cc;}
+
+/* Centre Container */
+#container {}
+
+/* Site Header Image */
+#container #header {background-image:url('banner-BawBaw-180px.jpg');}
+
+/* Heading Title Colour */
+h3, .componentheading, table.moduletable th, legend, h2.itemTitle, #homepage .hp-row .k2ItemsBlock .moduleItemTitle {color:#003399;}
+
+/* Homepage Date Colour */
+#homepage .hp-row .k2ItemsBlock .introtextDate {color:#3366cc;}
+
+/* Footer Box Colour */
+#footer {background-color:#3366cc;}
+
+/* **** MENU **** */
+#navigation, .sf-menu a, .sf-menu a:visited {color:#003399;}
+
+/* **** LOGIN FOR DOCUMENTS **** */
+#navigation ul.menu li:hover ul li.item45 a,
+#navigation ul.menu li:hover ul li.item45 span.separator {background-image:url('padlock.png');background-repeat:no-repeat;background-position:100% 10px;}
+

@@ -1,0 +1,12 @@
+.snapshot {
+	font-family:Helvetica,Arial,sans-serif;
+	background-color:#FF6666;
+	height:23px;
+	line-height:23px !important;
+	text-align:center;
+	font-weight:bold;
+	font-size:12px;
+	color:#333; }
+
+div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
+	color: #3366cc; }

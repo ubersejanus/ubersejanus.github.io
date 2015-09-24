@@ -1,0 +1,6 @@
+#k2Container .catItemView .catItemEditLink {display:none;}
+#k2Container .catItemView .catItemImageBlock {float:left;display:inline;padding:1px 8px 0 2px;}
+#k2Container .catItemView .catItemImageBlock img {border:0;}
+#k2Container .catItemView .catItemBody .clr {clear:none;}
+
+div.clr {clear:both;height:0;margin:0;padding:0;}

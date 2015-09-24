@@ -1,0 +1,73 @@
+/*
+div#homepage div.moduletable_feed_wam h3 {background-image:url('../images/h3_wam.png');height:27px;border-top:none;text-indent:-10000px;}
+div#homepage div.moduletable_feed_training h3 {background-image:url('../images/h3_training.png');height:27px;border-top:none;text-indent:-10000px;}
+div#homepage div.moduletable_feed_mudbash h3 {background-image:url('../images/h3_mudbash.png');height:27px;border-top:none;text-indent:-10000px;}
+div#homepage div.moduletable_feed_surfmoot h3 {background-image:url('../images/h3_surfmoot.png');height:27px;border-top:none;text-indent:-10000px;}
+div#homepage div.moduletable_feed_rsm h3 {background-image:url('../images/h3_rsm.png');height:27px;border-top:none;text-indent:-10000px;}
+*/
+
+
+div#homepage div.moduletable_jevents_home h3 {background-image:url('../images/h3_calendar.png');height:27px;border-top:none;text-indent:-10000px;}
+div#homepage div.moduletable_facebook_home h3 {background-image:url('../images/h3_facebook.png');height:27px;border-top:none;text-indent:-10000px;}
+
+div#homepage div.moduletable_assets_home {margin-left:5px;margin-top:12px;}
+
+div#homepage div.moduletable_facebook_home .itp-fblike-box_facebook_home {padding:0;margin:2px 0 10px 5px;width:635px;}
+
+
+table.mod_events_latest_table {
+}
+
+.mod_events_latest {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-top: solid 1px red;
+	height: 30px;
+	}
+
+.mod_events_latest_first {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	height: 30px;
+	}
+
+.mod_events_latest_date {
+	font-size: 9px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:gray;
+	}
+
+
+.mod_events_latest_content a:link {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:gray;
+	}
+
+.mod_events_latest_content a:visited {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:gray;
+	}
+
+.mod_events_latest_content a:hover {
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#c0c0c0;
+	}
+
+div.mod_events_latest_callink {
+	margin-top: 8px;
+}
+div.mod_events_latest_callink a {
+	background: #E0E0E0;
+}
+
+.mod_events_latest_rsslink a {
+	text-decoration:none;
+	line-height:24px;
+}
+.mod_events_latest_rsslink img {
+	border:0px;
+	margin-right:10px;
+}

@@ -1,0 +1,15 @@
+---
+layout: default
+section: blog
+---
+
+<article class="page-content">
+  <h2>{{ page.title }}</h2>
+  <span class="blog-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+  <span class="blog-author">{{page.author}}</span>
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  {% include disqus.html %}
+</article>

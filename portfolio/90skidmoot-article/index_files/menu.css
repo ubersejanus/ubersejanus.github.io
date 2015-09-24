@@ -1,0 +1,163 @@
+#navigation {position:relative;z-index:99;height:38px;background-color:#eeeeee;border-bottom:1px #cccccc solid;border-top:1px #cccccc solid;}
+#navigation li {border:0;}
+#navigation, .sf-menu a, .sf-menu a:visited  {color:#dd291e;}
+#navigation img {margin-left:5px;}
+#nav-container {padding-bottom:8px;}
+
+/* *************************************************************************** */
+/* TOP ROW - FIRST LEVEL */
+/* *************************************************************************** */
+
+#navigation ul.menu {font-family:Trebuchet MS,Arial,sans-serif;}
+
+#navigation ul.menu li {padding:0px 0;float:left;text-align:center;}
+
+#navigation ul.menu li a, 
+#navigation ul.menu li span.separator {padding:11px 0 13px 0;font-weight:bold;font-size:14px;border-right:1px #eeeeee solid;border-left:1px #eeeeee solid;}
+
+#navigation ul.menu li:hover a,
+#navigation ul.menu li:hover span.separator  {background-color:#dddddd;border-right:1px #cccccc solid;border-left:1px #cccccc solid;color:#666666;}
+
+/* *************************************************************************** */
+/* DROP DOWNS - SECOND LEVEL */
+/* *************************************************************************** */
+
+#navigation ul.menu ul {width:18em;margin-top:8px;border-top:1px #cccccc solid;border-bottom:1px #cccccc solid;}
+#navigation ul.menu ul li {text-align:left;}
+
+#navigation ul.menu li:hover ul li a,
+#navigation ul.menu li:hover ul li span.separator {padding:.75em 1em;color:#666666;font-weight:normal;font-size:13px;background-color:#eeeeee;border-top:1px #eeeeee solid;border-bottom:1px #eeeeee solid;}
+
+#navigation ul.menu li:hover ul li.item286 span.separator,
+#navigation ul.menu li:hover ul li:hover a,
+#navigation ul.menu li:hover ul li:hover span.separator {background-color:#dddddd;border-top:1px #cccccc solid;border-bottom:1px #cccccc solid;}
+
+#navigation ul.menu li:hover ul li.parent a,
+#navigation ul.menu li:hover ul li.parent span.separator {background-image:url('../images/arrows-000000-half.png');background-repeat:no-repeat;background-position:100% 10px;}
+
+#navigation ul.menu li:hover ul li.item286 span.separator,
+#navigation ul.menu li:hover ul li.item286:hover span.separator {color:#dd291e;font-weight:bold;}
+
+#navigation ul.menu li:hover ul li.item452 a,
+#navigation ul.menu li:hover ul li.item452 span.separator {background-image:url('../images/padlock.png');background-repeat:no-repeat;background-position:100% 10px;}
+
+
+/* *************************************************************************** */
+/* THIRD LEVEL */
+/* *************************************************************************** */
+#navigation ul.menu li:hover ul li:hover ul li a,
+#navigation ul.menu li:hover ul li:hover ul li span.separator {background-color:#eeeeee;border-top:1px #eeeeee solid;border-bottom:1px #eeeeee solid;background-image:none;}
+
+#navigation ul.menu li:hover ul li:hover ul li:hover a,
+#navigation ul.menu li:hover ul li:hover ul li:hover span.separator {background-color:#dddddd;border-top:1px #cccccc solid;border-bottom:1px #cccccc solid;}
+
+#navigation ul.menu li:hover ul li:hover ul li.parent a,
+#navigation ul.menu li:hover ul li:hover ul li.parent span.separator {background-image:url('../images/arrows-000000-half.png');background-repeat:no-repeat;background-position:100% 10px;}
+
+#navigation ul.menu ul ul {margin:0 0 0 8em;}
+
+
+/* *************************************************************************** */
+/* FOUTH LEVEL */
+/* *************************************************************************** */
+#navigation ul.menu li:hover ul li:hover ul li:hover ul li a,
+#navigation ul.menu li:hover ul li:hover ul li:hover ul li span.separator {background-color:#eeeeee;border-top:1px #eeeeee solid;border-bottom:1px #eeeeee solid;background-image:none;}
+
+#navigation ul.menu li:hover ul li:hover ul li:hover ul li:hover a,
+#navigation ul.menu li:hover ul li:hover ul li:hover ul li:hover span.separator {background-color:#dddddd;border-top:1px #cccccc solid;border-bottom:1px #cccccc solid;}
+
+#navigation ul.menu ul ul ul {margin:0 0 0 8em;}
+
+
+
+/*
+#navigation ul.menu ul ul li.parent span.separator, #navigation ul.menu ul ul li.parent a {background-image:url('../images/arrows-000000-half.png');background-repeat:no-repeat;background-position:100% 10px;}
+*/
+
+
+/* *************************************************************************** */
+/* USER BAR */
+/* *************************************************************************** */
+/*
+#nav-container #userbar {background-color:#cccccc;padding:0;margin-bottom:20px;}
+#nav-container #userbar ul {list-style-type:none;height:30px;margin:0;padding:0;}
+#nav-container #userbar ul li {float:left;padding:0 8px;}
+*/
+
+#nav-container #userbar {margin:0;padding:0;}
+#nav-container #userbar .joinRoversBtn {float:left;margin:-5px 0 0 10px;}
+
+#nav-container #userbar .userbarLogin,
+#nav-container #userbar .userbarMember {padding:0 0 0 79px;margin:-11px 0 0 0px;float:right;background-image:url('login-bg-end.png');background-position:top left;background-repeat:no-repeat;}
+
+#nav-container #userbar .userbarLogin ul,
+#nav-container #userbar .userbarMember ul  {list-style-type:none;margin:0;padding:0;float:right;background-image:url('login-bg.png');background-repeat:repeat-x;height:46px;padding-top:10px;}
+
+#nav-container #userbar .userbarLogin ul li,
+#nav-container #userbar .userbarMember ul li {float:left;padding:0 8px;font-size:11px;}
+
+#nav-container #userbar .userbarLogin input,
+#nav-container #userbar .userbarMember input {font-size:11px;}
+
+#nav-container #userbar .userbarLogin input.button,
+#nav-container #userbar .userbarMember input.button {font-size:10px;border:1px #000000 solid;background-color:#dddddd;padding:1px 2px;color:#000000;font-weight:bold;margin-top:1px;}
+
+#nav-container #userbar .userbarLinks {float:left;}
+#nav-container #userbar .userbarLinks ul {list-style-type:none;margin:0 0 0 16px;padding:0;}
+#nav-container #userbar .userbarLinks ul li {float:left;margin:0 13px 0 0;}
+#nav-container #userbar .userbarLinks ul li a {font-size:11px;}
+#nav-container #userbar .userbarMemberContainer {background-image:url('../images/userbar-bg.png');background-repeat:repeat-x;height:56px;}
+
+/* *************************************************************************** */
+/* PAGE SUB MENU */
+/* *************************************************************************** */
+div.moduletable_menuLV2,
+div.moduletable_menuLV3 {height:20px;clear:both;}
+div.moduletable_menuLV2 h3,
+div.moduletable_menuLV3 h3 {display:block;float:left;font-size:11pt;background-color:#333333;color:#ffffff;padding:4px 6px;border:1px #666666 solid;}
+div.moduletable_menuLV2 ul.menu,
+div.moduletable_menuLV3 ul.menu {list-style-type:none;}
+div.moduletable_menuLV2 ul.menu li a,
+div.moduletable_menuLV3 ul.menu li a {display:block;float:left;background-color:#ffffff;color:#000000;padding:4px 6px;border:1px #666666 solid;margin:0 0 5px -1px;}
+div.moduletable_menuLV2 ul.menu li#current a,
+div.moduletable_menuLV3 ul.menu li#current a,
+div.moduletable_menuLV2 ul.menu li#currentsubmenu a,
+div.moduletable_menuLV3 ul.menu li#currentsubmenu a,
+div.moduletable_menuLV2 ul.menu li.currentsubmenu a,
+div.moduletable_menuLV3 ul.menu li.currentsubmenu a {background-color:#999999;}
+div.moduletable_menuLV2 ul.menu li a:hover,
+div.moduletable_menuLV3 ul.menu li a:hover {text-decoration:none;background-color:#CCCCCC;}
+
+/* OVERRIDE DEFAULTS */
+
+.sf-menu a, 
+.sf-menu li .separator {display:block;border:0;text-decoration:none;}
+
+.sf-menu li,
+.sf-menu #current,
+.sf-menu li.active {background:inherit;}
+
+.sf-menu li li, 
+.sf-menu li li li,
+.sf-menu li #current, 
+.sf-menu li li.active {background:#ffffff;}
+
+.sf-menu li:hover, 
+.sf-menu li.sfHover,
+.sf-menu #current.sfHover, 
+.sf-menu li #current.sfHover,
+.sf-menu li #current a:hover,
+.sf-menu li li.active a:hover,
+.sf-menu a:focus, 
+.sf-menu a:hover, 
+.sf-menu a:active {background:none;outline:0;}
+
+.sf-menu a.sf-with-ul {padding-right:2.25em;min-width:1px;}
+
+.sf-sub-indicator {position:absolute;display:block;right:.75em;top:1.05em;width:10px;height:10px;text-indent:-999em;overflow:hidden;background:none;}
+
+/* SPECICAL ITEMS */
+/*
+ul.sf-menu li li.sfHover ul {left:15em;top:0;}
+ul.sf-menu li li li.sfHover ul {left:15em;top:0;}
+*/

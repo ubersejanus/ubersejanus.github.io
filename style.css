@@ -1,0 +1,179 @@
+body {
+	color:#eee;
+	margin:0px;
+	font:normal 14px/17px Arial, Helvetica, sans-serif; 
+	background-color:#373737; }
+
+h1 {
+  	margin:0; 
+  	font-size:40px; 
+  	line-height:40px; 
+  	font-weight:bold; }
+
+h2 {
+	margin-top:20px;
+	font-size:30px; } 
+	
+h3 {	
+	color:#FFD700; }	
+	
+h4 {
+	color:#F0D855; } 	
+
+p {
+	margin-left:25px;
+	margin-right:25px;
+	margin-bottom:10px; }
+
+a:link {
+        color:#57A3E8;
+        text-decoration:none; }
+
+a:visited {
+        color:#57A3E8;
+        text-decoration:none; }
+
+a:hover {
+        color:#429ED7; }
+
+header {padding-top:10px;
+	min-height:50px;
+	margin-left:7px;
+	margin-right:7px;
+	border-bottom:1px solid #666; }
+
+#siteheader {
+	padding-left:45px;
+	margin-bottom:0px;
+	height:45px;
+	color:#eee; }
+	
+@media (max-width:500px) {
+   #siteheader {
+	padding-left:0px;
+	text-align:center;
+	margin-left: -50px;
+   }
+}
+
+.sitelinks {
+	padding-left:40px;
+	line-height:43px;
+	height:43px;
+	color:#eee; }
+
+.sitelinks a {
+	padding-right:2.5%; }
+
+@media (max-width:500px) {
+   .sitelinks {
+	padding-left:0px;
+	text-align:center;
+   }
+}
+
+.currentpage {
+	font-weight:bold;
+	text-shadow: 0px 0px 10px #57A3E8; }
+
+.links {
+	height:80;
+	float:right;
+	padding-right:20px; }
+
+@media (max-width:500px) {
+   .links {
+	float:none;
+	text-align:center;
+   }
+}
+
+.link-img {
+	padding-top:1px;
+	padding-right:5px;
+	padding-bottom:2px;
+	fill:#eee; }
+
+.link-img:hover {
+  	opacity:0.7; }
+
+section {
+	margin-bottom:25px;
+	color:#F6F6F6; }
+
+#coverpicture {
+	width:100%;
+	height:400px; }
+	
+.col2 {
+	-webkit-column-count:2;
+	-moz-column-count:2;
+	column-count:2; }
+
+.page-content {
+	margin-top:14px;
+	width:93%;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;}
+
+.page-content p {
+	margin:auto;
+	margin-bottom:10px;}
+
+footer {
+	border-top:1px solid #666;
+	height:20px }
+
+footer p {
+	text-align:right; 
+	font-size:10px;
+	height:20px; }
+	
+.resume-head {
+	color:#FFD700;
+	text-align:right;
+	margin-bottom:5px; }
+	
+.resume-head-info {
+	text-align:right;
+	margin-bottom:0px !important; }
+	
+.resume-date {
+	float:right; }
+	
+.resume-title {
+	 font-style: italic; }
+	 
+.resume-sub {
+	margin-bottom:3px; }
+	 
+.highlight {
+	color:#F0D855; }
+	
+.highlight-point {
+	color:#F0D855;
+	margin-top:14px; 
+	margin-bottom:0px !important; }
+
+.highlight-ul {
+	margin-top:1px; }
+	
+.snapshot {
+	font-family:Helvetica,Arial,sans-serif;
+	background-color:#FF6666;
+	height:23px;
+	line-height:23px;
+	text-align:center;
+	font-weight:bold;
+	font-size:12px;
+	color:#333; }
+
+div.snapshot a, a:link, a:visited {
+	color: #3366cc; }
+	
+.mirror {
+	font-size:12px; }
+	
+.centre {
+	text-align:center; }
