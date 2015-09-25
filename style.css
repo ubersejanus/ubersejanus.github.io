@@ -223,6 +223,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 
 .blog-image-centre img, .blog-image-left img, .blog-image-right img {
 	max-width:100%;
+	max-height:100%;
 	margin-bottom:0px;
 }
 
