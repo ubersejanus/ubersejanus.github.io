@@ -33,7 +33,7 @@ paginate_path: "/blog/page:num/"
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year:month:day/:title
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
