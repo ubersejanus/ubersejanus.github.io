@@ -217,7 +217,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	max-width: 20%;
 }
 
-[class^="blog-image-"] p, div[class*=" blog-image-"] p
+[class^="blog-image-"] p, div[class*=" blog-image-"] p {
 	margin-top:0px;
 	margin-bottom:0px;
 	line-height:95%;}
