@@ -198,7 +198,25 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	font-size: 90%;
 }
 
-.blog-image-centre p {
+.blog-image-left {
+	float:left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 3px;
+	text-align: right;
+	font-size: 90%;
+}
+
+.blog-image-right {
+	float:right;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 3px;
+	text-align: right;
+	font-size: 90%;
+}
+
+.blog-image-centre p, .blog-image-left p, .blog-image-right p {
 	margin-top:0px;
 	margin-bottom:0px;
 	line-height:95%;}
