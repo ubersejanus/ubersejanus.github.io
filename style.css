@@ -192,3 +192,6 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 .blog-image-centre img {
 	width:75%;
 }
+
+.comments {
+	margin-top:30px; }
