@@ -254,7 +254,7 @@ The final day was scheduled as &#8220;reflections day&#8221;, but a better name 
 
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17285588491/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_z_d.jpg" alt="An official Photograph of the Australian Contingent" width="240" height="180" /></a>
+  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_z_d.jpg" alt="An official Photograph of the Australian Contingent" /></a>
   <p>I am so pleased that this is legitimately an official Contingent Photograph</p>
 </div>
 
