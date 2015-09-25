@@ -202,3 +202,9 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 
 .comments {
 	margin-top:30px; }
+
+blockquote {
+	display: block;
+	width: 80%;
+	font-style: italic;
+	margin-left: 7%; }
