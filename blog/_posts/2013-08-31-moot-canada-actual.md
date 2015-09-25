@@ -309,6 +309,6 @@ This time I was all by myself as my companion from the ride over was going home 
 
 The staff of both airlines were very helpful though, so I was able to find my way to a Qantas plane named after Reginald Ansett. And after that? Melbourne!
 
-<div style="text-align:center; font-style:italic;">The thrilling tale of my 2013 trip to the other side of the planet <a title="began here" href="http://blog.bpeters.id.au/2013/08/30/getting-to-the-14th-world-moot/" rel="prev">began here</a></p>
+<div style="text-align:center; font-style:italic;">The thrilling tale of my 2013 trip to the other side of the planet <a title="began here" href="/blog/2013-08-moot-canada-pretour/" rel="prev">began here</a></p>
 <p>More photos about my Moot experience are in <a href="https://www.flickr.com/photos/ubersejanus/sets/72157641973511214/" target="_blank">this Flickr album</a>.</p>
 </div>
