@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Moot
+title: World Moot - A Blow-by-blow Account
 author: Brad Peters
 date:   2013-08-31 12:00
 section: blog
@@ -8,13 +8,13 @@ category: travel
 tags: moots, rovers
 ---
 
-What I got up to at Awacamenj Mino Scout Camp, with a side order of Ottawa and Quebec City
+Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mino Scout Camp, a few trips to Ottawa, and my Urban Experience in Quebec City.
 
 ###Moot Begins!
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/17284275172/" target="_blank">
-  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_m_d.jpg" />
-  <p>Photobombing was a hobby of mine at Moot (and in life)</p></a>
+  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_m_d.jpg" /></a>
+  <p>Photobombing was a hobby of mine at Moot (and in life)</p>
 </div>
 
 Once breakfast was over, it was time to walk down to the Canadian Parliament, kick back and wait for the Governor-General to show up and officially start the show. Turns out that the Australian flag had been misplaced, but luckily we had been using a flag taped to Pete's Oar as a "follow me" beacon so no harm, no foul, I suppose.
@@ -27,8 +27,8 @@ But at length, the Canadian Governor-General arrived, and he made his way up the
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12975847024/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_m_d.jpg" />
-  <p>Rovers waiting for the opening ceremony in front of Parliament</p></a>
+  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_m_d.jpg" /></a>
+  <p>Rovers waiting for the opening ceremony in front of Parliament</p>
 </div>
 
 But, with the GG's Personal Standard fluttering high above, it was time to begin.
@@ -43,8 +43,8 @@ The Moot team had put us into Patrols based on our choice of "Urban Experience" 
 ###Settling In
 <div style="width: 250px" class="wp-caption alignleft">
   <a href="https://www.flickr.com/photos/ubersejanus/17286098345/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_m_d.jpg" alt="Picture of my Patrol" />
-  <p>Patrol 147</p></a>
+  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_m_d.jpg" alt="Picture of my Patrol" /></a>
+  <p>Patrol 147</p>
 </div>
 
 When the buses pulled up, we were excited to see that they were the iconic yellow North American school buses. That excitement lasted only as long as it took to climb aboard.
