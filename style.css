@@ -190,18 +190,16 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-right: auto;
 	margin-top: 15px;
 	margin-bottom: 15px;
-	width: 70%;
+	width: 55%;
 	border: 1px solid #ccc;
 	padding: 3px;
 	text-align: center;
 	font-size: 90%;
 }
 
-.blog-image-centre {
-	margin-bottom:0px; }
-
 .blog-image-centre img {
 	max-width:100%;
+	margin-bottom:0px;
 }
 
 .comments {
