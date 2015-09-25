@@ -35,6 +35,9 @@ a:visited {
 
 a:hover {
         color:#429ED7; }
+        
+.blog-link a {
+	color:#eee; }
 
 header {padding-top:10px;
 	min-height:50px;
