@@ -2,7 +2,7 @@
 layout: post
 title: Neil Armstrong (1930-2012)
 author: Brad Peters
-date:   2012-08-26 12:00:00
+date:   2012-08-26
 section: blog
 category: travel
 tags: in memoriam, space
@@ -11,9 +11,6 @@ tags: in memoriam, space
 I came home from a weekend away to find that Neil Armstrong, the “one small step for man” guy, died on Saturday.
 
 [![XKCD #893 - A graph of the number of living humans who have walked on another world, projected from actuarial tables](http://imgs.xkcd.com/comics/65_years.png "XKCD #893: 65 Years")](http://xkcd.com/893/)
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-[Jekyll Now](http://github.com/barryclark/jekyll-now/)
 
 Childhood hero bites the dust.
 
