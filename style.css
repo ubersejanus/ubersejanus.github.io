@@ -180,3 +180,15 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	
 .centre {
 	text-align:center; }
+
+.blog-image-centre {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.blog-image-centre img {
+	width:75%;
+}
