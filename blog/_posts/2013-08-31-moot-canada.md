@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Moot: A blow-by-blow account
+title: World Moot
 author: Brad Peters
 date:   2013-08-31 12:00
 section: blog
