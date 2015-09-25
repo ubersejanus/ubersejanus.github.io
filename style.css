@@ -239,15 +239,13 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-top:0px;
 	margin-bottom:0px;
 	margin-left:10px;;
-	line-height:95%;
-	max-width:200px; }
+	line-height:95%; }
 
 [class^="blog-image-right"] p, div[class*=" blog-image-right"] p, .blog-image-centre p {
 	margin-top:0px;
 	margin-bottom:0px;
 	margin-right:10px;;
-	line-height:95%;
-	max-width:200px; }
+	line-height:95%; }
 
 [class^="blog-image-"] img, div[class*=" blog-image-"] img {
 	max-width:100%;
