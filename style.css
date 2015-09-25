@@ -215,7 +215,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:left;
 	font-size:90%;
-	max-height:200px; }
+	max-width:310px; }
 
 .blog-image-right-port {
 	float: right;
@@ -233,7 +233,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:right;
 	font-size:90%;
-	max-height:200px; }
+	max-width:310px; }
 
 [class^="blog-image-"] p, div[class*=" blog-image-"] p {
 	margin-top:0px;
