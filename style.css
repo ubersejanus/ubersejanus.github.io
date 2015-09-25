@@ -129,9 +129,10 @@ footer p {
 	text-align:right; 
 	font-size:10px;
 	height:20px;
-	margin-left: 25px;
-	margin-right: 25px;
-	margin-bottom: 5px; }
+	margin-left:25px;
+	margin-right:25px;
+	margin-bottom:5px;
+	margin-top:5px; }
 	
 .resume-head {
 	color:#FFD700;
@@ -199,13 +200,24 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	font-size: 90%;
 }
 
-.blog-image-left {
+.blog-image-left-port {
 	float: left;
-	margin-right: 15px;
+	margin-right:15px;
+	margin-bottom:5px;
 	padding: 3px;
 	text-align: left;
 	font-size: 90%;
-	max-width: 20%;
+	max-width: 200px;
+}
+
+.blog-image-left-land {
+	float: left;
+	margin-right:15px;
+	margin-bottom:5px;
+	padding: 3px;
+	text-align: left;
+	font-size: 90%;
+	max-height: 200px;
 }
 
 .blog-image-right {
@@ -222,7 +234,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-bottom:0px;
 	line-height:95%;}
 
-.blog-image-centre img, .blog-image-left img, .blog-image-right img {
+[class^="blog-image-"] img, div[class*=" blog-image-"] img {
 	max-width:100%;
 	max-height:100%;
 	margin-bottom:0px;
