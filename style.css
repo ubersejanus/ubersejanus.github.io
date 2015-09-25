@@ -12,7 +12,8 @@ h1 {
 
 h2 {
 	margin-top:20px;
-	font-size:30px; } 
+	font-size:30px;
+	line-height: 30px;} 
 	
 h3 {	
 	color:#FFD700; }	
@@ -216,7 +217,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	max-width: 20%;
 }
 
-.blog-image-centre p, .blog-image-left p, .blog-image-right p {
+[class^="blog-image-"] p, div[class*=" blog-image-"] p
 	margin-top:0px;
 	margin-bottom:0px;
 	line-height:95%;}
