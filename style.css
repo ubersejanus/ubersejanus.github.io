@@ -36,7 +36,7 @@ a:visited {
 a:hover {
         color:#429ED7; }
         
-.blog-link a {
+.blog-link {
 	color:#eee; }
 
 header {padding-top:10px;
@@ -172,7 +172,7 @@ footer p {
 	font-size:12px;
 	color:#333; }
 
-div.snapshot a, a:link, a:visited {
+div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	color: #3366cc; }
 	
 .mirror {
