@@ -108,7 +108,9 @@ section {
 	height:400px; }
 	
 .col2 {
-	column-count:2; }
+	column-count:2;
+	-webkit-column-count:2;
+	-moz-column-count:2; }
 
 .page-content {
 	margin-top:14px;
