@@ -11,9 +11,9 @@ tags: moots, rovers
 Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mino Scout Camp, a few trips to Ottawa, and my Urban Experience in Quebec City.
 
 ###Moot Begins!
-<div class="blog-image-left">
+<div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/17284275172/" target="_blank">
-  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_z_d.jpg" /></a>
+  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_m_d.jpg" /></a>
   <p>Photobombing was a hobby of mine at Moot (and in life)</p>
 </div>
 
@@ -25,9 +25,9 @@ We got there in reasonable time, and were able to secure ourselves a reasonable 
 
 But at length, the Canadian Governor-General arrived, and he made his way up the central aisle through all the Rovers waiting. He seemed like a pretty good guy — Frizzy Lizzy even managed to get herself a selfie with him, but I'm not sure if he was aware of it or if she just stood there waiting for him to walk past.
 
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12975847024/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_z_d.jpg" /></a>
+  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_m_d.jpg" /></a>
   <p>Rovers waiting for the opening ceremony in front of Parliament</p>
 </div>
 
@@ -41,9 +41,9 @@ Once we were officially open for business, there was a brief pause while we wait
 The Moot team had put us into Patrols based on our choice of "Urban Experience" with a secondary goal of exposing us to a variety of cultures. I thus I found myself in a patrol with Sophie from the UK, Jerone from The Netherlands, Karine from Brazil, Pablo and Betty from Mexico and Ida from Finland. We met up and were issued with box lunches and directed to wait over there for the buses to arrive.
 
 ###Settling In
-<div class=blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17286098345/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_z_d.jpg" alt="Picture of my Patrol" /></a>
+  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_m_d.jpg" alt="Picture of my Patrol" /></a>
   <p>Patrol 147</p>
 </div>
 
@@ -55,9 +55,9 @@ None too soon, we made it to the site and were told that we needed to wait for t
 
 We were able to find most of our bags, and we set off for Subcamp Two to find our campsite. Conveniently, we were actually pretty near to the eating area/entrance and a reasonable distance from the collection of porta-potties that were supplementing the woefully inadequate amenities that were at the site. There was also a cold-water shower not too far away. As we set up our tents, we were joined by many other patrols and before we knew it, it was time for the first of only a handful of community dinners that were scheduled.
 
-<div class="blog-image-right">
+<div class="blog-image-right-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12975704985/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_z_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_m_d.jpg" alt="" /></a>
   <p>Comparitive picture of flagpole height outside Contingent tents</p>
 </div>
 
@@ -74,9 +74,9 @@ Lethal and I both agreed with our glorious leader, Pete that this could not be a
 Well the Mexicans saw our large pole, and spent the next hour building an elaborate tripod to hold up an even larger flagpole which was an entire tree and may or may not have been specially felled for the purpose. But that was OK, as immediately behind our tent was a small stand of pine trees, pine trees that Lethal proceeded to climb and with my help, dragged our large flapole up about 15-20 metres to the top of the tree where we again claimed our rightful place on the top of the flag-height tables.
 
 ###Activity Phase
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976157294/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7360/12976157294_7e16ef574b_z_d.jpg" alt="The beginnings of a campfire" /></a>
+  <img src="https://farm8.staticflickr.com/7360/12976157294_7e16ef574b_m_d.jpg" alt="The beginnings of a campfire" /></a>
   <p class="wp-caption-text">The beginnings of a campfire</p>
 </div>
 
@@ -84,9 +84,9 @@ The Moot was designed so that for most of the time, only half of the participant
 
 Our afternoon activity was much more fun, we went paddling on the lake, charmingly known as "Lac de Iîle" &#8211; but only after receiving a pretty terrible "briefing" from an Archery leader from the UK who was at least open about the fact that he had absolutely zero knowledge of the activity beyond the simple stuff on his info sheet. So we set off around the island and after a while we rafted up and had a bit of a lay down just talking about our experiences so far. Half an hour later, we'd drifted to the far end of the lake and figured that it would be a good time to head back to shore.
 
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12975760885/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_z_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_m_d.jpg" alt="" /></a>
   <p>Rideau Canal in operation</p>
 </div>
 
@@ -96,9 +96,9 @@ Our second day of activities, was offsite in Ottawa. We were supposed to spend t
 
 Brother Gogerly and I ended up spending quite a bit of time hanging out by the Poutine stand, which was next to the protocol tent, where Guy and his team of VIP welcomers hung out. I didn't see many VIPs in our time there, but when we were allowed to sign the Big Book of Quebec Scouting Events, I saw that there had been quite a few coming in. We were also involved in the raising and lowering of the many Moot Canada flags when happened to be around at the at the right times, and one night when all his offsiders were out doing stuff and there were no Canadians were about to help, I even got to take down the Canadian flag. I suppose he figured that I'm a subject of the right Queen (Strangely, there were not a lot of Canadians at Moot Canada&#8230;)
 
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976462863/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_z_d.jpg" alt="" /></a>
+  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_m_d.jpg" alt="" /></a>
   <p>Flagpoles in the main arena. Guy&#8217;s tent has a stand of flags front of it</p>
 </div>
 
@@ -112,9 +112,9 @@ Another thing that happened during this part of the Moot, a number of participan
 Food at the Moot was an interesting experience. We were cooking in Patrols for most meals, aside from Breakfasts which were in the Main Tent and generally consisted of a Croissant, a piece of fruit, a small tub of yogurt and a juice box, and the infamous "community dinners" — so we had some level of control over our meals. Unfortunately, the ingredients we were issued were quite limited &#8211; one poor girl was allergic to all of it, and despite being on the "special diets" list still ended up getting admitted to the local hospital after not eating for several days. Worst of all, everyone was issued bunches and bunches of celery at every meal. It was even written into the job descriptions for the next Australian Moot that Celery was not to be permitted on site&#8230; that's how much celery we had!
 
 ###Cultural Day
-<div blog-image-right">
+<div class="blog-image-right-port">
   <a href="https://www.flickr.com/photos/ubersejanus/17098324108/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7674/17098324108_524ddd306c_z_d.jpg" alt="A bit of singing before the rugby" /></a>
+  <img src="https://farm8.staticflickr.com/7674/17098324108_524ddd306c_m_d.jpg" alt="A bit of singing before the rugby" /></a>
   <p>A bit of singing before the rugby <br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 </div>
 
@@ -128,9 +128,9 @@ But before then it was lunchtime. Many people had brought to the Moot food from 
 
 Of course, that meant we had to explain what a meat tray was&#8230; In the end we called it a meat lottery and that got the point across, especially when we mentioned that one of the prizes was in fact a breakfast tray, complete with delicious bacon. Anyway, we set up the barbecue at the back of the tent and started spreading the word. I ended up manning the sauce bottle, and found that the people manning the plate had passed on a wide array of inappropriate "traditional australian thank-yous". In the face of such blind instruction-following, I had no choice but to tell them they were being too timid, that the key to using such phrases was confidence, and that they needed to try again before I'd sauce them.
 
-<div class+"blog-image-left">
+<div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/17099896519/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_z_d.jpg" alt="Anzac Rugby Team" /></a>
+  <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_m_d.jpg" alt="Anzac Rugby Team" /></a>
   <p class="wp-caption-text">Anzac Contingent Rugby Team<br /> Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 </div>
 
@@ -143,9 +143,9 @@ By the time we were allowed out again, it was almost time for another one of the
 After dinner, a group were discussing the dating profiles that they had put up in the "Rainbow Cafe" and the number of propositions that they had received. I mentioned that I didn't know where the Rainbow Cafe was, let alone received any responses and the group decided that this was unacceptable. Ferret grabbed me by the arm and walked me all the way from the Main Tent down to the Rainbow Cafe, which was down by the lake. As we approached, we saw that they were having a "movie night" and when we got near the door, Ferret was vocal in what &#8230; parts of the human anatomy she could see in the film being shown. For some reason Alisha wouldn't let her in after that.
 
 ###Quebec City
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976267944/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7368/12976267944_48a33b5fab_z_d.jpg" alt="Photos of Rovers enjoying a tasty meal" /></a>
+  <img src="https://farm8.staticflickr.com/7368/12976267944_48a33b5fab_m_d.jpg" alt="Photos of Rovers enjoying a tasty meal" /></a>
   <p>Dinner in Quebec</p>
 </div>
 
@@ -153,9 +153,9 @@ My Urban Experience was in Quebec. Figuring that since we were in for such a lon
 
 After so long at Awacamenj Mino, just seeing the University cafeteria was like mana from heaven. We had choice, multiple courses and didn't have to cook it ourselves. It was amazing.
 
-<div class="blog-image-left">
+<div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12976150003/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
+  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_m_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
   <p>Looking over the Pasage du Chien-d&#8217;Or as twilight falls</p>
 </div>
 
@@ -164,9 +164,9 @@ The Old Town is the part of Quebec City which is within the town wall. The entir
 
 The most impressive part of the city is of course the glorious Château Frontenac, which despite looking like a grand French building from the glorious days (if any) of New France, was in fact built by the Canadian Pacific Railway in 1893. I'm sure that other pieces of fairytale architecture there have similarly banal details behind them&#8230; but pay no attention them, as Old Quebec is a fantastically beautiful part of the world regardless of how old the buildings actually are.
 
-<div class="blog-image-right">
+<div class="blog-image-right-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12976205705/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_z_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
+  <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_m_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
   <p>Eating lunch at Village-Des-Hurons</p>
 </div>
 
@@ -178,9 +178,9 @@ Then it was time for lunch, so we abled back into town along the river where we 
 
 We had over an hour for lunch, so after we&#8217;d finished eating, I went for a walk down main street with a group of Rovers from Sydney&#8230; Really stretching my horizons, right? Anyway, there were a bunch of stores and I picked up a number of hand-made souvenirs. I also spotted a traditional &#8220;tennis racket&#8221; snow shoe on display next to a lightweight, modern alternative.
 
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976264975/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7446/12976264975_3408ec1a6e_z_d.jpg" alt="Craftsmen build a canoe using traditional methods at the museum" /></a>
+  <img src="https://farm8.staticflickr.com/7446/12976264975_3408ec1a6e_m_d.jpg" alt="Craftsmen build a canoe using traditional methods at the museum" /></a>
   <pCraftsmen build a canoe using traditional methods at the museum</p>
 </div>
 
@@ -192,9 +192,9 @@ A trip to the town's catholic church, Église Notre-Dame-de-Lorette came next. I
 
 Soon, we were back on the bus to the University, where it was time for dinner. Coincidentally, this dinner was when I met Jenna, who has a bit part later on. Anyway, we had some sense that after dinner, we would be going &#8230; somewhere, but surprise, surprise, no one I hd spoken to knew anything specific about these plans. As we discussed this problem over dinner, we agreed that we should track down one of the people running this urban experience and ask them for the details. On the way out, I spotted a person in a red scarf. After quickly confirming with my Moot Handbook that people with red scarves were indeed important, I went over and introduced myself.
 
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976431163/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3822/12976431163_7b95d41cd1_z_d.jpg" alt="Large fountain outside Parlement de Quebec" /></a>
+  <img src="https://farm4.staticflickr.com/3822/12976431163_7b95d41cd1_m_d.jpg" alt="Large fountain outside Parlement de Quebec" /></a>
   <p>Large fountain outside Parlement de Quebec</p>
 </div>
 
@@ -202,9 +202,9 @@ Unfortunately, he was a Québécois and didn't have a good understanding of engl
 
 As it was already after six, I did my best to help spread the word. Eventually, we were all hanging around the buses and were informed that the activity planned for the night was in fact an indoor beach party. For some reason this didn&#8217;t go down well, but since it was the beach and the expedition team had gone to such an effort, about half a bus full of Australians and one really keen Irishman climbed aboard, whilst the rest of the group negotiated to get taken back into the city. After a while, they got that sorted out and it became clear that they needed some of the seats on our bus. We weren't particularly fussed, but did feel bad for the two Canadien girls who had set the whole thing up for us.
 
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976722224/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2392/12976722224_2a15745d45_z_d.jpg" alt="La Promenade des Gouverneurs after an evening shower" /></a>
+  <img src="https://farm3.staticflickr.com/2392/12976722224_2a15745d45_m_d.jpg" alt="La Promenade des Gouverneurs after an evening shower" /></a>
   <p>La Promenade des Gouverneurs after an evening shower</p>
 </div>
 
@@ -217,9 +217,9 @@ This proved to be somewhat of a blessing, as the showers weren&#8217;t too heavy
 It was right on midnight when our little group made it back to the city armoury, but the buses were nowhere to be seen. Five minutes passed, then ten. Finally, they appeared at 1am. The buses pulled up, and everyone stood there. A Sydney Rover with dreadlocks sprang into action, marshalling people into place. I gave him a hand, and for my trouble I was rewarded with all the seats on my bus being full when I was ready to jump on. I ended up heading back on the bus behind :'( I&#8217;m pretty sure I didn&#8217;t get any sleep on that ride, so at least I got to hit up each Tim Horton&#8217;s on the way as we drove through the night. We reached the campsite as breakfast was being served, so I grabbed myself a handful of croissants and headed back to my tent.
 
 ###Goodbyyyye
-<div class="blog-image-left">
+<div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12976335695/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_z_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
+  <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_m_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
   <p>Contingent Communication System</p>
 </div>
 <p>With the return of the second group of Urban Experiencers, the Moot was on the wind-down. By the time I woke up again, this notice had appeared at the &#8220;door&#8221; of the contingent tent — it was slightly more colourful than the comparable signs on other tents, although the gist was the same&#8230;
@@ -228,9 +228,9 @@ But more importantly, we had unfinished business with the United Kingdom. Our Ru
 
 We got straight down to brass tacks this time, not bothering with the formalities of shouting at each other. My second ever stint on the rugby field showed that my skills from primary school hadn&#8217;t left me. I was able to catch the ball and then legally pass it to a teammate. Success!
 
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17286098195/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7690/17286098195_22dcdd3440_z_d.jpg" alt="Photo of a tackle in the rugby game ... I'm helping!" /></a>
+  <img src="https://farm8.staticflickr.com/7690/17286098195_22dcdd3440_m_d.jpg" alt="Photo of a tackle in the rugby game ... I'm helping!" /></a>
   <p>Photo of a tackle in the rugby game &#8230; I&#8217;m helping!</p>
 </div>
 
@@ -240,9 +240,9 @@ It soon became apparent that while we were out for a good time, our opposition w
 
 Once the rugby was over, it was time for the Australia &#8211; England cricket match. Along the north side of the cricket field we set up Bay 13, because &#8216;strayla. The crowd was very well behaved though, while they may have heckled the English batsmen all through the first innings; they were just a quick to stick it to Scotto, the wicketkeeper, and to the rest of our own team after the changeover. I think a bowler or two may also have copped it.
 
-<div class="blog-image-left">
+<div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/17098541510/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_z_d.jpg" alt="Photo of some Victorians" /></a>
+  <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_m_d.jpg" alt="Photo of some Victorians" /></a>
   <p>Apparently this is the &#8220;Family Portrait&#8221; I feel like I&#8217;m a foster brother</p>
 </div>
 
@@ -252,9 +252,9 @@ If, indeed anyone had bothered to create any&#8230;
 
 The final day was scheduled as &#8220;reflections day&#8221;, but a better name would have been &#8220;photograph day&#8221;, as there were &#8216;official&#8217; pictures being taken left, right and centre. If you had a look at the photo of our official contingent messaging system earlier, you&#8217;ll see that while we needed our shirt and scarf for the official photograph, pants were optional — as per one particular reading of Policy &amp; Rules. There had been some friction between different groups due to the requirement that National Contingents wear stone coloured pants, but as you can see below on the right, we fixed that problem. There was even a picture taken of everyone who was at Moot&#8230; it took a lot of organisation, and took soooooooo loooooong.
 
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17285588491/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_z_d.jpg" alt="An official Photograph of the Australian Contingent" width="240" height="180" /></a>
+  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_m_d.jpg" alt="An official Photograph of the Australian Contingent" width="240" height="180" /></a>
   <p>I am so pleased that this is legitimately an official Contingent Photograph</p>
 </div>
 
@@ -264,9 +264,9 @@ After the afternoon of photography was completed, it was time for one last inter
 
 Finally, it was time for the closing ceremony.
 
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976716125/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3354/12976716125_c756242698_z_d.jpg" alt="Photo of the closing ceremony MC" /></a>
+  <img src="https://farm4.staticflickr.com/3354/12976716125_c756242698_m_d.jpg" alt="Photo of the closing ceremony MC" /></a>
   <p>The MC of the closing ceremony
 </div>
 
@@ -281,9 +281,9 @@ The easiest spot to party was in the main tent as once the band had played the M
 Unfortunately, I wasn&#8217;t up to much jumping after that Englishman landed on my knee and I departed the area pretty quick, making a last trip around the site and swapping my Contingent softshell for an Argentinean jacket. I&#8217;d hoped that my knee would stop hurting but surprisingly, all that walking didn&#8217;t do it much good. So I was probably one of the earlier people to head to bed.
 
 ###The Voyage Home</h1>
-<div class="blog-image-right">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976922393/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_z_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>
+  <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_m_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>
   <p class="wp-caption-text">Ottawa Airport Base Camp</p>
 </div>
 
@@ -293,9 +293,9 @@ Reaching the waiting area, I discovered that Brother Gogerly had obtained a whol
 
 It was many, many hours before our flights were to depart, so a base camp was soon set up by the guys who were going home on the contingent organised flights. Since I was leaving about the same time as them, I joined them in huddling around the two undefended power points we were able to find — Ross had been prepared enough to bring a power board along with him, so everyone was able to get their stuff all charged up for the journey home.
 
-<div class="blog-image-left">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12977212094/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2621/12977212094_5bb91b8e87_z_d.jpg" alt="LAX had plenty of people during this visit. This was not appreciated" /></a>
+  <img src="https://farm3.staticflickr.com/2621/12977212094_5bb91b8e87_m_d.jpg" alt="LAX had plenty of people during this visit. This was not appreciated" /></a>
   <p class="wp-caption-text">LAX by night&#8230; too many people!</p>
 </div>
 
