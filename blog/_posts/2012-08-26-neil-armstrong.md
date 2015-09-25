@@ -11,7 +11,9 @@ tags: in memoriam, space
 I came home from a weekend away to find that Neil Armstrong, the “one small step for man” guy, died on Saturday.
 
 <div class="blog-image-centre">
-[![XKCD #893 - A graph of the number of living humans who have walked on another world, projected from actuarial tables](http://imgs.xkcd.com/comics/65_years.png "XKCD #893: 65 Years")](http://xkcd.com/893/)
+  <a href="http://xkcd.com/893/" target="_blank">
+    <img src="http://imgs.xkcd.com/comics/65_years.png" alt="XKCD #893 - A graph of the number of living humans who have walked on another world, projected from actuarial tables"
+    <p>XKCD #893: 65 Years</p>
 </div>
 
 Childhood hero bites the dust.
