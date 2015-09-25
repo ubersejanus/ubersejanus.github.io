@@ -128,7 +128,7 @@ But before then it was lunchtime. Many people had brought to the Moot food from 
 
 Of course, that meant we had to explain what a meat tray was&#8230; In the end we called it a meat lottery and that got the point across, especially when we mentioned that one of the prizes was in fact a breakfast tray, complete with delicious bacon. Anyway, we set up the barbecue at the back of the tent and started spreading the word. I ended up manning the sauce bottle, and found that the people manning the plate had passed on a wide array of inappropriate "traditional australian thank-yous". In the face of such blind instruction-following, I had no choice but to tell them they were being too timid, that the key to using such phrases was confidence, and that they needed to try again before I'd sauce them.
 
-<div class="blog-image-left-port">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17099896519/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_z_d.jpg" alt="Anzac Rugby Team" /></a>
   <p class="wp-caption-text">Anzac Contingent Rugby Team<br /> Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
@@ -153,7 +153,7 @@ My Urban Experience was in Quebec. Figuring that since we were in for such a lon
 
 After so long at Awacamenj Mino, just seeing the University cafeteria was like mana from heaven. We had choice, multiple courses and didn't have to cook it ourselves. It was amazing.
 
-<div class="blog-image-left-port">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976150003/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
   <p>Looking over the Pasage du Chien-d&#8217;Or as twilight falls</p>
@@ -164,7 +164,7 @@ The Old Town is the part of Quebec City which is within the town wall. The entir
 
 The most impressive part of the city is of course the glorious Château Frontenac, which despite looking like a grand French building from the glorious days (if any) of New France, was in fact built by the Canadian Pacific Railway in 1893. I'm sure that other pieces of fairytale architecture there have similarly banal details behind them&#8230; but pay no attention them, as Old Quebec is a fantastically beautiful part of the world regardless of how old the buildings actually are.
 
-<div class="blog-image-right-port">
+<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976205705/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_z_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
   <p>Eating lunch at Village-Des-Hurons</p>
@@ -240,7 +240,7 @@ It soon became apparent that while we were out for a good time, our opposition w
 
 Once the rugby was over, it was time for the Australia &#8211; England cricket match. Along the north side of the cricket field we set up Bay 13, because &#8216;strayla. The crowd was very well behaved though, while they may have heckled the English batsmen all through the first innings; they were just a quick to stick it to Scotto, the wicketkeeper, and to the rest of our own team after the changeover. I think a bowler or two may also have copped it.
 
-<div class="blog-image-left-port">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17098541510/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_z_d.jpg" alt="Photo of some Victorians" /></a>
   <p>Apparently this is the &#8220;Family Portrait&#8221; I feel like I&#8217;m a foster brother</p>
