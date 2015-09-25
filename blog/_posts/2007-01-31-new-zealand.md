@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Boot
+title: New Zealand 2007
 author: Brad Peters
 date:   2007-01-31 12:00:00
 section: blog
