@@ -37,7 +37,7 @@ a:hover {
         color:#429ED7; }
         
 .blog-link {
-	color:#eee; }
+	color:#eee !important; }
 
 header {padding-top:10px;
 	min-height:50px;
