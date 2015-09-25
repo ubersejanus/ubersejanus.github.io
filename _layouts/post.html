@@ -4,8 +4,8 @@ section: blog
 ---
 
 <article class="page-content">
-  <h2>{{ page.title }}</h2>
-  <span class="blog-meta">By {{page.author}} on {{ page.date | date: "%b %-d, %Y" }}</span>
+  <h2 class="blog-heading">{{ page.title }}</h2>
+  <p class="blog-meta">By {{page.author}} on {{ page.date | date: "%b %-d, %Y" }}</p>
   <div class="entry">
     {{ content }}
   </div>
