@@ -8,7 +8,7 @@ category: travel
 tags: moots, rovers
 ---
 
-<p style="text-align:center;"><em>What I got up to at Awacamenj Mino Scout Camp, with a side order of Ottawa and Quebec City</em><br />
+What I got up to at Awacamenj Mino Scout Camp, with a side order of Ottawa and Quebec City
 
 ###Moot Begins!
 <div class="blog-image-left">
