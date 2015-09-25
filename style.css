@@ -187,9 +187,8 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-top: 15px;
 	margin-bottom: 15px;
 	width: 55%;
-	border: 1px solid #ccc;
 	padding: 3px;
-	text-align: center;
+	text-align: right;
 	font-size: 90%;
 }
 
