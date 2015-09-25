@@ -13,7 +13,7 @@ Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mi
 ###Moot Begins!
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/17284275172/" target="_blank">
-  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_m_d.jpg" /></a>
+  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_z_d.jpg" /></a>
   <p>Photobombing was a hobby of mine at Moot (and in life)</p>
 </div>
 
@@ -27,7 +27,7 @@ But at length, the Canadian Governor-General arrived, and he made his way up the
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12975847024/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_m_d.jpg" /></a>
+  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_z_d.jpg" /></a>
   <p>Rovers waiting for the opening ceremony in front of Parliament</p>
 </div>
 
@@ -41,9 +41,9 @@ Once we were officially open for business, there was a brief pause while we wait
 The Moot team had put us into Patrols based on our choice of "Urban Experience" with a secondary goal of exposing us to a variety of cultures. I thus I found myself in a patrol with Sophie from the UK, Jerone from The Netherlands, Karine from Brazil, Pablo and Betty from Mexico and Ida from Finland. We met up and were issued with box lunches and directed to wait over there for the buses to arrive.
 
 ###Settling In
-<div style="width: 250px" class="wp-caption alignleft">
+<div class=blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/17286098345/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_m_d.jpg" alt="Picture of my Patrol" /></a>
+  <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_z_d.jpg" alt="Picture of my Patrol" /></a>
   <p>Patrol 147</p>
 </div>
 
@@ -57,7 +57,7 @@ We were able to find most of our bags, and we set off for Subcamp Two to find ou
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12975704985/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_m_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_z_d.jpg" alt="" /></a>
   <p>Comparitive picture of flagpole height outside Contingent tents</p>
 </div>
 
@@ -76,7 +76,7 @@ Well the Mexicans saw our large pole, and spent the next hour building an elabor
 ###Activity Phase
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976157294/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7360/12976157294_7e16ef574b_m_d.jpg" alt="The beginnings of a campfire" /></a>
+  <img src="https://farm8.staticflickr.com/7360/12976157294_7e16ef574b_z_d.jpg" alt="The beginnings of a campfire" /></a>
   <p class="wp-caption-text">The beginnings of a campfire</p>
 </div>
 
@@ -86,7 +86,7 @@ Our afternoon activity was much more fun, we went paddling on the lake, charming
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12975760885/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_m_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_z_d.jpg" alt="" /></a>
   <p>Rideau Canal in operation</p>
 </div>
 
@@ -98,7 +98,7 @@ Brother Gogerly and I ended up spending quite a bit of time hanging out by the P
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976462863/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_m_d.jpg" alt="" /></a>
+  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_z_d.jpg" alt="" /></a>
   <p>Flagpoles in the main arena. Guy&#8217;s tent has a stand of flags front of it</p>
 </div>
 
@@ -114,7 +114,7 @@ Food at the Moot was an interesting experience. We were cooking in Patrols for m
 ###Cultural Day
 <div blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/17098324108/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7674/17098324108_524ddd306c_m_d.jpg" alt="A bit of singing before the rugby" /></a>
+  <img src="https://farm8.staticflickr.com/7674/17098324108_524ddd306c_z_d.jpg" alt="A bit of singing before the rugby" /></a>
   <p>A bit of singing before the rugby <br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 </div>
 
@@ -130,7 +130,7 @@ Of course, that meant we had to explain what a meat tray was&#8230; In the end w
 
 <div class+"blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/17099896519/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_m_d.jpg" alt="Anzac Rugby Team" /></a>
+  <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_z_d.jpg" alt="Anzac Rugby Team" /></a>
   <p class="wp-caption-text">Anzac Contingent Rugby Team<br /> Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 </div>
 
@@ -145,7 +145,7 @@ After dinner, a group were discussing the dating profiles that they had put up i
 ###Quebec City
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12976267944/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7368/12976267944_48a33b5fab_m_d.jpg" alt="Photos of Rovers enjoying a tasty meal" /></a>
+  <img src="https://farm8.staticflickr.com/7368/12976267944_48a33b5fab_z_d.jpg" alt="Photos of Rovers enjoying a tasty meal" /></a>
   <p>Dinner in Quebec</p>
 </div>
 
@@ -155,7 +155,7 @@ After so long at Awacamenj Mino, just seeing the University cafeteria was like m
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976150003/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_m_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
+  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
   <p>Looking over the Pasage du Chien-d&#8217;Or as twilight falls</p>
 </div>
 
@@ -166,7 +166,7 @@ The most impressive part of the city is of course the glorious Château Frontena
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12976205705/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_m_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
+  <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_z_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
   <p>Eating lunch at Village-Des-Hurons</p>
 </div>
 
@@ -180,7 +180,7 @@ We had over an hour for lunch, so after we&#8217;d finished eating, I went for a
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976264975/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7446/12976264975_3408ec1a6e_m_d.jpg" alt="Craftsmen build a canoe using traditional methods at the museum" /></a>
+  <img src="https://farm8.staticflickr.com/7446/12976264975_3408ec1a6e_z_d.jpg" alt="Craftsmen build a canoe using traditional methods at the museum" /></a>
   <pCraftsmen build a canoe using traditional methods at the museum</p>
 </div>
 
@@ -194,7 +194,7 @@ Soon, we were back on the bus to the University, where it was time for dinner. C
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12976431163/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3822/12976431163_7b95d41cd1_m_d.jpg" alt="Large fountain outside Parlement de Quebec" /></a>
+  <img src="https://farm4.staticflickr.com/3822/12976431163_7b95d41cd1_z_d.jpg" alt="Large fountain outside Parlement de Quebec" /></a>
   <p>Large fountain outside Parlement de Quebec</p>
 </div>
 
@@ -204,7 +204,7 @@ As it was already after six, I did my best to help spread the word. Eventually, 
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976722224/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2392/12976722224_2a15745d45_m_d.jpg" alt="La Promenade des Gouverneurs after an evening shower" /></a>
+  <img src="https://farm3.staticflickr.com/2392/12976722224_2a15745d45_z_d.jpg" alt="La Promenade des Gouverneurs after an evening shower" /></a>
   <p>La Promenade des Gouverneurs after an evening shower</p>
 </div>
 
@@ -219,7 +219,7 @@ It was right on midnight when our little group made it back to the city armoury,
 ###Goodbyyyye
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976335695/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_m_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
+  <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_z_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
   <p>Contingent Communication System</p>
 </div>
 <p>With the return of the second group of Urban Experiencers, the Moot was on the wind-down. By the time I woke up again, this notice had appeared at the &#8220;door&#8221; of the contingent tent — it was slightly more colourful than the comparable signs on other tents, although the gist was the same&#8230;
@@ -230,7 +230,7 @@ We got straight down to brass tacks this time, not bothering with the formalitie
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/17286098195/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7690/17286098195_22dcdd3440_m_d.jpg" alt="Photo of a tackle in the rugby game ... I'm helping!" /></a>
+  <img src="https://farm8.staticflickr.com/7690/17286098195_22dcdd3440_z_d.jpg" alt="Photo of a tackle in the rugby game ... I'm helping!" /></a>
   <p>Photo of a tackle in the rugby game &#8230; I&#8217;m helping!</p>
 </div>
 
@@ -242,7 +242,7 @@ Once the rugby was over, it was time for the Australia &#8211; England cricket m
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/17098541510/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_m_d.jpg" alt="Photo of some Victorians" /></a>
+  <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_z_d.jpg" alt="Photo of some Victorians" /></a>
   <p>Apparently this is the &#8220;Family Portrait&#8221; I feel like I&#8217;m a foster brother</p>
 </div>
 
@@ -254,7 +254,7 @@ The final day was scheduled as &#8220;reflections day&#8221;, but a better name 
 
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/17285588491/in/set-72157641973511214" target="_blank">
-  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_m_d.jpg" alt="An official Photograph of the Australian Contingent" width="240" height="180" /></a>
+  <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_z_d.jpg" alt="An official Photograph of the Australian Contingent" width="240" height="180" /></a>
   <p>I am so pleased that this is legitimately an official Contingent Photograph</p>
 </div>
 
@@ -266,7 +266,7 @@ Finally, it was time for the closing ceremony.
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12976716125/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3354/12976716125_c756242698_m_d.jpg" alt="Photo of the closing ceremony MC" /></a>
+  <img src="https://farm4.staticflickr.com/3354/12976716125_c756242698_z_d.jpg" alt="Photo of the closing ceremony MC" /></a>
   <p>The MC of the closing ceremony
 </div>
 
@@ -283,7 +283,7 @@ Unfortunately, I wasn&#8217;t up to much jumping after that Englishman landed on
 ###The Voyage Home</h1>
 <div class="blog-image-right">
   <a href="https://www.flickr.com/photos/ubersejanus/12976922393/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_m_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>
+  <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_z_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>
   <p class="wp-caption-text">Ottawa Airport Base Camp</p>
 </div>
 
@@ -295,7 +295,7 @@ It was many, many hours before our flights were to depart, so a base camp was so
 
 <div class="blog-image-left">
   <a href="https://www.flickr.com/photos/ubersejanus/12977212094/in/set-72157641973511214" target="_blank">
-  <img src="https://farm3.staticflickr.com/2621/12977212094_5bb91b8e87_m_d.jpg" alt="LAX had plenty of people during this visit. This was not appreciated" /></a>
+  <img src="https://farm3.staticflickr.com/2621/12977212094_5bb91b8e87_z_d.jpg" alt="LAX had plenty of people during this visit. This was not appreciated" /></a>
   <p class="wp-caption-text">LAX by night&#8230; too many people!</p>
 </div>
 
