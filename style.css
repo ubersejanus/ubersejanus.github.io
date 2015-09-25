@@ -221,7 +221,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-bottom:0px;
 	line-height:95%;}
 
-.blog-image-centre img {
+.blog-image-centre img, .blog-image-left img, .blog-image-right img {
 	max-width:100%;
 	margin-bottom:0px;
 }
