@@ -4,7 +4,7 @@ title: Neil Armstrong (1930-2012)
 author: Brad Peters
 date:   2012-08-26
 section: blog
-category: travel
+category: reflecting
 tags: in memoriam, space
 ---
 
