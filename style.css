@@ -197,8 +197,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	width: 55%;
 	padding: 3px;
 	text-align: right;
-	font-size: 90%;
-}
+	font-size: 90%; }
 
 .blog-image-left-port {
 	float: left;
@@ -207,8 +206,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:left;
 	font-size:90%;
-	max-width:200px;
-}
+	max-width:200px; }
 
 .blog-image-left-land {
 	float: left;
@@ -217,8 +215,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:left;
 	font-size:90%;
-	max-height:200px;
-}
+	max-height:200px; }
 
 .blog-image-right-port {
 	float: right;
@@ -227,8 +224,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:right;
 	font-size:90%;
-	max-width:200px;
-}
+	max-width:200px; }
 
 .blog-image-right-land {
 	float: right;
@@ -237,25 +233,24 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	padding:3px;
 	text-align:right;
 	font-size:90%;
-	max-width:200px;
-}
+	max-height:200px; }
 
 [class^="blog-image-"] p, div[class*=" blog-image-"] p {
 	margin-top:0px;
 	margin-bottom:0px;
-	line-height:95%;}
+	line-height:95%;
+	max-width:200px; }
 
 [class^="blog-image-"] img, div[class*=" blog-image-"] img {
 	max-width:100%;
 	max-height:100%;
-	margin-bottom:0px;
-}
+	margin-bottom:0px; }
 
 .comments {
 	margin-top:30px; }
 
 blockquote {
-	display: block;
-	width: 80%;
-	font-style: italic;
-	margin-left: 7%; }
+	display:block;
+	width:80%;
+	font-style:italic;
+	margin-left:7%; }
