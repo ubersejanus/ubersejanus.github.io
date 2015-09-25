@@ -199,21 +199,21 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 }
 
 .blog-image-left {
-	float:left;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	float: left;
+	margin-right: 15px;
 	padding: 3px;
-	text-align: right;
+	text-align: left;
 	font-size: 90%;
+	max-width: 20%;
 }
 
 .blog-image-right {
-	float:right;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	float: right;
+	margin-left: 15px;
 	padding: 3px;
 	text-align: right;
 	font-size: 90%;
+	max-width: 20%;
 }
 
 .blog-image-centre p, .blog-image-left p, .blog-image-right p {
