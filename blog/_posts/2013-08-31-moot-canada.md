@@ -220,7 +220,7 @@ It was right on midnight when our little group made it back to the city armoury,
 <div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12976335695/in/set-72157641973511214" target="_blank">
   <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_m_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
-  <p>Contingent Communication System</p>
+  <p>Contingent Communication<br>System</p>
 </div>
 <p>With the return of the second group of Urban Experiencers, the Moot was on the wind-down. By the time I woke up again, this notice had appeared at the &#8220;door&#8221; of the contingent tent — it was slightly more colourful than the comparable signs on other tents, although the gist was the same&#8230;
 
