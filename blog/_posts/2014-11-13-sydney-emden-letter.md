@@ -17,29 +17,31 @@ John was a seaman by trade, he came to Australia thanks to a post-Titanic law th
 
 A different perspective can be found here, in the <a href="/blog/assets/2014-11/sydney-log.jpg" target="_blank" rel="nofollow">Ship's Log</a>.
 
-<div class=carousel>
-  <ul class=panes>
-    <li>
-      <h2>HMAS Sydney</h2>
-      <img src="/blog/assets/2014-11/sydney-heads.jpg" alt="">
-    </li>
-    <li>
-      <h2>Pane 02 title</h2>
-      <img src="/blog/assets/2014-11/emden.jpg" alt="">
-    </li>
-    <li>
-      <h2>Pane 03 title</h2>
-      <img src="/blog/assets/2014-11/emden-aground.jpg" alt="">
-    </li>
-    <li>
-      <h2>Pane 04 title</h2>
-      <img src="/blog/assets/2014-11/sydney-crew" alt="">
-    </li>
-    <li>
-      <h2>Pane 05 title</h2>
-      <img src="/blog/assets/2014-11/sydney-badge" alt="">
-    </li>
-  </ul>
+<div class="blog-image-centre"
+  <div class=carousel>
+    <ul class=carousel-panes>
+      <li>
+        <h2>HMAS Sydney</h2>
+        <img src="/blog/assets/2014-11/sydney-heads.jpg" alt="">
+      </li>
+      <li>
+        <h2>Pane 02 title</h2>
+        <img src="/blog/assets/2014-11/emden.jpg" alt="">
+      </li>
+      <li>
+        <h2>Pane 03 title</h2>
+        <img src="/blog/assets/2014-11/emden-aground.jpg" alt="">
+      </li>
+      <li>
+        <h2>Pane 04 title</h2>
+        <img src="/blog/assets/2014-11/sydney-crew" alt="">
+      </li>
+      <li>
+        <h2>Pane 05 title</h2>
+        <img src="/blog/assets/2014-11/sydney-badge" alt="">
+      </li>
+    </ul>
+  </div>
 </div>
   
 
