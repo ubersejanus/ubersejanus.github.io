@@ -15,8 +15,8 @@ tags: reflection
 
 I’ve never been to the Remembrance Day service before, so it was very interesting. It was much more like Reserve Forces Day than Anzac Day, I suppose that since Anzac day has become a bigger deal people are more keen to speak there?  This was more ... simple, although no less dedicated.
 
-<div class="blog-image-right-land"
-  <img src="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne on Remembrance Day 2014" /></a>
+<div class="blog-image-right-land">
+  <img src="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne on Remembrance Day 2014" />
   <p> Shrine of Remembrance, Melbourne on Remembrance Day 2014</p>
 </div>
 
