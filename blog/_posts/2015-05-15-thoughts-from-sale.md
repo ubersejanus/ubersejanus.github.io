@@ -18,7 +18,7 @@ When my eldest aunt was born, my grandparents put a notice in The Argus, which 
 <!--more-->
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17441302860">
-  <img src="https://farm9.staticflickr.com/8725/17441302860_f47a81910f_m_d.jpg" alt="" /></a>
+  <img src="https://farm9.staticflickr.com/8725/17441302860_f47a81910f_z_d.jpg" alt="" /></a>
   <p>Clock towers were once way more necessary than they are today, too</p>
 </div>
 
@@ -30,7 +30,7 @@ This was the first time I'd been to Sale; and a few weeks ago I got a text sayi
 
 <div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17628906891">
-  <img src="https://farm9.staticflickr.com/8743/17628906891_152df5424b_m_d.jpg" alt="" /></a>
+  <img src="https://farm9.staticflickr.com/8743/17628906891_152df5424b_z_d.jpg" alt="" /></a>
   <p>In the name of all that is good and logical, we give thanks for the chemical energy we are about to absorb</p>
 </div>
 
@@ -44,7 +44,7 @@ But with my work done, and a song in my heart, I set off to find Mister Raymond 
 
 <div class="blog-image-right-port">
   <a href="https://www.flickr.com/photos/ubersejanus/17050589664">
-  <img class="" src="https://farm9.staticflickr.com/8735/17050589664_71e6c45ba2_m_d.jpg" alt="" /></a>
+  <img class="" src="https://farm9.staticflickr.com/8735/17050589664_71e6c45ba2_z_d.jpg" alt="" /></a>
   <p>I saved one!</p>
 </div>
 
