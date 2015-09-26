@@ -9,13 +9,13 @@ tags: reflection
 
 >The gorgeous effect of the intertwining lake,
 >and the many factors of nature surrounds,
->the peaceful blue of the sky above,
+>the peaceful blue of the sky above,  
 >and the life of the insects covers the ground.
 
 Have you ever thought about the ways that friendship has evolved over the last fifty years?
 
 When my eldest aunt was born, my grandparents put a notice in The Argus, which back then was basically what The Age is today. I'm uncertain what The Age's role in this topsy-turvy world was but that's not important right now.
-
+<!--more-->
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17441302860">
   <img src="https://farm9.staticflickr.com/8725/17441302860_f47a81910f_m_d.jpg" alt="" /></a>
