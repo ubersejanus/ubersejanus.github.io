@@ -66,7 +66,7 @@ Once everyone was checked in, we were back down to the bar where we met Stevo, t
 
 <div class="blog-image-left-port">
   <a href="https://www.flickr.com/photos/ubersejanus/12968880384/in/set-72157641950085705" target="_blank">
-  <img src="https://farm8.staticflickr.com/7335/12968880384_729e29f5c9_z_d.jpg" alt="Picture of the Victorians taking pictures of the Statue of Liberty" width="160" height="240" /></a>
+  <img src="https://farm8.staticflickr.com/7335/12968880384_729e29f5c9_z_d.jpg" alt="Picture of the Victorians taking pictures of the Statue of Liberty" /></a>
   <p>Lady Liberty (rear) Friends taking pictures (front)</p>
 </div>
 
@@ -174,7 +174,7 @@ Turns out that if you take a photo of the Toronto skyline from just above the wa
 ###Toronto
 When we pulled up, the hotel we stayed at in Toronto definitely seemed to be the nicest. It certainly had the largest bar, so of course that was fully taken advantage of.
 
-<div class="blog-image-left-port">
+<div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12969361655/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7410/12969361655_a0063a482e_z_d.jpg" alt="Picture looking up at CN Tower" /></a>
   <p>View from the bottom of CN Tower</p>
