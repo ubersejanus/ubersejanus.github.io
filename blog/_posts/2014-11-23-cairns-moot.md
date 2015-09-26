@@ -12,7 +12,7 @@ Cairns Moot was this weekend, and based largely on the recommendation of a Brisb
 <!--more-->
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/15858411075/in/set-72157649013570489">
-  <img src="https://farm8.staticflickr.com/7568/15858411075_76a3288da9_m_d.jpg" alt="" /></a>
+  <img src="https://farm8.staticflickr.com/7568/15858411075_76a3288da9_z_d.jpg" alt="" /></a>
 </div>
 
 There wasn't a whole lot planned for Thursday so us early arrivals were let loose on the city until the pub opened and the others arrived, before we spent the night at a conveniently located scout hall, from which we were dispatched to expeditions on Friday. I'll talk more about my expo after some fact-checking, but we spent a lot of time driving between waterfalls through canefields on roads which more often than not were criss-crossed by rail lines, because they don't believe in transporting by truck for some reason, so they just leave about half a dozen trucks at each farm.
@@ -21,7 +21,7 @@ We spent our day swimming in pristine pools, generally fully of smooth smooth ro
 
 <div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/15858655165/in/set-72157649013570489">
-  <img class=" alignleft" src="https://farm8.staticflickr.com/7515/15858655165_248ab72342_m_d.jpg" alt="" /></a>
+  <img class=" alignleft" src="https://farm8.staticflickr.com/7515/15858655165_248ab72342_z_d.jpg" alt="" /></a>
 </div>
 
 First up was cane toad racing, at which I failed miserably due to never having seen on of the little monsters before, although I did eventually catch the blighter. The other Friday night game was Alpine Rovering favourite "circumnavigate the table" although the table was a bit less ... robust than the tables at Baw Baw and Bogong.
@@ -33,7 +33,7 @@ After that, Aunty Kirsty, who just so happened to be visiting Far North Region r
 
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/15671150768/in/set-72157649013570489">
-  <img class=" alignright" src="https://farm8.staticflickr.com/7559/15671150768_bd6f5c02bc_m_d.jpg" alt="" /></a>
+  <img class=" alignright" src="https://farm8.staticflickr.com/7559/15671150768_bd6f5c02bc_z_d.jpg" alt="" /></a>
 </div>
 
 Saturday night featured a medieval feast, to which everyone dressed up - I had two coconuts for my horse "costume" because weight restrictions which I feel somewhat bad about as everyone else put in so much effort. Master Chef Andy really brought his A Game to this meal at which no forks were allowed, as we were eating medievally, although knives were allowed - which I'm reasonably sure is anachronistic.
