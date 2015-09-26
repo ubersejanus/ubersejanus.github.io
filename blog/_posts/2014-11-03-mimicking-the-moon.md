@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="blog-image-centre">
-  <img src="/blog/assets/2014-11/PIA18291_modest" alt="Image PIA18291" /> 
+  <img src="/blog/assets/2014-11/PIA18291_modest.jpg" alt="Image PIA18291" /> 
   <a href="http://photojournal.jpl.nasa.gov/catalog/PIA18291" target="_blank">PIA18291: Mimicking the Moon</a> <br />Image Credit - NASA/JPL-Caltech/Space Science Institute</p>
 </div>
 
