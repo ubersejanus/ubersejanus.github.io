@@ -14,7 +14,7 @@ The journey to World Moot began at about 4am on the couch of Mr Burridge's share
 
 <div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17246438826/" target="_blank">
-  <img src="https://farm8.staticflickr.com/7594/17246438826_c0e771ab9e_z_d.jpg" alt="picture of Qantas A380 'Lawrence Hargrave' awaiting passengers at Melbourne Airport International Terminal" width="240" height="144" /></a> 
+  <img src="https://farm8.staticflickr.com/7594/17246438826_c0e771ab9e_z_d.jpg" alt="picture of Qantas A380 'Lawrence Hargrave' awaiting passengers at Melbourne Airport International Terminal" /></a> 
   <p>The Plane, Anton! The plane!</p>
 </div>
 
@@ -124,6 +124,7 @@ We visited a charming little community ... named Intercourse.
   <a href="https://www.flickr.com/photos/ubersejanus/12969275133/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7346/12969275133_0f22f074db_z_d.jpg" alt="Picture of an Amish family by the house" /></a>
   <p>An extended Amish family</p>
+</div>
 
 After lunch and some souvenir shopping — including my soon-to-be-famous Amish Hat, we picked up one of the local "English", so called because the Amish amongst themselves speak their own dialect of German. They can speak English, and while at church they speak old High German. Not bad for a education system that's basically replicated at Sovereign Hill.So we went for a drive around the Amish farms surrounding the township all up and down the valley. It was particularly strange to see brand new houses being built that were never going to get hooked up to mains power. Another strange highlight were the small outhouse-looking buildings on the street corners. Inside them were telephones rather than than long drops, though.
 
