@@ -9,6 +9,8 @@ section: blog
   <div class="entry">
     {{ content }}
   </div>
-
+  <div class="blog-next-prev-text">
+    <p>{% if page.previous.url %}<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">« Previous Blog Post</a>{% endif %} | {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Blog Post »</a>{% endif %}</p>  
+</div>
   {% include disqus.html %}
 </article>
