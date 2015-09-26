@@ -191,7 +191,8 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 
 #chevron {
 	float:right;
-	margin:0px}
+	margin:0px;
+	fill:whitesmoke; }
 
 .blog-image-centre {
 	margin-left: auto;
