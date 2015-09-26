@@ -9,7 +9,7 @@ tags:
 
 For this episode of "Things that happened 100 years ago" I dug down into the family archives, and pulled out a letter written by my great-grandfather to my great-grandmother.
 
-This is a first-hand account of the RAN's first ship-to-ship action, the Town-class HMAS Sydney vs the German cruiser Emden.
+This is a first-hand account of the RAN's first ship-to-ship action, the <a href="http://www.navy.gov.au/hmas-sydney-i" target="_blank">Town-class HMAS Sydney</a> vs the German cruiser Emden.
 
 <!--more-->
 
@@ -17,33 +17,63 @@ John was a seaman by trade, he came to Australia thanks to a post-Titanic law th
 
 A different perspective can be found here, in the <a href="/blog/assets/2014-11/sydney-log.jpg" target="_blank" rel="nofollow">Ship's Log</a>.
 
-<div class="blog-image-centre" height="30%">
-  <div class=carousel>
-    <ul class=carousel-panes>
-      <li>
-        <h2>HMAS Sydney</h2>
-        <img src="/blog/assets/2014-11/sydney-heads.jpg" alt="">
-      </li>
-      <li>
-        <h2>German cruiser Emden</h2>
-        <img src="/blog/assets/2014-11/emden.jpg" alt="">
-      </li>
-      <li>
-        <h2>Emden run aground on the Cocos Islands</h2>
-        <img src="/blog/assets/2014-11/emden-aground.jpg" alt="">
-      </li>
-      <li>
-        <h2>Crew of Sydney </h2>
-        <img src="/blog/assets/2014-11/sydney-crew.jpg" alt="">
-      </li>
-      <li>
-        <h2>John Day</h2>
-        <img src="/blog/assets/2014-11/john-day.jpg" alt="">
-      </li>
-    </ul>
-  </div>
-</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   
+<div class="blog-image-centre" height="30%">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="/blog/assets/2014-11/john-day.jpg" alt="John Day">
+      <div class="carousel-caption">
+        <h2>John Day</h2>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/blog/assets/2014-11/sydney-heads.jpg" alt="painting of HMAS Sydney">
+      <div class="carousel-caption">
+        <h3>HMAS Sydney</h3>
+        <p>Sydney steaming out of Sydney Heads following the outbreak of World War I</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/blog/assets/2014-11/emden-aground.jpg" alt="Cruiser Emden run aground">
+      <div class="carousel-caption">
+        <h3>Emden after the battle</h3>
+        <p>Run aground on the cocos islands</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="/blog/assets/2014-11/sydney-crew.jpg" alt="Sydney's Crew">
+      <div class="carousel-caption">
+        <h3>Sydney's Crew</h3>
+        <p>Photo taken shortly after the battle</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <blockquote>
   <p style="text-align:right;">HMAS Sydney<br>At Sea<br>13th Nov 1914</p>
