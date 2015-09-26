@@ -7,16 +7,16 @@ category: thoughts from places
 tags: reflection
 ---
 
->Far from Flanders fake poppies flow
->Reminding me of headstones, row on row,
->Standing in memory of those who died
->While PC-9s, in Missing Man, fly
+>Far from Flanders fake poppies flow  
+>Reminding me of headstones, row on row,  
+>Standing in memory of those who died  
+>While PC-9s, in Missing Man, fly  
 >Heard above the field gun’s bellow.
 
 I’ve never been to the Remembrance Day service before, so it was very interesting. It was much more like Reserve Forces Day than Anzac Day, I suppose that since Anzac day has become a bigger deal people are more keen to speak there?  This was more ... simple, although no less dedicated.
 
 <div class="blog-image-right-land"
-  <a href="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne on Remembrance Day 2014" /></a>
+  <img src="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne on Remembrance Day 2014" /></a>
   <p> Shrine of Remembrance, Melbourne on Remembrance Day 2014</p>
 </div>
 

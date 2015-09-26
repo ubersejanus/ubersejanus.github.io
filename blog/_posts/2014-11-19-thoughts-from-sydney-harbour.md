@@ -8,8 +8,8 @@ tags: rovers
 ---
 
 >I want to see he sun go down.
->From St Kilda Esplanade...
->I'd give you all of Sydney Harbour - all that land; and all that water.
+>From St Kilda Esplanade...  
+>I'd give you all of Sydney Harbour - all that land; and all that water.  
 >For that one sweet promenade
 
 In the popular, international, imagination, the two manmade structures that universally represent Australia are the Harbour Bridge and Sydney Opera House. I haven't seen them since I was 10, so one of the most surprising parts of my trip was stepping off the train at Circular Quay to find that they were on the opposite sides of the quay. It seems that even tourist ads get things right sometimes.
