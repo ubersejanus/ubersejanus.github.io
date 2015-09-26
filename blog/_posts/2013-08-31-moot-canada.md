@@ -155,7 +155,7 @@ After so long at Awacamenj Mino, just seeing the University cafeteria was like m
 
 <div class="blog-image-left-land">
   <a href="https://www.flickr.com/photos/ubersejanus/12976150003/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" width="240" height="160" /></a>
+  <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" /></a>
   <p>Looking over the Pasage du Chien-d&#8217;Or as twilight falls</p>
 </div>
 
