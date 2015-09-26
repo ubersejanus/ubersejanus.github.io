@@ -196,6 +196,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	margin-bottom: 15px;
 	width: 55%;
 	padding: 3px;
+	text-align: center;
 	font-size: 90%; }
 
 .blog-image-left-port {
