@@ -23,7 +23,6 @@ url: http://dev.bpeters.id.au
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-contenturl: "/blog/assets
 
 paginate: 5
 paginate_path: "/blog/page:num/"
