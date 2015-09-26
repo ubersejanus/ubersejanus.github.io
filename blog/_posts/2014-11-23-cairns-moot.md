@@ -11,7 +11,7 @@ Cairns Moot was this weekend, and based largely on the recommendation of a Brisb
 
 <!--more-->
 <div class="blog-image-right-land">
-  <a href="https://www.flickr.com/photos/ubersejanus/15858411075/in/set-72157649013570489">
+  <a href="https://www.flickr.com/photos/ubersejanus/15858411075/in/set-72157649013570489" target="_blank">
   <img src="https://farm8.staticflickr.com/7568/15858411075_76a3288da9_z_d.jpg" alt="" /></a>
 </div>
 
@@ -19,8 +19,8 @@ There wasn't a whole lot planned for Thursday so us early arrivals were let loos
 
 We spent our day swimming in pristine pools, generally fully of smooth smooth rocks, jumping, splashing, watersliding and mucking around, interspaced by "city and surrounds tour stops" before we stopped for a fantastic lunch overlooking the browned, hilly farmlands. After that it was time for a quick swim in the deepest lake in mainland Australia, followed by a ride back down into Cairns to get on a different bus and head back up onto the tablelands; to Barabadeen where the real action was.
 
-<div class="blog-image-left-land">
-  <a href="https://www.flickr.com/photos/ubersejanus/15671150768/in/set-72157649013570489">
+<div class="blog-image-left-port">
+  <a href="https://www.flickr.com/photos/ubersejanus/15671150768/in/set-72157649013570489" target="_blank">
   <img src="https://farm8.staticflickr.com/7559/15671150768_bd6f5c02bc_z_d.jpg" alt="" /></a>
 </div>
 
@@ -31,7 +31,7 @@ Saturday morning was Service Time, shortly followed by high Ropes, loafing about
 After that, Aunty Kirsty, who just so happened to be visiting Far North Region rededicated the newly refreshed Barabadeen Activity Centre so we were rent a crowd for that little endeavour, before heading back to the site proper to spend the afternoon frolicking in the dam. There was sailing and other boating on offer, but the highlight were these floating picnic tables on 44 gallon drums, or more specifically, how no one understood their stability requirements. I have photos.
 
 <div class="blog-image-right-land">
-  <a href="https://www.flickr.com/photos/ubersejanus/15858655165/in/set-72157649013570489">
+  <a href="https://www.flickr.com/photos/ubersejanus/15858655165/in/set-72157649013570489" target="_blank">
   <img src="https://farm8.staticflickr.com/7515/15858655165_248ab72342_z_d.jpg" alt="" /></a>
 </div>
 
@@ -45,7 +45,7 @@ All in all, I have absolutely zero hesitation in recommending that any Rover any
 
 Just make sure that you drink enough water.
 
-Have a look at my [Flickr album](https://www.flickr.com/photos/ubersejanus/albums/72157649013570489) for a whole lot more pictures of the weekend.
+Have a look at my [Flickr album](https://www.flickr.com/photos/ubersejanus/albums/72157649013570489) for a whole lot more pictures of the weekend, and click below to enjoy the singing skills of my expedition on Friday.
 
 <div class="centre">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mwisffoohK4" frameborder="0" allowfullscreen></iframe>
