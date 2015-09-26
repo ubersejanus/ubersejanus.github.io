@@ -17,7 +17,7 @@ John was a seaman by trade, he came to Australia thanks to a post-Titanic law th
 
 A different perspective can be found here, in the <a href="/blog/assets/2014-11/sydney-log.jpg" target="_blank" rel="nofollow">Ship's Log</a>.
 
-<div class="blog-image-centre"
+<div class="blog-image-centre" height="30%">
   <div class=carousel>
     <ul class=carousel-panes>
       <li>
@@ -25,20 +25,20 @@ A different perspective can be found here, in the <a href="/blog/assets/2014-11/
         <img src="/blog/assets/2014-11/sydney-heads.jpg" alt="">
       </li>
       <li>
-        <h2>Pane 02 title</h2>
+        <h2>German cruiser Emden</h2>
         <img src="/blog/assets/2014-11/emden.jpg" alt="">
       </li>
       <li>
-        <h2>Pane 03 title</h2>
+        <h2>Emden run aground on the Cocos Islands</h2>
         <img src="/blog/assets/2014-11/emden-aground.jpg" alt="">
       </li>
       <li>
-        <h2>Pane 04 title</h2>
-        <img src="/blog/assets/2014-11/sydney-crew" alt="">
+        <h2>Crew of Sydney </h2>
+        <img src="/blog/assets/2014-11/sydney-crew.jpg" alt="">
       </li>
       <li>
-        <h2>Pane 05 title</h2>
-        <img src="/blog/assets/2014-11/sydney-badge" alt="">
+        <h2>John Day</h2>
+        <img src="/blog/assets/2014-11/john-day.jpg" alt="">
       </li>
     </ul>
   </div>
