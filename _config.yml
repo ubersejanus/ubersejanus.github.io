@@ -23,6 +23,7 @@ url: http://dev.bpeters.id.au
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+contenturl: "/blog/assets
 
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -33,7 +34,7 @@ paginate_path: "/blog/page:num/"
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:year:month-:title
+permalink: /blog/:year:month-:title
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
