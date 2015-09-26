@@ -6,9 +6,8 @@ date:   2013-08-31 12:00
 section: blog
 category: travel
 tags: moots, rovers
+excerpt: Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mino Scout Camp, a few trips to Ottawa, and my Urban Experience in Quebec City.
 ---
-
-Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mino Scout Camp, a few trips to Ottawa, and my Urban Experience in Quebec City.
 
 ###Moot Begins!
 <div class="blog-image-left-port">

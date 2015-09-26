@@ -10,6 +10,7 @@ tags: moots, rovers
 Surfmoot, my old friend.
 
 Here we are: parting ways at last. The Hottest 100 Day long weekend just won't be the same without you.
+<!--more-->
 
 Hopefully, it will be less sunburn-y...
 

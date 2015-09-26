@@ -6,6 +6,7 @@ date:   2012-08-26
 section: blog
 category: reflecting
 tags: in memoriam, space
+excerpt: I came home from a weekend away to find that Neil Armstrong, the “one small step for man” guy, died on Saturday. Childhood hero bites the dust.
 ---
 
 I came home from a weekend away to find that Neil Armstrong, the “one small step for man” guy, died on Saturday.

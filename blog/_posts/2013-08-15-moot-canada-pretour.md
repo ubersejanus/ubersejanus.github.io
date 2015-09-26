@@ -5,9 +5,8 @@ author: Brad Peters
 section: blog
 category: travel
 tags: moots, rovers
+excerpt: My epic journey from Melbourne to Ottawa, via New York, Washington DC, Pennsylvania and Ontario, with the Australian/New Zealand Contingent.
 ---
-
-My epic journey from Melbourne to Ottawa, via New York, Washington DC, Pennsylvania and Ontario, with the Australian/New Zealand Contingent.
 
 ###Getting There
 The journey to World Moot began at about 4am on the couch of Mr Burridge's sharehouse in Heidelberg. He shares my affinity for airports, and was kind enough to volunteer to join me on yet another a trip there. My not joining him on the return from Tullamarine may or may not have been a point in my favour, but anyway:
