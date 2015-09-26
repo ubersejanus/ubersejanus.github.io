@@ -1,14 +1,15 @@
 ---
 layout: post
-title: WAM2014 &mdash; some scattered recollections from a year later
+title: Cairns Moot 2014
 author: Brad Peters
 section: blog
 category: travel
 tags: moots, rovers
-excerpt: My time at the 19th Australian Rover Moot, WAM2014 at Woodmans Point Recreation Reserve in Perth. 
 ---
 
 Cairns Moot was this weekend, and based largely on the recommendation of a Brisbane Rover who went to the last one who I don't know; as well as a long-term desire to go visit Cairns and the surrounding rainforest-y area, I flew across roughly three-quarters of the country to a weirdly hub-shaped airport where I was met by a uniformed Kamerunga Rover who had the exciting job of finding most of the 60-odd people who were coming up for the weekend.
+
+<!--more-->
 
 There wasn't a whole lot planned for Thursday so us early arrivals were let loose on the city until the pub opened and the others arrived, before we spent the night at a conveniently located scout hall, from which we were dispatched to expeditions on Friday. I'll talk more about my expo after some fact-checking, but we spent a lot of time driving between waterfalls through canefields on roads which more often than not were criss-crossed by rail lines, because they don't believe in transporting by truck for some reason, so they just leave about half a dozen trucks at each farm.
 
