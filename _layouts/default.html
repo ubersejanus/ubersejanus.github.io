@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"> 
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Brad Peters - Melbourne, VIC">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <link rel="icon" href="/favicon.ico">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <a href="/">
+        <h1 id="siteheader">
+        <svg height="30px" width="30px" viewBox="0 0  100 100">
+          <rect x="50" y="0" width="50" height="100" fill="#800080"></rect>
+          <rect x="0" y="50" width="50" height="50" fill="#eee"></rect>
+          <rect x="0" y="25" width="100" height="25" fill="#FFD700"></rect>
+        </svg> Brad Peters</h1></a>
+        <nav>
+          {% include nav.html %}        
+        </nav>
+      </header>
+      <section>
+          {{ content }}
+      </section>
+      <footer>
+        <p>&copy; {{ site.time | date: '%Y' }}</p>
+      </footer>
+    </div>
+    <script async src='http://www.google-analytics.com/analytics.js'></script>
+    <script>
+      var ga=ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-64702034-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
