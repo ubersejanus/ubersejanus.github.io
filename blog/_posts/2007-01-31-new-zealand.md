@@ -7,7 +7,9 @@ section: blog
 category: travel
 ---
 
-Goin’ to NZ to celebrate finishing school. As you do.<!--more-->
+Goin’ to NZ to celebrate finishing school. As you do.
+
+<!--more-->
 
 ####Day One
 

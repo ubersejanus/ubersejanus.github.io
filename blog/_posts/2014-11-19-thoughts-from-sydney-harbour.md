@@ -13,6 +13,7 @@ tags: rovers
 >For that one sweet promenade
 
 In the popular, international, imagination, the two manmade structures that universally represent Australia are the Harbour Bridge and Sydney Opera House. I haven't seen them since I was 10, so one of the most surprising parts of my trip was stepping off the train at Circular Quay to find that they were on the opposite sides of the quay. It seems that even tourist ads get things right sometimes.
+
 <!--more-->
 
 So, we headed down to the ferry terminal and, wondering where to go from there, decided to follow the other young people who were dressed in costume. They soon led us to a giant mass of costumed people hanging out, laughing, shouting, talking, singing and generally waiting together on the Commissioners Steps.
