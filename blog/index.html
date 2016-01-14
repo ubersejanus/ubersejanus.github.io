@@ -4,11 +4,13 @@ section: blog
 ---
 
 <div class="page-content">
-  {% for post in site.posts %}
+  <div class="top-right-links">
+              <span><a href="archive.html">Archive</a> ({{ site.posts | size }} posts)</span>
+            </div>{% for post in site.categories.blog limit: 5 %}
     <article class="post">
 
       <h2><a class="blog-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       <div class="entry">
         {{ post.excerpt }} 
         {% capture content_words %} 
@@ -23,4 +25,7 @@ section: blog
         
     </article>
   {% endfor %}
+  
+  
+  
 </div>
