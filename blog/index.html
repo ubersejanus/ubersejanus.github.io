@@ -2,13 +2,11 @@
 layout: default
 section: blog
 ---
-
 <div class="page-content">
   <div class="top-right-links">
-              <span><a href="archive.html">Archive</a> ({{ site.posts | size }} posts)</span>
+              <span><a href="/blog/archive.html">Archive</a> ({{ site.posts | size }} posts)</span>
             </div>{% for post in site.categories.blog limit: 5 %}
     <article class="post">
-
       <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       <div class="entry">
@@ -22,10 +20,19 @@ section: blog
         {% if excerpt_words != content_words %}
         <p><a class="blog-readmore" href="{{ post.url }}">Read more</a></p>
         {% endif %}
-        
     </article>
   {% endfor %}
-  
-  
-  
+  </div>
+  <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
 </div>
