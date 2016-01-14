@@ -9,7 +9,7 @@ section: blog
               {% if year != lastyear %}<li class="year"><h3>{{ year }}</h3></li>{% endif %}
               <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
               </li>{% endfor %}
             </ul>
           </div>
