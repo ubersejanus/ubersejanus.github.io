@@ -44,7 +44,7 @@ a:visited {
 a:hover {
         color:#429ED7; }
         
-.blog-link {
+.post-link {
 	color:#eee !important; }
 
 header {
@@ -298,3 +298,6 @@ blockquote {
 	float:right;
 	width:120px;
 	text-align:right; }
+	
+.post-list.archive ul {
+    list-style: none; }

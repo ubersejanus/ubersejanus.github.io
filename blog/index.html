@@ -9,7 +9,7 @@ section: blog
             </div>{% for post in site.categories.blog limit: 5 %}
     <article class="post">
 
-      <h2><a class="blog-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       <div class="entry">
         {{ post.excerpt }} 
