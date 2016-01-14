@@ -302,3 +302,9 @@ blockquote {
 .post-list.archive ul {
     list-style:none;
     padding-left:0; }
+    
+.article-post h2 {
+	margin-bottom:5px; }
+
+.article-post .post-meta {
+	margin-top:20px; } 
