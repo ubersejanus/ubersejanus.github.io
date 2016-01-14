@@ -292,7 +292,7 @@ blockquote {
 .post-meta {
 	display:inline-block;
 	width:90px;
-	margin-bottom:20px; }
+	margin-bottom:0; }
 
 .top-right-links {
 	float:right;
@@ -305,3 +305,6 @@ blockquote {
     
 .article-post h2 {
 	margin-bottom:5px; }
+
+.article-post.post-meta {
+	margin-bottom:20px; } 
