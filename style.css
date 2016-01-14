@@ -288,3 +288,13 @@ blockquote {
 	left: 0;
 	width: 100% !important;
 	height: 100% !important; }
+	
+.post-meta {
+	display:inline-block;
+	width:75px;
+	margin-bottom:0; }
+
+.top-right-links {
+	float:right;
+	width:120px;
+	text-align:right; }
