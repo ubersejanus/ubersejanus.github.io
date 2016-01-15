@@ -1,10 +1,9 @@
 ---
 layout: post
-title: PIA18291: Mimicking the Moon
+title: Mimicking the Moon (PIA18291)
 author: Brad Peters
 section: blog
 category: space
-tags: 
 ---
 
 <div class="blog-image-centre">
