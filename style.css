@@ -227,9 +227,20 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
     z-index: 9999;
     overflow: auto; }
 
-.ref:target {
-    display:block;
-   }
+input#show, input#hide {
+    display:none;
+}
+
+span#content {
+    display:none;
+}
+input#show:checked ~ span#content {
+  display:block;
+}
+
+input#hide:checked ~ span#content {
+    display:none;
+}
 
 /* Google Maps style */
 
