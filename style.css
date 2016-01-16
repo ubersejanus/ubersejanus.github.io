@@ -193,6 +193,60 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 .centre {
 	text-align:center; }
 
+	
+/* reference tooltips style */
+
+.ref {
+    position: relative;
+    vertical-align: baseline;
+   }
+
+.refnum {
+    position: relative;
+    left: 2px;
+    bottom: 1ex;
+    font-family: Verdana, sans-serif;
+    color: #005994;
+    font-size: .7em;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.refbody {
+    font-family: Verdana, sans-serif;
+    font-size: .7em;
+    line-height: 1.1;
+    display: block;
+    min-width: 20em;
+    position: absolute;
+    left: 25px;
+    bottom: 5px ;
+    border: 1px solid;
+    padding: 5px;
+    background-color: #fff;
+    word-wrap: break-word;
+    z-index: 9999;
+    overflow: auto;
+}
+
+/* Google Maps style */
+
+.google-maps {
+    position:relative;
+    padding-bottom:45%; // This is the aspect ratio 
+    height:0;
+    overflow:hidden; }
+    
+.google-maps iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100% !important;
+	height:100% !important; }
+
+/* Blog page styles */
+	
 .blog-heading {
 	margin-bottom:0px; }
 	
@@ -276,19 +330,6 @@ blockquote {
 	font-style:italic;
 	margin-left:7%; }
 
-.google-maps {
-    position:relative;
-    padding-bottom:45%; // This is the aspect ratio 
-    height:0;
-    overflow:hidden; }
-    
-.google-maps iframe {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100% !important;
-	height:100% !important; }
-	
 .post-meta {
 	display:inline-block;
 	width:90px;
