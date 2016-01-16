@@ -198,20 +198,18 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 
 .ref {
     position: relative;
-    vertical-align: baseline;
-   }
+    vertical-align: baseline; }
 
 .refnum {
     position: relative;
     left: 2px;
     bottom: 1ex;
     font-family: Verdana, sans-serif;
-    color: #005994;
+    color: #57A3E8;
     font-size: .7em;
     font-weight: bold;
     text-decoration: underline;
-    cursor: pointer;
-}
+    cursor: pointer; }
 
 .refbody {
     font-family: Verdana, sans-serif;
@@ -227,8 +225,11 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
     background-color: #fff;
     word-wrap: break-word;
     z-index: 9999;
-    overflow: auto;
-}
+    overflow: auto; }
+
+.ref:target {
+    display:block;
+   }
 
 /* Google Maps style */
 
