@@ -206,6 +206,11 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer; }
+    
+.reftext {
+    color:#fff;
+    font-size:80%;
+    margin-left:1.5%; }
 
 /* Google Maps style */
 
