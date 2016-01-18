@@ -379,7 +379,7 @@ article.post span.post-meta {
     white-space: nowrap;
     margin:0px; }
     
-.achieveTxt h5 {
+.achieveTxt h5, .achieveTxt span {
     font-weight: normal;
     font-size: 12px;
     color: #898989;
