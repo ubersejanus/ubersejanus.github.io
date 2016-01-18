@@ -350,6 +350,10 @@ article.post span.post-meta {
     position:absolute;
     left:0;
     top:1px; }
+    
+.achieveImgHolder img {
+	width:64px;
+	height:64px; }
 
 .achieveTxtHolder {
     min-height: 64px;
