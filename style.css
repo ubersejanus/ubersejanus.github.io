@@ -352,8 +352,8 @@ article.post span.post-meta {
     top:1px; }
     
 .achieveImgHolder img {
-	width:64px;
-	height:64px; }
+	width:58px;
+	height:58px; }
 
 .achieveTxtHolder {
     min-height: 64px;
@@ -386,7 +386,7 @@ article.post span.post-meta {
     margin:0px; }
     
 .achieveImgHolder .achieveUnlock {
-	border:4px solid #93C000; }
+	border:3px solid #93C000; }
 	
 .achieveImgHolder .achieveLock {
-	border:4px solid #C00036; }
+	border:3px solid #C00036; }
