@@ -332,7 +332,7 @@ blockquote {
 article.post span.post-meta {
 	margin-bottom:20px; } 
 
-/* Achievement Box style goes here */
+/* Achievement Box style */
 
 .achieveRow {
     position:relative;
@@ -341,8 +341,10 @@ article.post span.post-meta {
     margin-bottom:12px;
     font-family: Arial, Helvetica, Verdana, sans-serif;
     height:66px;
-    width:100%;
-    max-width:855px; }
+    width:90%;
+    max-width:855px;
+    margin-left:auto;
+	margin-right:auto; }
     
 .achieveImgHolder {
     position:absolute;
