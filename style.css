@@ -390,3 +390,6 @@ article.post span.post-meta {
 	
 .achieveImgHolder .achieveLock {
 	border:3px solid #C00036; }
+	
+.achieveTxt progress {
+    width: 40%;
