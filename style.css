@@ -393,3 +393,10 @@ article.post span.post-meta {
 	
 .achieveTxt progress {
     width: 40%;
+    
+.achieveImgHolder .multiplier {
+	position: absolute;
+	bottom: 10%;
+	right: 7%;
+	font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
+	font-size: 22px; }
