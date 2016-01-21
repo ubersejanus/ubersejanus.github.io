@@ -392,9 +392,9 @@ article.post span.post-meta {
 	border:3px solid #C00036; }
 	
 .achieveTxt progress {
-    width:40%;
+    width:40%; }
     
-.achieveMulti {
+.achieveImgHolder p {
 	position:absolute;
 	bottom:10%;
 	right:7%;
