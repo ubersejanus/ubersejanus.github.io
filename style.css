@@ -394,7 +394,7 @@ article.post span.post-meta {
 .achieveTxt progress {
     width: 40%;
     
-.achieveImgHolder .multiplier {
+.achieveImgHolder span {
 	position: absolute;
 	bottom: 10%;
 	right: 7%;
