@@ -11,6 +11,7 @@ It's odd that the place that your mother happened to be when she gave birth to y
 It's probably fair to say that we have the most divisive national holiday going around, but I guess I'll run with it.
 
 So this is what Australia is to me.
+
 <!--more-->
 <div style="text-align:center; width: 55%; margin-left:auto; margin-right:auto;">
   <div class="blog-image-centre">
