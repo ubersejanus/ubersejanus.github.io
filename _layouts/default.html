@@ -9,6 +9,7 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <link rel="icon" href="/favicon.ico">
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    {% include opengraph.html %}
   </head>
   <body>
     <div id="wrapper">
