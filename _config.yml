@@ -13,7 +13,7 @@ description:
 disqus: bradpeters
 
 # Your website URL - used for Sitemap.xml and your RSS feed
-url: http://www.bpeters.id.au
+url: https://www.bpeters.id.au
 
 excerpt_separator: <!--more-->
 
@@ -27,7 +27,7 @@ paginate: 5
 paginate_path: "blog/page:num/"
 
 # Facebook OpenGraph details
-fb_admins:	http://facebook.com/brad.j.peters
+fb_admins:	https://facebook.com/brad.j.peters
 fb_appid:	187628394928430
 avatar:	/images/bogong-cover.jpg
 
