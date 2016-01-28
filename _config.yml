@@ -37,7 +37,7 @@ avatar:	/images/bogong-cover.jpg
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /blog/:year-:month/:title
+permalink: /blog/:year-:month/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
