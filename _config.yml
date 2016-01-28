@@ -29,7 +29,6 @@ paginate_path: "blog/page:num/"
 # Facebook OpenGraph details
 fb_admins:	https://facebook.com/brad.j.peters
 fb_appid:	187628394928430
-avatar:	/images/bogong-cover.jpg
 
 #
 # !! You don't need to change any of the configuration flags below !!
