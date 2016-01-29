@@ -2,14 +2,10 @@
 layout: post
 title: Malcolm Fraser (1930-2015)
 author: bradp
-hero: http://www.abc.net.au/cm/lb/6335102/data/malcolm-fraser-data.jpg
+hero: /blog/assets/2015-03/malcolm-fraser.jpg
 category: history
 tags: 
 ---
-
-<div class="blog-image-centre">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/MalcolmFraser1982.JPEG/220px-MalcolmFraser1982.JPEG" alt="Malcolm Fraser"  />
-</div>
 
 It's a bad year to be a former Prime Minister, it would seem.
 

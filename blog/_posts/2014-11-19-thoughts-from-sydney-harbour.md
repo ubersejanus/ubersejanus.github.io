@@ -4,10 +4,10 @@ title: Thoughts from Places &mdash; Sydney Harbour
 author: bradp
 hero: 
 category: rovers
-tags: thoughts from places
+tags: thoughts-from-places
 ---
 
->I want to see he sun go down.
+>I want to see he sun go down.  
 >From St Kilda Esplanade...  
 >I'd give you all of Sydney Harbour - all that land; and all that water.  
 >For that one sweet promenade
