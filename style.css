@@ -12,8 +12,7 @@ html, body {
 header {
 	background-color:#373737;
 	padding-top:10px;
-	min-height:50px;
-	border-bottom:1px solid #666; }
+	min-height:50px; }
 
 #siteheader {
 	padding-left:45px;
@@ -412,3 +411,8 @@ article.post span.post-meta {
 .author-name {
     font-size: 12px;
     margin: 0; }
+    
+.inner-container {
+	width:875px;
+	margin-left: auto;
+	margin-right: auto; }

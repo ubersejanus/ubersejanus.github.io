@@ -2,8 +2,9 @@
 layout: default
 section: blog
 ---
+
 <article class="post full-post" data-id="{{ page.id }}">
-	{% if page.hero == null or page.tags contains 'podcasts' %}
+	{% if page.hero == null %}
 	<div class="hero no-image">
 	{% else %}
 	<div class="hero" style="background-image: linear-gradient(rgba(37, 43, 51, 0.35), rgba(37, 43, 51, 0.35)), url('{{ page.hero }}');">
@@ -12,7 +13,7 @@ section: blog
 			<h1 class="h2">{{ page.title }}</h1>
 			<div class="author-container">
 				<a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}"><img src="{{ page.full_author.avatar }}"></a>
-				<h4 class="author-name">by <a href="/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a></h2>
+				<h4 class="author-name">by <a href="/authors/{{ page.author }}/">{{ page.author }}</a></h2>
 				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
 			</div>
 		</div>
@@ -28,12 +29,12 @@ section: blog
 			    {{ content }}
 			    <div class="metadata -row">
 			    	<div class="-col6 _textLeft">
-						<p>By <a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a>, {{ page.full_author.job }}</p>
+						<p>By <a href="/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a>, {{ page.full_author.job }}</p>
 				    </div>
 				    <div class="-col6 _textRight">
 				    	<p><strong>Tagged in</strong>&nbsp;
 						{% for tag in page.tags %}
-							<a href="{{ site.baseurl }}/tags/{{ tag }}/"><span class="postTag">{{ tag }}</span></a>
+							<a href="/tags/{{ tag }}/"><span class="postTag">{{ tag }}</span></a>
 						{% endfor %}</p>
 				    </div>
 			    </div>
