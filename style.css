@@ -480,3 +480,24 @@ a:hover {
 	width:49%;
 	margin-right:0;
 	margin-left:auto; }
+	
+.postTag {
+	display:inline-block;
+    margin:0.167em;
+    line-height:1;
+    text-decoration:none;
+    text-transform:lowercase;
+    color:#3e6d8e;
+    background-color:#dfeaf1;
+    border:0 solid #dfeaf1;
+    white-space:nowrap;
+    transition:all 0.1s ease-in;
+    line-height:13px;
+    margin-bottom:2.171px;
+	margin-left:0px;
+	margin-right:2.171px;
+	margin-top:2.171px;
+	padding-bottom:5.85px;
+	padding-left:6.5px;
+	padding-right:6.5px;
+	padding-top:5.85px; }
