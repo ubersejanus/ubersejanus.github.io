@@ -2,7 +2,7 @@
 layout: default
 section: blog
 ---
-
+{% assign author = site.data.authors.[page.author] %}
 <article class="post full-post" data-id="{{ page.id }}">
 	{% if page.hero == null %}
 	<div class="hero no-image">
@@ -12,8 +12,8 @@ section: blog
 		<div class="inner-container media-padded">
 			<h1 class="h2">{{ page.title }}</h1>
 			<div class="author-container">
-				<a href="{{ site.baseurl }}/authors/{{ page.full_author.id }}"><img src="{{ page.full_author.avatar }}"></a>
-				<h4 class="author-name">by <a href="/authors/{{ page.author }}/">{{ page.author }}</a></h2>
+				<a href="/authors/{{ author.id }}"><img src="{{ author.avatar }}"></a>
+				<h4 class="author-name">by <a href="/authors/{{ author.id }}/">{{ author.name }}</a></h2>
 				<div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
 			</div>
 		</div>
@@ -29,7 +29,7 @@ section: blog
 			    {{ content }}
 			    <div class="metadata -row">
 			    	<div class="-col6 _textLeft">
-						<p>By <a href="/authors/{{ page.full_author.id }}/">{{ page.full_author.name }}</a>, {{ page.full_author.job }}</p>
+						<p>By <a href="/authors/{{ author.id }}/">{{ author.name }}</a></p>
 				    </div>
 				    <div class="-col6 _textRight">
 				    	<p><strong>Tagged in</strong>&nbsp;
