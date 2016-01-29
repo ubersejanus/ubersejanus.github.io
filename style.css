@@ -462,7 +462,8 @@ a:hover {
 .source p {margin-bottom:0;}
     
 #next-prev {
-	 text-align:center;}
+	 text-align:center;
+	 padding-top:30px;}
 
 .metadata_row {
 	font-family:'Helvetica Neue', Helvetica, sans-serif;
@@ -471,12 +472,10 @@ a:hover {
 
 .col_textleft {
 	text-align:left;
-	width:49%; 
 	float:left; }
 	
 .col_textright {
 	text-align:right;
-	width:49%;
 	float:right; }
 	
 .postTag {
