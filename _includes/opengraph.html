@@ -11,7 +11,7 @@
 {% else %}
   <meta property="og:type" content="website">
 {% endif %}
-<meta property="og:description" content="{{ page.content | strip_html | strip_newlines| replace:'&gt;','' | truncate: 155, '...' }}">
+<meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 155, '...' }}">
 {% endif %}
 {% if page.featured_image %}
 <meta property="og:image" content="{{ page.featured_image | prepend: site.baseurl | prepend: site.url }}">
