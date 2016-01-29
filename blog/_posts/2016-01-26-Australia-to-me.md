@@ -14,19 +14,18 @@ It's probably fair to say that we have the most divisive national holiday going 
 So this is what Australia is to me.
 
 <!--more-->
-<span style="text-align:center;">
+
 
 [![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/24575820986)
 
--> A campfire burning bright — popping and cracking <-
+<span style="text-align:center;">
 
--> Unseen creatures scurrying about the brush <-
+A campfire burning bright — popping and cracking  
+Unseen creatures scurrying about the brush  
+Staring up into a deep-dark sky, where endless stars are all I see  
+That's Australia to me.  
 
--> Staring up into a deep-dark sky, where endless stars are all I see <-
-
--> That's Australia to me. <-
-
-
+</span>
 
 [![Underwater in a tropical river](https://farm9.staticflickr.com/8650/15236149784_f4d5a3d114_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15236149784)
 
