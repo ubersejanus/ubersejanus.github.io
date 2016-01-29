@@ -1,73 +1,4 @@
-html, body {
-	color:rgba(0,0,0,0.8);
-	margin:0px;
-	padding:0px;
-	font:normal 14px/17px Arial, Helvetica, sans-serif; 
-	height:100%; }
 
-#wrapper {
-	min-height:100%;
-	position:relative; }
-
-header {
-	background-color:#373737;
-	padding-top:10px;
-	min-height:50px; }
-
-#siteheader {
-	padding-left:45px;
-	margin-bottom:0px;
-	height:45px;
-	color:#eee; }
-
-footer {
-	border-top:1px solid #666;
-	height:30px;
-	width:100%;
-	position:absolute;
-	bottom:0;
-	left:0; }
-
-footer p {
-	text-align:right; 
-	font-size:10px;
-	height:20px;
-	margin-left:25px;
-	margin-right:25px;
-	margin-bottom:5px;
-	margin-top:5px; }
-
-h1 {
-  	margin:0; 
-  	font-size:40px; 
-  	line-height:40px; 
-  	font-weight:bold; }
-
-h2 {
-	margin-top:20px;
-	font-size:30px;
-	line-height: 30px;} 
-	
-p {
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:0px;
-	margin-bottom:10px; }
-
-a:link {
-        color:#57A3E8;
-        text-decoration:none; }
-
-a:visited {
-        color:#57A3E8;
-        text-decoration:none; }
-
-a:hover {
-        color:#429ED7; }
-        
-.post-link {
-	color:rgba(0,0,0,0.8) !important; }
-	
 @media (max-width:500px) {
    #siteheader {
 	padding-left:0px;
@@ -93,8 +24,7 @@ a:hover {
 }
 
 .currentpage {
-	font-weight:bold;
-	text-shadow: 0px 0px 10px #57A3E8; }
+	font-weight:bold;}
 
 .links {
 	height:70;
@@ -186,38 +116,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 .centre {
 	text-align:center; }
 
-/* reference tooltips style */
 
-.refnum {
-    position: relative;
-    left: 2px;
-    bottom: 1ex;
-    font-family: Verdana, sans-serif;
-    color: #57A3E8;
-    font-size: .7em;
-    font-weight: bold;
-    text-decoration: underline;
-    cursor: pointer; }
-    
-.reftext {
-    font-size:80%;
-    margin-left:1.5%; }
-
-/* Google Maps style */
-
-.google-maps {
-    position:relative;
-    padding-bottom:45%; // This is the aspect ratio 
-    height:0;
-    overflow:hidden; }
-    
-.google-maps iframe {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100% !important;
-	height:100% !important;
-	border:0; }
 
 /* Blog page styles */
 	
@@ -228,8 +127,7 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 	text-align:right;
 	margin-bottom:20px; }
 
-.chevron {
-	fill:rgba(0,0,0,0.8); }
+
 
 .blog-image-centre {
 	margin-left: auto;
@@ -323,6 +221,77 @@ blockquote {
 article.post span.post-meta {
 	margin-bottom:20px; } 
 
+
+	
+/* New style */
+
+html, body {
+	color:rgba(0,0,0,0.8);
+	margin:0px;
+	padding:0px;
+	font:normal 14px/17px Arial, Helvetica, sans-serif; 
+	height:100%; }
+
+#wrapper {
+	min-height:100%;
+	position:relative; }
+
+header {
+	background-color:#373737;
+	padding-top:10px;
+	min-height:50px; }
+
+#siteheader {
+	padding-left:45px;
+	margin-bottom:0px;
+	height:45px;
+	color:#eee; }
+
+footer {
+	border-top:1px solid #666;
+	height:30px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	left:0; }
+
+footer p {
+	text-align:right; 
+	font-size:10px;
+	height:20px;
+	margin-left:25px;
+	margin-right:25px;
+	margin-bottom:5px;
+	margin-top:5px; }
+
+h1 {
+  	margin:0; 
+  	font-size:40px; 
+  	line-height:40px; 
+  	font-weight:bold; }
+
+h2 {
+	margin-top:20px;
+	font-size:30px;
+	line-height: 30px;} 
+	
+p {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	margin-bottom:10px; }
+
+a:link {
+        color:#57A3E8;
+        text-decoration:none; }
+
+a:visited {
+        color:#57A3E8;
+        text-decoration:none; }
+
+a:hover {
+        color:#429ED7; }
+        
 /* Achievement Box style */
 
 .achieveRow {
@@ -394,8 +363,42 @@ article.post span.post-meta {
 	font-size:22px;
 	color:#eee;
 	margin:0px; }
-	
-/* Hero Image style */
+
+/* reference tooltips style */
+
+.refnum {
+    position: relative;
+    left: 2px;
+    bottom: 1ex;
+    font-family: Verdana, sans-serif;
+    color: #57A3E8;
+    font-size: .7em;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer; }
+    
+.reftext {
+    font-size:80%;
+    margin-left:1.5%; }
+
+/* Google Maps style */
+
+.google-maps {
+    position:relative;
+    padding-bottom:45%; // This is the aspect ratio 
+    height:0;
+    overflow:hidden; }
+    
+.google-maps iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100% !important;
+	height:100% !important;
+	border:0; }
+
+.post-link {
+	color:rgba(0,0,0,0.8) !important; }
 
 .hero {	
 	text-align: center;
@@ -419,7 +422,7 @@ article.post span.post-meta {
 	margin:10px auto; }
     
 .author-name {
-    margin: 0; }
+    margin-top: 0; }
     
 .hero .date {
 	font-size: 12px; }
@@ -430,4 +433,8 @@ article.post span.post-meta {
 	margin-right: auto; }
 	
 .entry {
-	margin:50px; }
+	margin-top:50px;
+	margin-bottom:50px; }
+	
+#next-prev {
+	 text-align:center;}
