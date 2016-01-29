@@ -26,7 +26,7 @@ Before I figured out how I was going to tell this story, I listed a number of ab
 
 This was the first time I'd been to Sale; and a few weeks ago I got a text saying "Snapchat makes me feel like we're all together when apart." So, putting these two things together, I decided to put her theory to the test... since she wasn't here to show me around in person, I figured I'd just spam her snapchat feed instead.
 
-[![Sale clock tower](https://farm9.staticflickr.com/8725/17628906891_152df5424b_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17628906891)
+[![Sale clock tower](https://farm9.staticflickr.com/8743/17628906891_152df5424b_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17628906891)
 *In the name of all that is good and logical, we give thanks for the chemical energy we are about to absorb*
 
 Regretfully I didn't decide to write this until I was on the way home, so I can't share the full experience. It seemed to work moderately well though.
@@ -37,7 +37,7 @@ I sent a 'snap' of the "Welcome to Sale" sign asking for somewhere to have lunc
 
 But with my work done, and a song in my heart, I set off to find Mister Raymond — where lunch was indeed tasty and to snapchat that I'd made my way there. After lunch, I headed down to the lake, because I was told to, and because lakes are cool.
 
-[![Sale clock tower](https://farm9.staticflickr.com/8725/17050589664_71e6c45ba2_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17050589664)
+[![Sale clock tower](https://farm9.staticflickr.com/8735/17050589664_71e6c45ba2_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17050589664)
 *I saved one!*
 
 I found a path that split at the intersection of the two lakes... one track lined with plastic markers, the other cut between the two lakes heading straight to the botanic gardens. And I? I took the road that went closer to the Pelicans up ahead, because Pelicans are some of my favourite birds.
