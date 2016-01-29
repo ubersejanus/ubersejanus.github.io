@@ -79,11 +79,11 @@ a:hover {
 .sitelinks {
 	padding-left:40px;
 	line-height:43px;
-	height:43px;
-	color:#eee; }
+	height:43px; }
 
 .sitelinks a {
-	padding-right:2.5%; }
+	padding-right:2.5%;
+	color:#eee; }
 
 @media (max-width:500px) {
    .sitelinks {
@@ -186,7 +186,6 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 .centre {
 	text-align:center; }
 
-	
 /* reference tooltips style */
 
 .refnum {
@@ -430,3 +429,5 @@ article.post span.post-meta {
 	margin-left: auto;
 	margin-right: auto; }
 	
+.entry {
+	margin:50px; }
