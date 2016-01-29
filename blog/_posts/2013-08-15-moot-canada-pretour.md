@@ -4,7 +4,7 @@ title: World Moot Pretour
 author: bradp
 hero:
 category: travel
-tags: moots, rovers
+tags: moots rovers
 excerpt: My epic journey from Melbourne to Ottawa, via New York, Washington DC, Pennsylvania and Ontario, with the Australian/New Zealand Contingent.
 ---
 

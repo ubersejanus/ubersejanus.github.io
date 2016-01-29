@@ -2,9 +2,9 @@
 layout: post
 title: Cairns Moot 2014
 author: bradp
-hero:
+hero: https://farm8.staticflickr.com/7505/15670868928_2fa01d2777_k_d.jpg
 category: travel
-tags: moots, rovers
+tags: moots rovers
 ---
 
 Cairns Moot was this weekend, and based largely on the recommendation of a Brisbane Rover who went to the last one who I don't know; as well as a long-term desire to go visit Cairns and the surrounding rainforest-y area, I flew across roughly three-quarters of the country to a weirdly hub-shaped airport where I was met by a uniformed Kamerunga Rover who had the exciting job of finding most of the 60-odd people who were coming up for the weekend.
