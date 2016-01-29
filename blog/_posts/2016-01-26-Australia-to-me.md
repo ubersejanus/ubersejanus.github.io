@@ -15,9 +15,9 @@ So this is what Australia is to me.
 
 <!--more-->
 
-
 [![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/24575820986)
 
+<p style="text-align:center; margin-bottom:50px;">A campfire burning bright — popping and cracking<br>Unseen creatures scurrying about the brush<br>Staring up into a deep-dark sky, where endless stars are all I see<br>That's Australia to me.</p>
 
 [![Underwater in a tropical river](https://farm9.staticflickr.com/8650/15236149784_f4d5a3d114_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15236149784)
 
