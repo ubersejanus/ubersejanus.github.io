@@ -411,9 +411,19 @@ article.post span.post-meta {
 .author-container {
     margin-top: 150px; }
     
+.author-container img {
+	border-radius:50%;
+	width:85px;
+	float:none;
+	border:1px solid; 
+	spin(#e9ebec, -6);
+	margin:10px auto; }
+    
 .author-name {
-    font-size: 12px;
     margin: 0; }
+    
+.hero .date {
+	font-size: 12px; }
     
 .inner-container {
 	width:875px;
