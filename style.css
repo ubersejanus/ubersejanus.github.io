@@ -438,3 +438,16 @@ a:hover {
 	
 #next-prev {
 	 text-align:center;}
+
+.metadata_row {
+	font-family:'Helvetica Neue', Helvetica, sans-serif;
+	margin-top:25px;
+	margin-bottom:25px;
+
+.col_textleft {
+	text-align:left;
+	width:50%; }
+	
+.col_textright {
+	text-align:right;
+	width:50%; }
