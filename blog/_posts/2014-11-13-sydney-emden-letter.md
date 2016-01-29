@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sinking of the Emden (A First Hand Account)
-author: Brad Peters
+author: bradp
 section: blog
 category: history
 tags: 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: EPIC MANTRIP IN QUEENSLAND, Feat. the Sisters Stripeikis
-author: Brad Peters
+author: bradp
+hero:
 date:   2009-01-13 17:10:00
-section: blog
 category: travel
 ---
 

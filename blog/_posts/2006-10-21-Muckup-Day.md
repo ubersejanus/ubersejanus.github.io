@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muckup Day? No Deal...
-author: Brad Peters
+author: bradp
 section: blog
 category: 
 tags:

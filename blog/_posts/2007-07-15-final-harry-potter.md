@@ -2,7 +2,7 @@
 layout: post
 title: Harry Potter and the Deathly Hallows 
 author: Brad Peters
-section: blog
+hero:
 category: 
 tags:
 ---

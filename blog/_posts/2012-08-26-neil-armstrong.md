@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neil Armstrong (1930-2012)
-author: Brad Peters
+author: bradp
 date:   2012-08-26
 section: blog
 category: reflecting

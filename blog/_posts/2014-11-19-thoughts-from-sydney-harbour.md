@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; Sydney Harbour
-author: Brad Peters
-section: blog
-category: thoughts from places
-tags: rovers
+author: bradp
+hero: 
+category: rovers
+tags: thoughts from places
 ---
 
 >I want to see he sun go down.

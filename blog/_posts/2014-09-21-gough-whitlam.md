@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gough Whitlam (1916-2014)
-author: Brad Peters
-section: blog
-category: space
+author: bradp
+hero: http://www.abc.net.au/news/image/4398918-3x2-940x627.jpg
+category: reflecting
 tags: 
 ---
 

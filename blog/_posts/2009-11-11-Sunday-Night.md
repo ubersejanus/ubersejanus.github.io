@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sunday Night
-author: Brad Peters
-section: blog
+author: bradp
+hero:
 category: 
 tags:
 ---

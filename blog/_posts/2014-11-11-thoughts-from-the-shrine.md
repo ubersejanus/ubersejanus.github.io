@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; The Shrine of Remembrance
-author: Brad Peters
-section: blog
-category: thoughts from places
-tags: reflection
+author: bradp
+hero:
+category: reflection
+tags: thoughts from places
 ---
 
 >Far from Flanders fake poppies flow  

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; Sale
-author: Brad Peters
-section: blog
-category: thoughts from places
-tags: reflection
+author: bradp
+hero:
+category: reflection
+tags: thoughts from places
 ---
 Have you ever thought about the ways that friendship has evolved over the last fifty years?
 

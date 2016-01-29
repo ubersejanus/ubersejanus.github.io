@@ -3,8 +3,8 @@ layout: post
 title: New Zealand 2007
 author: Brad Peters
 date:   2007-01-31 12:00:00
-section: blog
-category: travel
+hero:
+tags: travel
 ---
 
 Goin’ to NZ to celebrate finishing school. As you do.

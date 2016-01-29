@@ -1,8 +1,8 @@
 ---
 layout: post
 title: An Open Letter to Surfmoot
-author: Brad Peters
-section: blog
+author: bradp
+hero:
 category: reflection
 tags: moots, rovers
 ---
