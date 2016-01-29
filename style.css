@@ -467,19 +467,17 @@ a:hover {
 .metadata_row {
 	font-family:'Helvetica Neue', Helvetica, sans-serif;
 	margin-top:25px;
-	margin-bottom:25px;
+	margin-bottom:25px; }
 
 .col_textleft {
 	text-align:left;
 	width:49%; 
-	margin-left:0;
-	margin-right:auto; }
+	float:left; }
 	
 .col_textright {
 	text-align:right;
 	width:49%;
-	margin-right:0;
-	margin-left:auto; }
+	float:right; }
 	
 .postTag {
 	display:inline-block;
