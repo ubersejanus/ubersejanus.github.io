@@ -18,13 +18,13 @@ So this is what Australia is to me.
 
 [![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/24575820986)
 
-A campfire burning bright — popping and cracking
+-> A campfire burning bright — popping and cracking <-
 
-Unseen creatures scurrying about the brush
+-> Unseen creatures scurrying about the brush <-
 
-Staring up into a deep-dark sky, where endless stars are all I see
+-> Staring up into a deep-dark sky, where endless stars are all I see <-
 
-That's Australia to me.
+-> That's Australia to me. <-
 
 
 
