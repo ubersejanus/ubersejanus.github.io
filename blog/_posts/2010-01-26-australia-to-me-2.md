@@ -13,7 +13,6 @@ It's probably fair to say that we have the most divisive national holiday going 
 So this is what Australia is to me.
 
 <!--more-->
-<div style="text-align:center; width: 55%; margin-left:auto; margin-right:auto;">
 
 ![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)
 
