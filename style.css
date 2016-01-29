@@ -397,6 +397,7 @@ a:hover {
 	height:100% !important;
 	border:0; }
 
+/* Blog styles */
 .post-link {
 	color:rgba(0,0,0,0.8) !important; }
 
@@ -436,6 +437,13 @@ a:hover {
 	margin-top:50px;
 	margin-bottom:50px; }
 	
+.source {
+	padding: 25px;
+    background: #fff3c7;
+    border: 1px solid #e6d599;
+    margin-bottom: 25px;
+    text-align:center; }
+    
 #next-prev {
 	 text-align:center;}
 
