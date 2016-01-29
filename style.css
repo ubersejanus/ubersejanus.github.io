@@ -458,8 +458,12 @@ a:hover {
 
 .col_textleft {
 	text-align:left;
-	width:50%; }
+	width:49%; 
+	margin-left:0;
+	margin-right:auto; }
 	
 .col_textright {
 	text-align:right;
-	width:50%; }
+	width:49%;
+	margin-right:0;
+	margin-left:auto; }
