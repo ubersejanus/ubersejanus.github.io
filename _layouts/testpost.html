@@ -2,7 +2,7 @@
 layout: default
 section: blog
 ---
-{% assign author = site.data.authors.[page.author] %}
+{% assign author = site.authors.[page.author] %}
 <article class="post full-post" data-id="{{ page.id }}">
 	{% if page.hero == null %}
 	<div class="hero no-image">
