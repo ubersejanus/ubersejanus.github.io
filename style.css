@@ -408,6 +408,9 @@ article.post span.post-meta {
     padding-bottom: 50px;
     color:#eee; }
     
+.author-container {
+    margin-top: 150px; }
+    
 .author-name {
     font-size: 12px;
     margin: 0; }
@@ -416,3 +419,4 @@ article.post span.post-meta {
 	width:875px;
 	margin-left: auto;
 	margin-right: auto; }
+	
