@@ -30,8 +30,8 @@
           {{ content }}
       </section>
       <footer>
-        <p>&copy; {{ site.time | date: '%Y' }}</p>
-        <p style="color: #ccc; margin-top: 25px; font-size: 10px; text-align: left;">Last build {{ site.time | date: "%a, %d %b %Y %T %z" }}</p>
+        <p style="float:right;">&copy; {{ site.time | date: '%Y' }}</p>
+        <p style="color: #ccc; margin-top: 25px; font-size: 10px; text-align: left;">Last build: {{ site.time | date: "%a %d %b %Y %T %z" }}</p>
       </footer>
     </div>
     <script async src='http://www.google-analytics.com/analytics.js'></script>
