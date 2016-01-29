@@ -437,6 +437,10 @@ a:hover {
 	margin-top:50px;
 	margin-bottom:50px; }
 	
+.entry img {
+	margin: auto;
+	max-width:85%; }	
+
 .source {
 	padding: 25px;
     background: #fff3c7;
