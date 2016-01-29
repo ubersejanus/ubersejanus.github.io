@@ -1,0 +1,48 @@
+---
+layout: default
+section: authors
+---
+<div class="inner-container padded media-padded">
+	<h1 class="h3">Contributors</h1>
+	{% for author in site.people %}
+		{% unless author.author == false %}
+		{% unless author.inactive %}
+		{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+		{% if thecycle == 'odd' %}
+		<div class="authors -row">
+		{% endif %}
+			<div class="author-container large -col6">
+			  	<a href="{{ site.baseurl}}/authors/{{ author.id }}/"><img src="{{ author.avatar }}" class="avatar"></a>
+			  	<div class="info">
+			  		<h2 class="h4 author-name"><a href="{{ site.baseurl}}/authors/{{ author.id }}/">{{ author.name }}</a></h2>
+			  		<h3 class="h5">{{ author.job }}</h3>
+			  		<h3 class="h5 author-info">
+			  			{% if author.website %}
+			  				<a href="{{ author.website }}">Website</a>
+			  			{% endif %}
+			  			{% if author.twitter %}
+			  				{% if author.website %} • {% endif %}
+			  				<a href="https://twitter.com/{{ author.twitter }}">Twitter</a>
+			  			{% endif %}
+			  			{% if author.github %}
+			  				{% if author.twitter or author.website %} • {% endif %}
+			  				<a href="https://github.com/{{ author.github }}">GitHub</a>
+			  			{% endif %}
+			  			{% if author.stack %}
+			  				{% if author.twitter or author.website or author.github %} • {% endif %}
+			  				<a href="{{ author.stack }}">Stack Overflow</a>
+			  			{% endif %}
+			  			{% if author.youtube %}
+			  				{% if author.twitter or author.website or author.github or author.stack %} • {% endif %}
+			  				<a href="{{ author.youtube }}">YouTube</a>
+			  			{% endif %}
+			  		</h3>
+			  	</div>
+			</div>
+		{% if thecycle == 'even' %}
+		</div>
+		{% endif %}
+		{% endunless %}
+		{% endunless %}
+	{% endfor %}
+</div>
