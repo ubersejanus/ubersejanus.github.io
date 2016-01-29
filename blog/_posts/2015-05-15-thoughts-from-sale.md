@@ -10,8 +10,8 @@ Have you ever thought about the ways that friendship has evolved over the last
 
 When my eldest aunt was born, my grandparents put a notice in The Argus, which back then was basically what The Age is today. I'm uncertain what The Age's role in this topsy-turvy world was but that's not important right now.
 
-> The gorgeous effect of the intertwining lake,
-> and the many factors of nature surrounds,
+> The gorgeous effect of the intertwining lake,  
+> and the many factors of nature surrounds,  
 > the peaceful blue of the sky above,  
 > and the life of the insects covers the ground.
 
