@@ -1,6 +1,6 @@
 ---
 layout: post
-title: That's Australia to Me
+title: test post
 author: Brad Peters
 section: blog
 category: 
@@ -15,7 +15,7 @@ So this is what Australia is to me.
 <!--more-->
 <div style="text-align:center; width: 55%; margin-left:auto; margin-right:auto;">
 
-[![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/24575820986)
+![Campfire in the High Country](https://farm2.staticflickr.com/1484/24575820986_19d25165be_z_d.jpg)
 
 A campfire burning bright — popping and cracking
 Unseen creatures scurrying about the brush
