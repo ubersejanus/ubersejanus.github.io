@@ -452,11 +452,11 @@ a:hover {
 	margin-left:auto;
 	margin-right:auto; }	
 
-img + em { 
-	display: block;
+p img + em { 
+	display:table;
 	margin-left:auto;
 	margin-right:auto;
-	font-size: 12px; }
+	font-size:12px; }
 
 .source {
 	padding: 25px;
