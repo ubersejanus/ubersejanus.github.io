@@ -2,10 +2,19 @@
 layout: default
 section: authors
 ---
-<ul>
-{% for post in site.posts %}
-  {% if post.author == post.author %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+        <div class="page-content">
+          <div class="post-list archive">
+            <div class="main-col">
+              <div class="author-container large">
+                <img src="{{ author.avatar }}" class="avatar"></a>
+                <h2>{{author.name}}</h2>
+                
+              </div>
+              <ul>
+                {% for post in site.posts %}
+                {% if post.author == post.author %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
