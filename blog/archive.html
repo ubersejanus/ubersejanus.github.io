@@ -4,13 +4,14 @@ section: blog
 ---
         <div class="page-content">
           <div class="post-list archive">
-            <h2>Archive</h2>
-            <ul>{% for post in site.posts %}{% assign year = post.date | date: '%Y' %}{% assign lastyear = post.next.date | date: '%Y' %}
-              {% if year != lastyear %}<li class="year"><h3>{{ year }}</h3></li>{% endif %}
-              <li>
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </li>{% endfor %}
-            </ul>
+            <div class="main-col">
+              <h2>Archive</h2>
+              <ul>{% for post in site.posts %}{% assign year = post.date | date: '%Y' %}{% assign lastyear = post.next.date | date: '%Y' %}
+                {% if year != lastyear %}<li class="year"><h3>{{ year }}</h3></li>{% endif %}
+                <li>
+                  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </li>{% endfor %}
+              </ul>
+            </div>
           </div>
-        </div>

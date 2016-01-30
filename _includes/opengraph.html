@@ -12,7 +12,7 @@
   <meta property="og:type" content="website">
 {% endif %}
 <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 155, '...' }}">
-{% if page.featured_image %}
+{% if page.hero %}
 <meta property="og:image" content="{{ page.hero }}">
 {% endif %}
 {% if page.date %}
