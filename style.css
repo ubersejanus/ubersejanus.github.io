@@ -284,16 +284,19 @@ p {
 	margin-bottom:10px; }
 
 a:link {
-        color:#57A3E8;
-        text-decoration:none; }
+    color:#57A3E8;
+    text-decoration:none; }
 
 a:visited {
-        color:#57A3E8;
-        text-decoration:none; }
+    color:#57A3E8;
+    text-decoration:none; }
 
 a:hover {
-        color:#429ED7; }
-        
+	color:#429ED7; }
+    
+.main-col {
+	max-width:800px; }
+
 /* Achievement Box style */
 
 .achieveRow {
