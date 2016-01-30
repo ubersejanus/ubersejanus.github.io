@@ -4,7 +4,7 @@ title: Sinking of the Emden (A First Hand Account)
 author: bradp
 hero: /blog/assets/2014-11/sydney-heads.jpg
 category: history
-tags: 
+tags: reflecting family
 ---
 
 For this episode of "Things that happened 100 years ago" I dug down into the family archives, and pulled out a letter written by my great-grandfather to my great-grandmother.
@@ -30,7 +30,7 @@ A different perspective can be found here, in the <a href="/blog/assets/2014-11/
 >I got busy at once carrying charges and dragging projectiles to them and after that I got so busy that I forgot all about going below. Just after I happened to be passing the foot of the bridge-ladder and I saw two of our cooks-mates struggling with something and one of them beckoned me to help them. It turned out to be an A.B. named Roy [Able Seaman Albert Hoy] who worked the range finder on the upper bridge. A shell had struck the range finder and carried it away, taking his right leg right off close to the body. He died just afterwards, but I returned on deck as soon as I got him down on to the stokers mess-deck. A chap who was working with us at the ammunition hoist was struck in the chest with a piece of shell and he died on Wednesday. A shell burst near No. 2 starboard gun and wounded all the guns' crew except one man. Do you remember that night when we were coming back from seeing "On Our Selection" I was talking to a chap who sat opposite to me in the train. Well he was the trainer of that gun and he had a marvellous escape, although he was badly wounded. The gun-layer died the next day, also an ordinary seaman. That made 4 fatalities and 12 injured. I finished up acting as one of the gun crew at the No. 1 Port, at the request of the gun-layer.
 
 ![One of Sydney's gun turrets](/blog/assets/2014-11/sydney-gun.png)  
-**One of Sydney's gun turrets**
+*One of Sydney's gun turrets*
 
 >You should have seen the Emden at this time. She was on fire aft and only her main-mast was standing, her funnels and foremast having fallen one at the time. Also she was getting very low in the water and was evidently in a sinking condition. Her colours were still flying from her main mast and she was near an island, she headed for the beach and was soon hard &amp; fast ashore.
 
@@ -41,7 +41,7 @@ A different perspective can be found here, in the <a href="/blog/assets/2014-11/
 >My word, you could hardly credit what sights they were. One man with his head all bandaged was brought aboard after dinner. He got up off the stretcher without help and staggered into the sick bay. On removing the bandages we found that his right eye and all the right side of his face had been blown away. His nose was hanging down by a little bit of flesh and his lower law was hanging by the left side. He had been like that for over 24 hours and he lived till next night. Others were maimed in every conceivable place. Broken arms, legs, part of limbs blown off, and nearly every one of them peppered with bits of shell and splinters. I will finish this after supper, as we get into Colombo tomorrow morning.
 
 ![Emden run ground after the battle](/blog/assets/2014-11/emden-aground.jpg)  
-**Emden after the battle**
+*Emden after the battle*
 
 >1am Nov 15th Janie Dear, you see I am making several attempts to get on with this letter. On Tuesday afternoon I helped carry in some of the injured, also I held one man while the Doctor amputated his foot. That night I was told off as Doctor's Party with 11 more seamen, one of whom is Ern Hansen. Since then I have been down in the ward-room attending to the wounded. Thank goodness we get in tomorrow, so that some of the poor chaps can get better attention. We were met yesterday by the CPR [Canadian Pacific Railways] ship "Empress of Russia". As the sea was very calm, we transhipped a lot of the wounded Germans, and she is steaming along abreast of us. Well sweetheart, what do you think of your boy now! Isn't he a blood-thirsty devil.
 
@@ -53,4 +53,4 @@ A different perspective can be found here, in the <a href="/blog/assets/2014-11/
 Jack
 
 ![Great-grandpa Day](/blog/assets/2014-11/john-day.jpg)  
-**Great-Grandpa John Day during World War One**
+*Great-Grandpa John Day during World War One*

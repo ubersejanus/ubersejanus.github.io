@@ -4,7 +4,7 @@ title: EPIC MANTRIP IN QUEENSLAND, Feat. the Sisters Stripeikis
 author: bradp
 hero:
 date:   2009-01-13 17:10:00
-category: travel
+category: travel queensland
 ---
 
 The idea for this may or may not have originally been a joke, but when we saw how terribly annoying it was to some, there was really no choice but to forge ahead. As originally conceived, the idea was to have a Daytrip to Queensland, for all the fun of Wet 'n' Wild. Mr Burridge and Mr Vine were both on board, but we were saying that we were going to go for six months or so before I finally set the random date of "the Saturday closest to the 10th of January" with the idea that I could stay on for a day and see some friends.

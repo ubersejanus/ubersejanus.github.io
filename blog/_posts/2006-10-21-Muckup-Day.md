@@ -2,9 +2,8 @@
 layout: post
 title: Muckup Day? No Deal...
 author: bradp
-section: blog
-category: 
-tags:
+hero:
+tags: school
 ---
 
 So we walk into school from the bottom oval and the first thing we see is a broken window on the edge of the lower oval "Oh you've GOT to be kidding" we walk up and see our friends, along with the rest of Senior School standing around talking and are directed to the G-Block portables. 

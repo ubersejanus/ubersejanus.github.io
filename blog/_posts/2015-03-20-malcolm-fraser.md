@@ -4,7 +4,7 @@ title: Malcolm Fraser (1930-2015)
 author: bradp
 hero: /blog/assets/2015-03/malcolm-fraser.jpg
 category: history
-tags: 
+tags: reflecting
 ---
 
 It's a bad year to be a former Prime Minister, it would seem.

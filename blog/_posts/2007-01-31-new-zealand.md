@@ -4,7 +4,7 @@ title: New Zealand 2007
 author: Brad Peters
 date:   2007-01-31 12:00:00
 hero:
-tags: travel
+tags: travel family
 ---
 
 Goin’ to NZ to celebrate finishing school. As you do.

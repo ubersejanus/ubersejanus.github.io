@@ -3,8 +3,8 @@ layout: post
 title: Gough Whitlam (1916-2014)
 author: bradp
 hero: /blog/assets/2014-09/gough-whitlam.jpg
-category: reflecting
-tags: 
+tags: reflecting
+ 
 ---
 
 Gough,

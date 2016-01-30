@@ -4,7 +4,7 @@ title: Thoughts from Places &mdash; The Atherton Tableland
 author: bradp
 hero: https://farm8.staticflickr.com/7563/15858030082_f366f673ae_k_d.jpg
 category: reflection
-tags: thoughts-from-places
+tags: thoughts-from-places queensland
 ---
 
 The Atherton Tablelands is possibly a misleading title, but it was the name of the expedition, so I'm running with it.
