@@ -431,6 +431,8 @@ a:hover {
 
 .no-image .author-container img {width:75px;}
 
+.author-container .avatar img {width:105px;}
+
 .author-container img {
 	border-radius:50%;
 	float:none;
@@ -502,3 +504,4 @@ a:hover {
 	padding-left:6.5px;
 	padding-right:6.5px;
 	padding-top:5.85px; }
+	
