@@ -431,7 +431,7 @@ a:hover {
 
 .no-image .author-container img {width:75px;}
 
-.author-container .avatar img {width:105px;}
+.author-container img.avatar {width:105px;}
 
 .author-container img {
 	border-radius:50%;
