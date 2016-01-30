@@ -479,14 +479,6 @@ a:hover {
 	margin-top:25px;
 	margin-bottom:25px; }
 
-.col_textleft {
-	text-align:left;
-	float:left; }
-	
-.col_textright {
-	text-align:right;
-	float:right; }
-	
 .postTag {
 	display:inline-block;
     margin:0.167em;
