@@ -11,11 +11,9 @@ excerpt: My epic journey from Melbourne to Ottawa, via New York, Washington DC, 
 ###Getting There
 The journey to World Moot began at about 4am on the couch of Mr Burridge's sharehouse in Heidelberg. He shares my affinity for airports, and was kind enough to volunteer to join me on yet another a trip there. My not joining him on the return from Tullamarine may or may not have been a point in my favour, but anyway:
 
-<div class="blog-image-right-land">
   <a href="https://www.flickr.com/photos/ubersejanus/17246438826/" target="_blank">
   <img src="https://farm8.staticflickr.com/7594/17246438826_c0e771ab9e_z_d.jpg" alt="picture of Qantas A380 'Lawrence Hargrave' awaiting passengers at Melbourne Airport International Terminal" /></a> 
-  <p>The Plane, Anton! The plane!</p>
-</div>
+  <em>The Plane, Anton! The plane!</em>
 
 I got to Tullamarine and met up with my travelling companion, Beautiful Annie. There were some small issues at check-in, but before we knew it, we were clearing Immigration and hanging out in the departure lounge, having a look at the big ol' plane we were about to board and talking to each other through text message from opposite sides of the departure lounge, because you know, personal space or something.
 
@@ -195,6 +193,6 @@ By this time, it's about 1am and there isn't a lot of traffic about, so we figur
 
 Breakfast was served for all 2,000 of us out of one cafeteria. The line had to be seen to be believed. So after dumping our main bags with the truck to head to site ahead of us, we took a deep breath and joined the end of the queue.
 <div style="text-align:center;">
-<p style="font-style:italic;">The thrilling tale of my 2013 trip to the other side of the planet <a title="concludes here" href="/blog/201308-moot-canada" rel="next">concludes here</a></p>
+<p style="font-style:italic;">The thrilling tale of my 2013 trip to the other side of the planet <a title="concludes here" href="/blog/2013-08/moot-canada" rel="next">concludes here</a></p>
 There are plenty more pretour photos in <a href="https://www.flickr.com/photos/ubersejanus/sets/72157641950085705/" target="_blank">this Flickr album</a>
 </div>
