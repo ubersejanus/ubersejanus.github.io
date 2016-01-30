@@ -1,4 +1,4 @@
 ---
-layout: tagpage
-author: test-author
+layout: author
+author: bradp
 ---
