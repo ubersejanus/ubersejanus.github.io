@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harry Potter and the Deathly Hallows 
-author: Brad Peters
+author: bradp
 hero:
 category: 
 tags:

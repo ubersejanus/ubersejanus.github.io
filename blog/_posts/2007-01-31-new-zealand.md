@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Zealand 2007
-author: Brad Peters
+author: bradp
 date:   2007-01-31 12:00:00
 hero:
 tags: travel family

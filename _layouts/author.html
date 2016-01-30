@@ -2,17 +2,18 @@
 layout: default
 section: authors
 ---
+{% assign author = site.data.people[page.author] %}
         <div class="page-content">
           <div class="post-list archive">
             <div class="main-col">
               <div class="author-container">
 				<img src="{{ author.avatar }}" class="avatar"></a>
-				<h2>by <a href="/authors/{{ page.author }}">{{ author.name }}</a></h2>
+				<h2>{{ author.name }}</h2>
                 
               </div>
               <ul>
                 {% for post in site.posts %}
-                {% if post.author == post.author %}
+                {% if author == post.author %}
                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
                 {% endif %}
                 {% endfor %}
