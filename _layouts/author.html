@@ -12,7 +12,7 @@ section: authors
                 
               </div>
               <ul>
-                {% for post in site.posts %}
+                {% for post in site.posts.author[page.author] %}
                 {% if [page.author] == post.author %}
                 <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
                 {endif}
