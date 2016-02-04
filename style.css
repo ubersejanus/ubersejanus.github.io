@@ -519,6 +519,6 @@ a:hover {
     margin-bottom:10px; }
     
 .author-container h5 {
-	float:left;
-	margin-left:25px;
-	margin-top:60px; }
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 70px; }
