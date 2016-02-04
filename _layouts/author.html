@@ -3,6 +3,7 @@ layout: default
 section: authors
 ---
 {% assign author = site.data.authors.[page.author] %}
+{% assign thisone = page.author
         <div class="page-content">
           <div class="post-list archive">
             <div class="main-col">
@@ -33,7 +34,7 @@ section: authors
               </div>
               <ul>
                 {% for post in site.posts %}
-                  {% if page.author_id == [page.author] %}
+                  {% if page.author_id == thisone %}
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
                   {% endif %}
                 {% endfor %}
