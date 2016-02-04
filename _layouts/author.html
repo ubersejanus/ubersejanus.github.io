@@ -33,9 +33,9 @@ section: authors
               </div>
               <ul>
                 {% for post in site.posts %}
-                  {% if post.author == var_author %}
+
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-                  {% endif %}
+   
                 {% endfor %}
               </ul>
             </div>
