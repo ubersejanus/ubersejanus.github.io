@@ -7,7 +7,11 @@
 {% endif %}
 {% if page.title %}
   <meta property="og:type" content="article">
-  <meta property="article:author" content="{{ site.fb_admins }}">
+  {% if page.author %}
+  <meta property="article:author" content="http://www.facebook.com/{{ site.data.authors.[page.author].facebook }}">
+  {% else %}
+  <meta property="article:author" content="http://www.facebook.com/{{ site.fb_admins }}">
+  {% endif %}
 {% else %}
   <meta property="og:type" content="website">
 {% endif %}
