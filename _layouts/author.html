@@ -16,6 +16,6 @@ section: authors
                   {% if [page.author] == post.author %}
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
                   {% endif %}
-                {% break %}
+                {% endfor %}
               </ul>
             </div>
