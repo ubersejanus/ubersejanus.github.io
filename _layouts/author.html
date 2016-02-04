@@ -1,9 +1,7 @@
 ---
 layout: default
 section: authors
-sitemap: false
 ---
-
 {% assign var_author = site.data.authors.[page.author] %}
         <div class="page-content">
           <div class="post-list archive">
@@ -14,6 +12,10 @@ sitemap: false
                 
               </div>
               <ul>
-                
+                {% for post in site.posts.author[page.author] %}
+                  {% if [page.author] == post.author %}
+                  <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+                  {endif}
+                {% break %}
               </ul>
             </div>
