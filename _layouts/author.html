@@ -32,10 +32,10 @@ section: authors
 			  		</h3>
               </div>
               <ul>
-                {% for post in site.posts.blog %}
-
+                {% for post in site.posts %}
+                  {% if page.author_id == [page.author] %}
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-   
+                  {% endif %}
                 {% endfor %}
               </ul>
             </div>

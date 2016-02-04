@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Zealand 2007
-author: bradp
+author_id: bradp
 date:   2007-01-31 12:00:00
 hero:
 tags: travel family
