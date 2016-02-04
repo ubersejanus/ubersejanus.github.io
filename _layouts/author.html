@@ -8,14 +8,14 @@ section: authors
             <div class="main-col">
               <div class="author-container">
 				<img src="{{ var_author.avatar }}" class="avatar"></a>
-				<h2>{{ author }}</h2>
+				<h2>{{ author.name }}</h2>
                 <h5>
 			  			{% if author.website %}
 			  				<a href="{{ author.website }}">Website</a>
 			  			{% endif %}
 			  			{% if author.facebook %}
 			  				{% if author.website %} • {% endif %}
-			  				<a href="https://www.facebook.com/{{ author.twitter }}">Facebook</a>
+			  				<a href="https://www.facebook.com/{{ author.facebook }}">Facebook</a>
 			  			{% endif %}
 			  			{% if author.github %}
 			  				{% if author.twitter or author.website %} • {% endif %}
