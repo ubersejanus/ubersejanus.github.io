@@ -2,13 +2,13 @@
 layout: default
 section: authors
 ---
-{% assign var_author = site.data.authors.[page.author] %}
+{% assign author = site.data.authors.[page.author] %}
         <div class="page-content">
           <div class="post-list archive">
             <div class="main-col">
               <div class="author-container">
 				<img src="{{ var_author.avatar }}" class="avatar"></a>
-				<h2>{{ var_author.name }}</h2>
+				<h2>{{ author }}</h2>
                 <h5>
 			  			{% if author.website %}
 			  				<a href="{{ author.website }}">Website</a>
