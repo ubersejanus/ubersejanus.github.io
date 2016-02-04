@@ -505,4 +505,12 @@ a:hover {
 	
 /* Author page styles */
 
-.author-container img.avatar {width:105px;}
+.author-container img.avatar {
+	width:105px;
+	float:left }
+	
+.author-container h2 {
+	float:left;
+    margin-left:25px;
+    margin-top:35px;
+    margin-bottom:10px; }
