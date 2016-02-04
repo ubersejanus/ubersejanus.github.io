@@ -36,6 +36,7 @@ section: authors
                 {% for post in site.posts %}
                   {% if page.author_id == thisone %}
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+                  {% else %}
                   {% endif %}
                 {% endfor %}
               </ul>
