@@ -32,7 +32,7 @@ section: authors
 			  		</h3>
               </div>
               <ul>
-                {% for post in site.posts %}
+                {% for post in site.posts.blog %}
 
                   <li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
    
