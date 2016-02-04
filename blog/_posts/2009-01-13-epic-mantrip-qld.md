@@ -15,10 +15,10 @@ So Friday night comes and I manfully powered through the night. (Not actually to
 
 Got up into the air and in about 2 minutes BAM! out like a light until we started those cool banky maneouvers to get down to Coolangatta. Once we got down we met up with Burridge's mum, then waited for Laura who was kind enough to put us up for the weekend. We spent the day, exploring Mt Tamborine, which is a super-cool place, by the way. You all should go.
 
-<div class="blog-image-centre">
-  <img src="/blog/assets/2009-01/waterfall.png" alt="waterfalls at Mt Tamborine" /> 
-  <p>GOSH I LIKE WATERFALLS</p>
-</div>
+
+<img src="/blog/assets/2009-01/waterfall.png" alt="waterfalls at Mt Tamborine" /> 
+<em>GOSH I LIKE WATERFALLS</em>
+
 
 Aside from water there were also cool trees with funny looking trunks. We also visited the Mt Tamborine Botanical Gardens, much to the bemusement of our host. Other exciting events on the mountain included walking around and then on the way home almost loosing her car rego sticker out the window.
 

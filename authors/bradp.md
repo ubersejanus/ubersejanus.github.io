@@ -1,5 +1,5 @@
 ---
 layout: author
-author: test
+author: bradp
 sitemap: false
 ---
