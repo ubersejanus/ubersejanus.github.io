@@ -534,9 +534,6 @@ article.post-preview {
 	width:600px; }
 
 article.post-preview img {
-	max-width:600px;
-	max-height:400px;
-	margin-left:auto;
-	margin-right:auto; }
+	width:600px; }
 
 	
