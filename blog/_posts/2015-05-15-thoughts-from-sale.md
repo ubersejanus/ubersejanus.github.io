@@ -48,4 +48,4 @@ As <a href="https://xkcd.com/490/" target="_blank">XKCD once noted</a>, thanks t
 
 I'm squarely in the "technology as a tool extends our personal interactions" camp, but I moved to the internet long ago, and I recognise that there are plenty who do not see things the same way.
 
-Of course, sometimes typing /*hug/* sometimes just doesn't cut it, and the only solution is an impulsive, cross-country trip at 2AM.
+Of course, sometimes typing \*hug\* sometimes just doesn't cut it, and the only solution is an impulsive, cross-country trip at 2AM.
