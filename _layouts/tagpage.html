@@ -10,9 +10,8 @@ sitemap: false
             </div>
 	{% for post in site.tags[page.tag] %}
   		  	<article class="post-preview">
-      		  {% if post.hero %}
-      		  <img src="{{ post.hero }}">
-      		  {% endif %}
+  		  	  <hr>
+      		  {% if post.hero %}<img src="{{ post.hero }}">{% endif %}
       		  <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       		  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       		  <p>{{ post.excerpt }}</p>
