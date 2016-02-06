@@ -9,13 +9,13 @@ sitemap: false
               <h2>{{ page.tag }}</h2>
             </div>
 	{% for post in site.tags[page.tag] %}
-  		  	<article class="post">
+  		  	<article class="post-preview">
       		  {% if post.hero %}
       		  <img src="{{ post.hero }}">
       		  {% endif %}
       		  <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       		  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      		  {{ post.excerpt }} 
+      		  <p>{{ post.excerpt }}</p>
       		  {% capture content_words %} 
       		  {{ post.content | number_of_words }} 
       		  {% endcapture %} 

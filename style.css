@@ -527,3 +527,15 @@ a:hover {
     position: absolute;
     margin-left: 130px;
     margin-top: 70px; }
+    
+/* Tagpage styles */
+
+article.post-preview {
+	width:600px; }
+
+article.post-preview img {
+	width:400px;
+	padding-left:auto;
+	padding-right:auto; }
+
+	
