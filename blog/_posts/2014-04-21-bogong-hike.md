@@ -5,6 +5,7 @@ author: bradp
 hero: https://farm8.staticflickr.com/7047/13981150853_4b2052c912_k_d.jpg
 section: blog
 tags: bogong hiking rovers
+excerpt: The party set out early on Saturday. We were on track to begin with as Lea Young joined us on the way up to Wallace's Hut. But a few hours later, we came to an "unexpected intersection" and it turned out that we'd missed the first actual turn of the journey...  
 ---
 The weekend got off to a flying start on the Thursday night, when my car broke down at Glenrowan Maccas — luckily the Chalet had a working bee and I was able to get a lift there, once Jody and Ryan finished controlling the British Crown and keeping the metric system down.  
 So Ryan and I spent the first day of the hike loading wood into the chalet for winter before Matt & Catey made it there.
