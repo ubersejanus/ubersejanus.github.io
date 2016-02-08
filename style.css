@@ -528,12 +528,16 @@ a:hover {
     margin-left: 130px;
     margin-top: 70px; }
     
-/* Tagpage styles */
+/* article preview styles */
 
 article.post-preview {
 	width:600px; }
 
 article.post-preview img {
 	width:600px; }
+	
+article.post-preview h2 {
+	margin-bottom: 12px; }
+
 
 	
