@@ -3,8 +3,10 @@ layout: post
 title: Cairns Moot 2014
 author: bradp
 hero: https://farm8.staticflickr.com/7505/15670868928_2fa01d2777_k_d.jpg
-category: travel
-tags: moots rovers
+tags:
+- moots
+- rovers
+- travel
 ---
 
 Cairns Moot was this weekend, and based largely on the recommendation of a Brisbane Rover who went to the last one who I don't know; as well as a long-term desire to go visit Cairns and the surrounding rainforest-y area, I flew across roughly three-quarters of the country to a weirdly hub-shaped airport where I was met by a uniformed Kamerunga Rover who had the exciting job of finding most of the 60-odd people who were coming up for the weekend.
@@ -41,6 +43,4 @@ Just make sure that you drink enough water.
 
 Have a look at my [Flickr album](https://www.flickr.com/photos/ubersejanus/albums/72157649013570489) for a whole lot more pictures of the weekend, and click below to enjoy the singing skills of my expedition on Friday.
 
-<div class="centre">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mwisffoohK4" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include youtube.html video_id="mwisffoohK4" %}
