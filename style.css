@@ -106,68 +106,6 @@ div.snapshot a, div.snapshot a:link, div.snapshot a:visited {
 
 
 
-.blog-image-centre {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 15px;
-	margin-bottom: 15px;
-	width: 55%;
-	padding: 3px;
-	text-align: center;
-	font-size: 90%; }
-
-.blog-image-left-port {
-	float: left;
-	margin-right:15px;
-	margin-bottom:5px;
-	padding:3px;
-	text-align:left;
-	font-size:90%;
-	max-width:200px; }
-
-.blog-image-left-land {
-	float: left;
-	margin-right:15px;
-	margin-bottom:5px;
-	padding:3px;
-	text-align:left;
-	font-size:90%;
-	max-width:310px; }
-
-.blog-image-right-port {
-	float: right;
-	margin-left:15px;
-	margin-bottom:5px;
-	padding:3px;
-	text-align:right;
-	font-size:90%;
-	max-width:200px; }
-
-.blog-image-right-land {
-	float: right;
-	margin-left:15px;
-	margin-bottom:5px;
-	padding:3px;
-	text-align:right;
-	font-size:90%;
-	max-width:310px; }
-
-[class^="blog-image-left"] p, div[class*=" blog-image-left"] p {
-	margin-top:0px;
-	margin-bottom:0px;
-	margin-left:10px;;
-	line-height:95%; }
-
-[class^="blog-image-right"] p, div[class*=" blog-image-right"] p, .blog-image-centre p {
-	margin-top:0px;
-	margin-bottom:0px;
-	margin-right:10px;;
-	line-height:95%; }
-
-[class^="blog-image-"] img, div[class*=" blog-image-"] img {
-	max-width:100%;
-	max-height:100%;
-	margin-bottom:0px; }
 
 .comments {
 	margin-top:30px; }
@@ -540,4 +478,7 @@ article.post-preview h2 {
 	margin-bottom: 12px; }
 
 
-	
+/* Youtube embed style */
+
+div.youtube-embed {
+	text-align:center; }
