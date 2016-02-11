@@ -4,7 +4,8 @@ title: That's Australia to Me
 author: bradp
 hero: https://farm6.staticflickr.com/5749/22972980605_63de42c8f2_k_d.jpg
 category: 
-tags: australia 
+tags:
+- australia 
 ---
 
 It's odd that the place that your mother happened to be when she gave birth to you has so much impact on the way that most of us will proceed to conduct themselves over the next 80-odd years.
