@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Zealand 2007
-author_id: bradp
-date:   2007-01-31 12:00:00
-hero:
+author: bradp
+date: 2007-01-31 12:00:00
+hero: https://farm4.staticflickr.com/3931/15423899641_22c229f0c0_k_d.jpg
 tags: travel family
 ---
 
@@ -11,7 +11,7 @@ Goin’ to NZ to celebrate finishing school. As you do.
 
 <!--more-->
 
-####Day One
+##Day One##
 
 Well after getting up 16 hours ago, it’s now time to write what is sure to be the first of one reports into my trip to New Zealand.
 
@@ -27,15 +27,15 @@ So on to the roads we go. It’s all very similar to at home, although there are
 
 Dad and I got dispatched on a mission to the shops, and took the hotel shuttle into the CBD. They dropped us off at this place called Pak’n’Save. Now from the outside, it looks like something similar to Safeway, mainly because it has its own brand of servo nearby. We walk inside and oh shit. Do you guys remeber the old Franklins supermarkets that went under a few years ago? It’s like one of those but MASSSSSIVE. we got our stuff as quickly as possible, but had to make a last-ditch return to the fruit and veg section – a VERY bad idea.
 
-Beaten, but victorious, we made a rearward-facing tactical maneuver. Oh that reminds me, they sell alchymahol there and for some reason i couldn’t understand this lady would walk up to different checkouts and swipe her namebadge. Turns out its because the kids working there were actual kids and couldn’t sell alcohol all by themselves.
+Beaten, but victorious, we made a rearward-facing tactical maneuver. Oh that reminds me, they sell booze there and for some reason I couldn’t understand this lady would walk up to different checkouts and swipe her namebadge. Turns out its because the kids working there were actual kids and couldn’t sell alcohol all by themselves.
 
 We catch this taxi home before going out for dinner at this place the guys at the front desk (Our Friend James At The Front Desk and the duty manager) recommended. Sasha the Russian Maxicab driver met us and we go to this place called Lone Star,a family restaurant co-located with this country and western bar and also this trendy bar out back. During kids dinner time, they had DVDs of the Thunderbirds going without the sound, and the waitstaff we occasionally found hiding out in the back bar watching as well.
 
 They also had a fair bit of memorabilia, including stuff that was probably photocopied and also stuff that had blatently been stolen from the internet, as it had been blown up just enough that you could see the pixels.
 
-The TV here is strange, there’s hardly any american stuff, a bit of NZ stuff, but its mostly exported from the UK, with a lot of familiar ads. Know the Ford one with Jackie O and that guy from Australian Idol? Thats here. Well TV has apparently gone into after midnight switch to infomericals, so I think I might go and post this now.
+The TV here is strange, there’s hardly any american stuff, a bit of NZ stuff, but its mostly exported from the UK, with a lot of familiar ads. Know the Ford one with Jackie O and that guy from Australian Idol? Thats here. 
 
-####Day Two
+##Day Two##
 
 Two days and two entries! I’m doing well!!! My hope to have a written record of this trip could actually occur!
 
@@ -47,17 +47,20 @@ So today we did very little. Extremely little even. Getting up late we went to t
 
 At night, our friend Sasha The Maxicab Driver took us out to this wildlife reserve pretty similar to Healsville Sanctuary, they do this Maori experience fancy show that was pretty fun. The tour guide designated a random German guy as our tribal Chief so he got to have this Maori warrior scream at him, which I’m sure was great fun..
 
+[[Native bird](https://farm6.staticflickr.com/5597/15423379601_391b23463d_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15423379601/in/album-72157647905761520/)
+*Nature!*
+
 After that we were ‘accepted into their tribe’ which seemed to involve sitting around an amphitheatre and listening to them sing songs, a couple being their traditional songs, but a few that the parentals knew the tune to and also the hokie pokie. Then they taught the women there how to use poi, and got Chief Hans (or watever his name was) to bring down his ‘longhairs’ to do the haka. That was fun, although most of the guys aside from me, dad and this Irish guy nearby hadn’t cottoned on to the fact that Longhairs meant “Warriors” meant “Men in the audience” (we skipped the middle bit though) and had to get that spelled out to them.
 
 Another thing is that one of the performers looked white from the audience but was ‘black’ when you got up close to him, and that the second-string girl performer looked really familiar, something that really has me on edge, like the other night where one of Chrissy’s friends came in and I was suuuuure that I had seen her somewhere before (Turned out that it was from her mobile phone’s background, but it was driving me fucking mad trying to figure it out)
 
-The park also did a wildlife tour after that, of the native New Zealand wildlife there, which was interesting, although they turned us loose in the rest of the park which was introduced species, something I found very strange. Deer, Possums, Geese, Wallabies, Magpies, and these massive Eels all showcased just as much as their natives… oh well. These Newzealanders are crazy *taps head*.
+The park also did a wildlife tour after that, of the native New Zealand wildlife there, which was interesting, although they turned us loose in the rest of the park which was introduced species, something I found very strange. Deer, Possums, Geese, Wallabies, Magpies, and these massive Eels all showcased just as much as their natives… oh well. These Newzealanders are crazy \*taps head\*.
 
 On the way home we caught some KFC. That was a bad idea, because the the girl who was serving us wasn’t very good. But that was OK, because they still have hotrods. But the girl didn’t put them in did she? But that was also OK, because i had a Snacker! I love those things, but we don’t have them any more do we?
 
 Hooray for international travel!
 
-####Day Three
+##Day Three##
 
 Day three here in New Zealand, and I’m still going strong!
 
@@ -73,6 +76,9 @@ I’m never up at 8am! it was terrible! But anyway, at 8am we met our new friend
 
 In the beginning, I wasn’t convinced that we were on the right tour, because he was going all around Christchurch but eventually we headed off through the Cambridge Mountains (I think that was what they was called) and off to Akaroa.
 
+[[An old truck](https://farm3.staticflickr.com/2945/15426599795_073a0ffe31_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426599795/in/album-72157647905761520/)
+*This old railway truck was super exciting*
+
 On the way we stopped off at this old railway station which was what made Jaimie’s day. Back into the bus and we evenually made our way there, through a coffee shop/bar, a cheese factory (and I had thought that gravy fines were disgusting… thats nothing). Where Ernie cooked up an excellent barbeque, before we headed off to the ship.
 
 It was maybe a 50-foot tour boat, that took us all around the harbour, which about 6 million years ago was a volcano.
@@ -85,7 +91,10 @@ Seriously, so many of them were around the boat, we were just sitting there unti
 
 On the way back into Christchurch, we stopped off at this beachcomber’s museum/house. He’s got all this stuff thats washed up on the shore and put it up to view. He’s got all sorts of good stuff in there, everything from petrified wood to cannon shells, to these massive lightglobes. Really interesting to see what washes up.
 
-####Day Four
+[[The Akaroa River](https://farm4.staticflickr.com/3930/15239849309_11196c5b6a_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15239849309/in/album-72157647905761520/)
+*The Akaroa River was hidden behind where we had lunch*
+
+##Day Four##
 
 Day four here, and I wasn’t going to be arsed writing again today, but well, it shouldn’t take too long.
 
@@ -93,11 +102,17 @@ Today I went on a tour of Mt Sunday, which is a little knoll in this glacial val
 
 It was made famous by it’s role in two of Peter Jackson’s Lord of the Rings films, the location of the village of Edoras.
 
+[[Andúril, Flame of the West](https://farm4.staticflickr.com/3932/15426751922_77cf4a7b4f_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426751922/in/album-72157647905761520/)
+*I pose with Andúril, Flame of the West*
+
 It was one long-arse drive from Christchurch to this valley, with Rex the tourguide, the two Frenchwomen, the French expat from London, this Japanese woman, two Germans, two guys from Denmark and two sheltered ladies from the Channel Islands.
 
 When we got there, we met up with another tourgroup which was led by a woman that didn’t really know her stuff. She was constantly flicking through a guidebook and calling the Rohirrim ‘Rohans’. But once you tuned her out, the scenery was fantastic and well worth the cramped journey.
 
 Tonight, we went to this US chain restaurant called Denny’s, which Mum used to work at when Dad was working out on the gasfields every few weeks. As far as I know, we don’t have any of these in Australia anymore, and this is a really good thing, as they are terrible.
+
+[[Rakai River bridge view](https://farm3.staticflickr.com/2948/15426710722_5e4e252173_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426710722/in/album-72157647905761520/)
+*We stopped at this bridge, it had a nice view*
 
 Right now, I’m watching a bit of Fox News. It really is your voice for evil. Just before there was this Imam and some fat white guy getting interviewed about the Imam getting discriminated against and the guy was sayin flat out ‘If you want me to care, then denounce what’s his name, Osseta – Osama bin Laden’ and the Imam just said calmly “OK, I have. Several times.”
 
@@ -105,25 +120,36 @@ The white man then said something about how everyone was being inconvenienced by
 
 Oh look, now they’re mocking an ex-Air Force Colonel who says that he’s taken some pictures that show UFOs. OK, I would too — but I wouldn’t start out supportive of him, then start making it into a joke. That’s not cricket.
 
-####Days Five & Six
+##Day Five##
 
 We left the hotel we’ve been staying at all this time, the Holiday Inn-on-Avon bright and early and headed off to the Christchurch Railway Station to board the TraNZalpine (see what they did there?) train to Greymouth, chief city of the West Coast.
+
+[[TraNZalpine train](https://farm4.staticflickr.com/3933/15426910832_e3a434bbf3_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426910832/in/album-72157647905761520/)
+*Ze train, Anton! Ze train!*
 
 And it was spectacular. Amazing scenery the whole way over. If you ever come here, then you should definitely take this trip.
 
 For something different, we stayed that night in a Backpacker’s Hostel, which is more of a cheap, communal hotel than whatever I was that I was expecting.
 
+[[Braided River from the train train](https://farm3.staticflickr.com/2946/15240571138_708e95ba0e_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15240571138/in/album-72157647905761520/)
+*Braided rivers are super cool*
+
+
+##Day Six##
 We went to a smaller, less polished, version of Sovereign Hill called Shantytown, which has a working steam train. Jaimie was very excited. Other than that, the only thing that had me excited there was the office was located in a building obstinately marked as the Bank of New Zealand, with a sign saying that they apologise for the inconvenience, but all of their staff hae taken off for the latest gold rush, and therefore this branch of the bank has been closed until further notice.
+
+[[Braided River from the train train](https://farm4.staticflickr.com/3930/15404246846_647b758599_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15404246846/in/album-72157647905761520/)
+*Steam trains at Shantytown*
 
 Yesterday was mostly spent driving straight back to the East Coast, and the civilised-er part of the island.
 
 Now we’re in a motel at a place called Woodend, and are planning on doing very little, kinda like what you would normally do on a holiday.
 
-####Days Seven through Ten
+##Days Seven through Ten##
 
 As expected, this week has amounted to little, fast.
 
-Today is roughly a 30 degree day, and the locals are all going all ‘its sooo hot’ and I’m thinking ‘oh boo-hoo. I didn’t even put shoes on until midday.’
+Today is roughly a 30 degree day, and the locals are all going all ‘its sooo hot’ and we're having a good chuckle.
 
 We went to Woolworths today, that was surprisingly good. Its pretty much exactly the same as it is back home, even smelling the same (As I’m sure you guys know, Safeways have a very particular smell). But their doughnuts tasted horrible. There was a lot of ‘Australian’ food there, but they have their own colour scheme and banner, looks a lot more like Foodworks brands that Woolies… oh well.
 
@@ -131,12 +157,15 @@ Today we went to a place called Kaikoura. This is the “Whale Capital of New Ze
 
 So we go out on the tour boat and we saw one whale, albeit twice. But we did also this albatross with a massive wingspan.
 
+[[A whale](https://farm4.staticflickr.com/3935/15404316576_81aab44bc7_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15404316576/in/album-72157647905761520/)
+*The whale*
+
 And by massive, I mean that if I was to stand on my own shoulders, those wings would still be bigger. We also saw a fair-sized pod of dolphins, with their jumping antics.
 
 When we get off the boat we went to the local fish & chippery for dinner, which I said should be eaten in the car on the way back here to Woodend.
 
 But I was outvoted, at least until the cheeky buggers surrounded us and then one of the stinking air-rats snaps up my bit of fish right out of my hand. After that the other came around to my way of thinking.
 
-####Day Eleven
+##Day Eleven##
 
 Day Eleven consisted of me catching the plane home. It was uneventful. Unless you consider seeing the crowd of backpackers sleeping along all the walls of the airport in the dark interesting. Really, it’s just more of a weird thing that happened though…
