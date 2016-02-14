@@ -9,12 +9,12 @@ section: blog
           <h1>{{ page.title }}</h1>
             <div class="author-container">
               <a href="/authors/{{ page.author }}"><img src="{{ author.avatar }}"></a>
-			  <h4 class="author-name">by <a href="/authors/{{ page.author }}">{{ author.name }}</a></h4>
-			  <div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
-			</div>
+              <h4 class="author-name">by <a href="/authors/{{ page.author }}">{{ author.name }}</a></h4>
+              <div class="date">on {{ page.date | date: "%B %e, %Y" }}</div>
+           </div>
 		</div>
       </div>
-	<div class="inner-container">
+	  <div class="inner-container">
 		<div class="entry">{% if page.source %}
 		  	<div class="source">
 		  		<p>This post was originally published elsewhere and has been placed here with permission.<br>You can see <a href="{{ page.source }}" target="_blank">where it was originally published here</a>.</p>
@@ -24,6 +24,7 @@ section: blog
 			    <div class="metadata_row">
 			    	<p><strong>Tagged in</strong>&nbsp;	{% for tag in page.tags %}<a href="/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>{% endfor %}</p> 
 				<p id="next-prev">{% if page.previous.url %}<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">« Previous Blog Post</a>{% endif %} | {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Blog Post »</a>{% endif %}</p> 
-  </div>
+			    </div>
   {% include disqus.html %}
-</div>
+        </div>
+      </article>
