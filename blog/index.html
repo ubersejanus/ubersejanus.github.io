@@ -12,6 +12,6 @@ section: blog
               <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
               <p>{{ post.excerpt }}</p>
-{% capture content_words %} {{ post.content | number_of_words }} {% endcapture %} {% capture excerpt_words %} {{ post.excerpt | number_of_words }} {% endcapture %} {% if excerpt_words != content_words %}              <p><a class="blog-readmore" href="{{ post.url }}">Read more</a></p>{% endif %}
+{% capture content_words %} {{ post.content | number_of_words }} {% endcapture %} {% capture excerpt_words %} {{ post.excerpt | number_of_words }} {% endcapture %} {% if excerpt_words != content_words %}            <p><a class="blog-readmore" href="{{ post.url }}">Read more</a></p>{% endif %}
             </article>{% endfor %}
           </div>
