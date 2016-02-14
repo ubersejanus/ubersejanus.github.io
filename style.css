@@ -481,3 +481,6 @@ article.post-preview h2 {
 
 div.youtube-embed {
 	text-align:center; }
+	
+div.youtube-embed iframe {
+	border:0; }
