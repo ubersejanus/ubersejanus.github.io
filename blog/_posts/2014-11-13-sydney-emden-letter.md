@@ -2,7 +2,7 @@
 layout: post
 title: Sinking of the Emden (A First Hand Account)
 author: bradp
-hero: /blog/assets/2014-11/sydney-heads.jpg
+hero: http://www.bpeters.id.au/blog/assets/2014-11/sydney-heads.jpg
 category: history
 tags: reflecting family
 ---

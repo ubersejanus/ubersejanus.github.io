@@ -2,7 +2,7 @@
 layout: post
 title: Gough Whitlam (1916-2014)
 author: bradp
-hero: /blog/assets/2014-09/gough-whitlam.jpg
+hero: http://www.bpeters.id.au/blog/assets/2014-09/gough-whitlam.jpg
 tags: reflecting
  
 ---

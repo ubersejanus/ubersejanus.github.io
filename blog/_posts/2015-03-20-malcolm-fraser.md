@@ -2,7 +2,7 @@
 layout: post
 title: Malcolm Fraser (1930-2015)
 author: bradp
-hero: /blog/assets/2015-03/malcolm-fraser.jpg
+hero: http://www.bpeters.id.au/blog/assets/2015-03/malcolm-fraser.jpg
 category: history
 tags: reflecting
 ---
