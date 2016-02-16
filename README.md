@@ -120,6 +120,7 @@ tags:
 
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)
+ - [Stocksnap](http://stocksnap.io)
  - You can also upload them to the repository and they will also be included in the site
 
 **Code snippets**
