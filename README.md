@@ -118,6 +118,8 @@ tags:
 
 ```
 
+Tag pages have to be created manually. It's annoying. They're placed under the tags folder, obviously.
+
 **Where to get good hero images**
  - [Unsplash](https://unsplash.com/grid)
  - [Stocksnap](http://stocksnap.io)
