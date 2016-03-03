@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sinking of the Emden (A First Hand Account)
+title: Sinking of the Emden&#58; A First Hand Account
 author: bradp
 hero: http://www.bpeters.id.au/blog/assets/2014-11/sydney-heads.jpg
 category: history
