@@ -10,7 +10,9 @@ tags:
 
 ---
 
-This black and blue pole marks the place of a hill long-gone. There have been plenty of hills removed from Australia since 1788, so what makes this one special?
+There is an odd black and blue pole in Spencer Street Station, it marks the place of a hill long-gone. There have been plenty of hills removed from Australia since 1788, so what makes this one special?
+
+<!--more-->
 
 In 1837, Surveyor Robert Hoddle arrived in the Port Phillip District with instructions from Major Sir George Gipps, Governor of New South Wales, to draw up land allotments ready for sale as soon as possible.
 
@@ -22,13 +24,14 @@ As a side note, Gipps is responsible for the lack of public squares in Melbourne
 In accordance with his instructions, Hoddle laid out Melbourne Town. Unlike cities such as New York where the grid aligns with the cardinal directions, Melbourne is orientated on a 70 degree angle from true north — 
 
 This is because of what Hoddle had to work with in the 1830s: the course of the Yarra River, the three hills of early Melbourne — Eastern Hill; Flagstaff Hill and the long-gone Batman’s Hill … But why did he choose to build a city here?  
+
 Well..  
-he didn’t. 
+
+He didn’t. 
 
 Vandemonian squatters like John Batman and John Fawkner had started throwing up buildings in this spot. There was water, open grassland and decent sized ships were able to sail all the way up to deliver supplies and, more importantly in the early days, sheep.
 
 ![Map](/blog/assets/2016-03/batmans_hill.jpg)
-*Melbourne at the time of the initial survey*
 
 Melbourne’s city streets are much wider than many other towns... originally this was to accommodate the bullock drays that transported goods across Australia before the industrial revolution without causing major traffic chaos in the new village.
 
@@ -36,13 +39,13 @@ The Streets that run perpendicular to the Yarra, are all “major” streets —
 
 ![Map](/blog/assets/2016-03/osm_cbd.png)
 
-These streets come together to form 10 Chain [roughly 200m] square City blocks (if you include the “little” street that runs down the middle of each block)
+These streets come together to form 10 Chain [roughly 200m] square City blocks if you include the “little” street that runs down the middle of each block.
 
 These days, Melbourne is a sprawling metropolis. Home to over 4 million people, it stretches more than 100km from east to west. But that marker commemorates the spot that everything started from. Until an expansion of Spencer Street Station in the 1850s, there was a hill here and under that hill John Batman, one of the founders of Melbourne — the man who tried to name the city “Batmania”, built the first house here in 1835. It’s where Melbourne began.
 
-Governor Gipps’ directive to put land to market ASAP may have made the Colony of New South Wales a lot of money (at one point, land sales in the Port Phillip District were bringing in more money to the NSW Treasury than Van Diemen's Land was turning over) but 180 years later it has left Melbourne with a CBD, and for that matter a state, that is well structured and easy to move around.
+Governor Gipps’ directive to put land to market ASAP may have made the Colony of New South Wales a lot of money (at one point, land sales in the Port Phillip District were bringing in more money to the NSW Treasury than the entire colony of Van Diemen's Land was turning over) but 180 years later it has left Melbourne with a CBD, and for that matter a state, that is well structured and easy to move around.
 
-That's thanks to the _other_ grid that Robert Hoddle drew up from Batman’s Hill. 
+<p>That's thanks to the <span style="font-style:italic;">other</span> grid that Robert Hoddle drew up from Batman’s Hill...</p>
 
 ![Map](/blog/assets/2016-03/osm_metro.png)
 
@@ -50,5 +53,6 @@ The Mile Grid extends 60 miles from here, and as the name suggests, it divided l
 
 ![MEL-SYD layout meme](/blog/assets/2016-03/map_meme.jpg)
 
-This meme is wrong. The reason that Melbourne is so much more simple is that the most important thing when the town was laid out was the quick sale of land and the establishment of law & order. As opposed to "not dying", and preventing the convicts from uprising.
+This meme is wrong (as memes so often are.) The reason that Melbourne is so much more simple is that the most important thing when the town was laid out was the quick sale of land and the establishment of law & order. 
 
+In Sydney of course, the first priority of all the settlers, free, military and convict; was "not dying on the other side of the world from everything they'd ever known and loved."
