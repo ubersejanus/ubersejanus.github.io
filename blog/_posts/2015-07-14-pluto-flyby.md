@@ -12,3 +12,8 @@ It’s a weird place (although the Solar System is full of weird places) and I h
 The New Horizons team have been scienceing for months, and will continue to do so for months more, but tomorrow, the probe is going to get to within 12,500 km of Pluto. That means it will be fly between Pluto and Charon — objects so small and close and far away that we literally can not resolve them into separate objects on Earth.
 
 And I think that is really cool.
+
+Post-flyby Edit:  
+Aww my gosh, New Horizons made it!  
+It it's sending back data to Earth! It's horribly slow for some interesting technical reasons, but the data is on it's way! Huzzah!  
+Great work by NASA and APL :)
