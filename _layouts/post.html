@@ -23,7 +23,7 @@ section: blog
 			    {{ content }}
 			    <div class="metadata_row">
 			    	<p><strong>Tagged in</strong>&nbsp;	{% for tag in page.tags %}<a href="/tags/{{ tag }}"><span class="postTag">{{ tag }}</span></a>{% endfor %}</p> 
-				<p id="next-prev">{% if page.previous.url %}<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">« Previous Blog Post</a>{% endif %} | {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Blog Post »</a>{% endif %}</p> 
+				<p id="next-prev">{% if page.previous.url %}<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">« Previous Blog Post</a>{% endif %}{% if page.previous.url and page.next.url %} | {% endif %}{% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next Blog Post »</a>{% endif %}</p> 
 			    </div>
   {% include disqus.html %}
         </div>
