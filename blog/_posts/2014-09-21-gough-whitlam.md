@@ -19,6 +19,4 @@ But most importantly, there's the Royal Commission into Aboriginal Land Rights, 
 
 I am impressed by how much of what I take for granted as "what the Commonwealth does" can be traced to you.
 
-<div class="centre">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/twJL6gugDkU&amp;t=56s" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include youtube.html video_id="twJL6gugDkU" start_seconds="56s" %}
