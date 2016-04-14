@@ -197,7 +197,7 @@ It was right on midnight when our little group made it back to the city armoury,
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976335695/in/set-72157641973511214" target="_blank">
   <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_z_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
-  <em>Contingent Communication<br>System</em>
+  <em>Contingent Communication System</em>
 
 
 With the return of the second group of Urban Experiencers, the Moot was on the wind-down. By the time I woke up again, this notice had appeared at the &#8220;door&#8221; of the contingent tent — it was slightly more colourful than the comparable signs on other tents, although the gist was the same&#8230;
@@ -253,7 +253,7 @@ The easiest spot to party was in the main tent as once the band had played the M
 
 Unfortunately, I wasn&#8217;t up to much jumping after that Englishman landed on my knee and I departed the area pretty quick, making a last trip around the site and swapping my Contingent softshell for an Argentinean jacket. I&#8217;d hoped that my knee would stop hurting but surprisingly, all that walking didn&#8217;t do it much good. So I was probably one of the earlier people to head to bed.
 
-###The Voyage Home</h1>
+###The Voyage Home
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976922393/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_z_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>

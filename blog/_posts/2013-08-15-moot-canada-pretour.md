@@ -32,6 +32,7 @@ Five hours later, we're landing again and find our bags with way less effort. We
 After driving past all kinds of sights, including Roosevelt Island, a K-Mart and the United Nations HQ, we're deposited at the hotel. A quick check-in later, and already it's pretty late at night. So we go wander off, looking for someplace to eat. The first place we come across is a McDonalds, and in the land of the weary traveller, the first-spotted restaurant is King.
 
 After that, it's back to the hotel for a jetlag-ruined sleep ahead of a big day of exploring!
+
 ###New York
 The hotel for some reason didn't see fit to provide curtains in their rooms, so the city that never sleeps was pouring light into our room at all hours. You know what they say: New York, New York — it's a hell of a town!
 
@@ -66,6 +67,7 @@ We motored off to the bottom of Manhattan and were soon on a boat to Liberty Isl
 The rest of the day though was up to us. I explored more of Central Park, finding Cleopatra's Needle and a castle, a natural-looking area called "the ramble" and some really cool landscaping. The park is designed so that you can't ever see where you're going or been, which is a dirty trick inflicted upon everyone by the guy who designed the park so that it would appear to be bigger. On my way there I also saw the Lincoln Centre which was much bigger than I expected.
 
 By the time I got back, it was almost time for our first dinner together (several people had missed the Mexican feast the night before due to flights or Broadway musicals.) A dinner which was livened up by Jessi being tired and emotional. She disappeared while being escorted to the facilities. More silly games ensued before bed. In my room, we discovered the hilarious delights of a program called Doomsday Preppers - a show all about people who actively prepare for civilisation to end.
+
 ###Philadelphia
 On the third morning, we piled up into the bus, took a tunnel down under the Hudson River and BAM! we were in New Jersey. We stopped off after a while for mandated driver rest at a massive truck stop. Before we knew it we were in a third state and had made it to Philadelphia. We saw all the historic landmarks, the Liberty Bell, Independence Hall (now dwarfed by the surrounding skyscrapers) and had lunch in a depressing little building that had once been one of the first stock exchanges in the world. For some reason we went down into the basement to eat, but it was an interesting meal with the Victorian crew.
 
@@ -102,6 +104,7 @@ We spent quite a bit of time at Arlington National Cemetery. It's really big, an
 We also had a bit of free time in Washington, many people went to the Smithsonian — especially the Air &amp; Space Museum. But a group of us Victorians went off and queued up to visit the National Archives and see the Constitution, the Bill of Rights and a copy of the Magna Carta. Strangely, the Magna Carta was probably the best preserved of the lot of them. On my way across the National Mall, a bunch of Segway-riding tourists did their best to run us down, without success. Later we would have a look at the original "Castle" building that the Smithsonian started in. And definitely did not pose next to a fleru-de-lis made out of flowers in their garden...
 
 Of course, no account of our time in Washington would be complete without mentioning the man we saw on our way out of town, sitting on the Washington Beltway (a highway that surrounds the city) stuck in traffic, he was practicing his violin. Astounding.
+
 ###Amish Country
 A key drawcard for many of us was the chance to visit Lancaster County, Pennsylvania: the home of the Amish.
 
@@ -124,10 +127,12 @@ Once we'd finished driving around the farms it was back to the museum/tourist at
 Our highlight dinner was awful.
 
 On the plus side though, Jacko was sitting near me and it definitely wasn't a cultural thing (or perhaps it was, Jacko was a large african american) — that food was just terrible. Also, Jacko is an angry, angry man.
+
 ###On the Road Again
 We checked out of Amish Country, Annie still a part of the group (Many, many jokes had been made in the months leading up to the trip suggesting that she would stay behind either by being left by the group, or by getting married to a nice Amish boy and leaving us.) and spent the night in a hotel about an hour away. This hotel had a pool, which was fun. There was also a nice garden where a group of us spent the night talking rubbish.
 
 We weren't there long though, because the next day was an exciting one, fuuuulll of driving. We were headed back north all the way past New York and on to Niagara Falls. On the way there, we stopped for lunch at a servo and I'm 97% sure that I heard someone trying to upsell their customer to peanuts.
+
 ###Niagara
 After a few hours, we were driving along through the town of Buffalo and out of the left window was an impressively large river which looked like an incredibly fun spot to paddle (or at least it did before we kept driving along and saw it drop off over the fall. Soon afterwards we crossed a bridge and all of a sudden we were into Canada! We checked in and since it was still about 3 in the afternoon, we had a few hours to kill. So a few of us went for a walk and found a nice lookout over a park and the falls.
 
@@ -150,6 +155,7 @@ The many queues were worth it though, because we eventually got in to the boat, 
 At Niagara-on-the-Lake, we dined at the Captain's Table — enjoying fish &amp; chips with the contingent leader, but we had an hour after that and I remembered something really cool about Lake Ontario... Basically, it's as wide as the horizon is far away. Meaning that at certain points, such as the lakeside at Niagara-on-the-Lake, where it looks towards Toronto with a nice steep bank is one of the best places on Earth to see that the planet is curved.
 
 Turns out that if you take a photo of the Toronto skyline from just above the water, you can see way less buildings than you can just five metres from the shore — basically just the CN Tower. That little bit of science-ing was probably one of the major highlights of the entire trip for me. I haven't done the math, but the Bad Astronomer <a href="http://blogs.discovermagazine.com/badastronomy/2009/01/15/how-far-away-is-the-horizon/#.VTnMbmSeDGc" target="_blank">talks about the math</a> of the horizon here.
+
 ###Toronto
 When we pulled up, the hotel we stayed at in Toronto definitely seemed to be the nicest. It certainly had the largest bar, so of course that was fully taken advantage of.
 
@@ -170,6 +176,7 @@ After we came down in dribs and drabs, the different groups went off and did dif
 Our second day in Toronto featured a trip to the Canada's Wonderland theme park, which was rather uneventful but then I don't like theme parks. So once I'd explored the place for a bit, I had a restful day near the pool section. Where I was rudely awoken by one Mr Beeby who had been travelling independently for the past month or so, but at least I got to offload his contingent loot that I'd been carrying from Australia.
 
 Later that night, we found out about the exciting world of US Department of Transportation regulations on the subject of Driver Hours, when Jacko revealed that he could only drive us to a nearby laundromat so we could get our clothes clean ahead of the Moot itself starting. As promised, we were dropped off at - and promptly took over, this laundromat; but we returned to the hotel taxi-style.
+
 ###Ottawa
 Out trip to Ottawa was pretty uneventful. I remember Jacko having trouble finding the exact part of the university we were meant to be dropped off at, but other than that I think it was pretty cruisey. We were shown some of the major sites/sights including Parliament where we would need to get to the next day for the opening ceremony, and Rideau Hall: official residence of the Governor-General of Canada where we were able to observe the Changing of the Guard and then have a poke around the public wing of the mansion.
 
