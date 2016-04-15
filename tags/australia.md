@@ -1,5 +1,6 @@
 ---
 layout: tagpage
-tag: australia
 sitemap: false
+tag: australia
+title: Tag&#58; Australia
 ---
