@@ -27,7 +27,7 @@ timezone: Australia/Victoria
 baseurl: ""
 
 # Facebook OpenGraph details
-fb_admins:	https://facebook.com/brad.j.peters
+fb_admins:	brad.j.peters
 fb_appid:	187628394928430
 
 #
