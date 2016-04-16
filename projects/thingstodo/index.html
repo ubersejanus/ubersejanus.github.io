@@ -1,0 +1,183 @@
+
+<html>
+  <head>
+  <style>
+body {
+    margin:0;
+    font:normal 14px/17px Arial, Helvetica, sans-serif;
+    color:rgba(0,0,0,0.8); }
+
+#wrapper {
+	min-height:100%;
+	position:relative; }
+
+header {
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    width:100%;
+    background:#008751;
+    color:#FCD116; }
+    
+h1 {
+    padding-left:12px; }
+    
+header h1 span {
+   font-size: 14;
+    font-weight: normal;
+    font-style:italic;}
+    
+#content-container {
+    margin:6;
+    margin-top:70px;
+    padding-bottom:30px; }
+    
+#whereto {
+	text-align:center;}    
+    
+.warning {
+    background:#ff9999;
+    margin-left:auto;
+    margin-right:auto;
+    border-color:#ff6666;
+    border-width:thin;
+    border-style:solid; }
+    
+.warning img {
+    width:50px;
+    height:50px;
+    margin-left:4px; }
+    
+table {
+    font:inherit;
+    color:inherit; }
+    
+footer {
+	border-top:1px solid #666;
+	height:30px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	left:0; }
+
+footer p {
+	text-align:right; 
+	font-size:10px;
+	height:20px;
+	margin-left:25px;
+	margin-right:25px;
+	margin-bottom:5px;
+	margin-top:5px; }
+  </style>
+  </head>
+  <body>
+  <div id="wrapper">
+  <header>
+    <h1>AUSTRALIA <span> A list of things to do, stuff to look at, flavours to consume, sensations to experience, and general bits of everything you should try to be adjacent to</span></h1>
+  </header>
+    <div id="content-container">
+      <div id="whereto">
+        <script type="text/javascript">
+          function chkShowHide(id,showthis) {
+            var infoID = document.getElementById(id);
+            var showID = document.getElementById(showthis);
+            if (infoID.checked)
+              showID.style.display = 'block';
+            else
+              showID.style.display = 'none';}
+          function btnMastershow(btn) {
+            if (btn.value === "Show All")
+              btn.value = "Show None",
+              document.getElementById("infoVIC").style.display = 'block',
+              document.getElementById("VIC").checked = true,
+              document.getElementById("infoNSW").style.display = 'block',
+              document.getElementById("NSW").checked = true,
+              document.getElementById("infoQLD").style.display = 'block',
+              document.getElementById("QLD").checked = true,
+              document.getElementById("infoSA").style.display = 'block',
+              document.getElementById("SA").checked = true,
+              document.getElementById("infoWA").style.display = 'block',
+              document.getElementById("WA").checked = true,
+              document.getElementById("infoNT").style.display = 'block',
+              document.getElementById("NT").checked = true,
+              document.getElementById("infoACT").style.display = 'block',
+              document.getElementById("ACT").checked = true,
+              document.getElementById("infoTerritories").style.display = 'block',
+              document.getElementById("ELSE").checked = true;
+            else
+              btn.value = "Show All",
+              document.getElementById("infoVIC").style.display = 'none',
+              document.getElementById("VIC").checked = false,
+              document.getElementById("infoNSW").style.display = 'none',
+              document.getElementById("NSW").checked = false,
+              document.getElementById("infoQLD").style.display = 'none',
+              document.getElementById("QLD").checked = false,
+              document.getElementById("infoSA").style.display = 'none',
+              document.getElementById("SA").checked = false,
+              document.getElementById("infoWA").style.display = 'none',
+              document.getElementById("WA").checked = false,
+              document.getElementById("infoNT").style.display = 'none',
+              document.getElementById("NT").checked = false,
+              document.getElementById("infoACT").style.display = 'none',
+              document.getElementById("ACT").checked = false,
+              document.getElementById("infoTerritories").style.display = 'none',
+              document.getElementById("ELSE").checked = false;}
+        </script>
+        <p>We apologise for any silly sentences that don't make any sense, jokes that aren't funny, inconsistencies, contradictions, embellishments and/or outright falsehoods that may be contained within this document.<br>However, we ask you to please keep in mind that even in the most embellished story told by an Australian, there is always a seed of truth that is unwise to ignore.</p>
+        <table class="warning">
+          <td><img src="warning.png"></td>
+          <td><b>WARNING:</b> Do not attempt to use Australian slang unless you are a trained linguist and good in a fist fight   </td>
+        </table>
+        <h2>Which part of this great country do you want to visit?</h2>
+        <form>
+          <label><input type=checkbox id="VIC" onchange="chkShowHide('VIC','infoVIC')"> Victoria</label>
+          <label><input type=checkbox id="NSW" onchange="chkShowHide('NSW','infoNSW')"> New South Wales</label>
+          <label><input type=checkbox id="QLD" onchange="chkShowHide('QLD','infoQLD')"> Queensland</label>
+          <label><input type=checkbox id="SA" onchange="chkShowHide('SA','infoSA')"> South Australia</label>
+          <label><input type=checkbox id="WA" onchange="chkShowHide('WA','infoWA')"> Western Australia</label>
+          <label><input type=checkbox id="NT" onchange="chkShowHide('NT','infoNT')"> Northern Territory</label>
+          <label><input type=checkbox id="ACT" onchange="chkShowHide('ACT','infoACT')"> Australian Capital Territory</label>
+          <label><input type=checkbox id="ELSE" onchange="chkShowHide('ELSE','infoTerritories')"> External Territories</label>
+          <p>
+            <input type="button" name="btnShow" value="Show All" onclick="btnMastershow(this);">
+          </p>
+        </form>
+      </div>
+      <div id="infoVIC" style="display: none">
+        <h2>Victoria</h2>
+      </div>
+      <div id="infoNSW" style="display: none">
+        <h2>New South Wales</h2>
+      </div>
+      <div id="infoQLD" style="display: none">
+        <h2>Queensland</h2>
+      </div>
+      <div id="infoSA" style="display: none">
+        <h2>South Australia</h2>
+      </div>
+      <div id="infoWA" style="display: none">
+        <h2>Western Australia</h2>
+      </div>
+      <div id="infoNT" style="display: none">
+        <h2>Northern Territory</h2>
+      </div>
+      <div id="infoACT" style="display: none">
+        <h2>Australian Capital Territory</h2>
+      </div>
+      <div id="infoTerritories" style="display: none">
+        <h2>Australia's External Territories</h2>
+      </div>
+  </div>
+  <footer>
+    <p style="float:right;">&copy; {{ site.time | date: '%Y' }}</p>
+    <p style="color: #ccc; font-size: 10px; text-align: left;">Last build: {{ site.time | date: "%a %d %b %Y %T %z" }}</p>
+  </footer>
+    </div>
+    <script async src='http://www.google-analytics.com/analytics.js'></script>
+    <script>
+      var ga=ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-64702034-1', 'auto');
+      ga('send', 'pageview');
+    </script> 
+  </body>
+</html>
