@@ -1,6 +1,6 @@
 ---
 layout: things-include
-title: Yarra Valley
+title: The Yarra Valley
 state: victoria
 tag: things-yarravalley
 ---

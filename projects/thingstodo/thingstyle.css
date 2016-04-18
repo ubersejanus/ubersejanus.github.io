@@ -13,6 +13,9 @@ header {
 h1 {
     padding-left:12px; }
     
+h2 {
+	margin-bottom:5px; }
+    
 header h1 span {
    font-size:.4em;
     font-weight:normal;
@@ -30,7 +33,7 @@ section {
 #whereto {
 	text-align:center;}    
     
-.stateintro {
+.includeinfo {
 	text-align:center; }
 
 .breadcrumb {
