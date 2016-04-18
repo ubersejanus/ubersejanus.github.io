@@ -1,5 +1,7 @@
 ---
 layout: things-page
+permalink: /:categories/:title
+breadcrumb: yes
 ---
 
  <div class="page-content">
@@ -12,6 +14,10 @@ layout: things-page
   		  	<article>
   		  	  <hr>
       		  <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      		   {% if post.website %}<a href="{{ post.website }}" target="_blank">Website</a>{% endif %}
+			   {% if post.map %}{% if post.website %} • {% endif %}<a href="https://www.google.com.au/maps/place/{{ post.map }}" target="_blank">Google Maps</a>{% endif %}
+		       {% if post.wikipedia %}{% if post.website or post.map %} • {% endif %}<a href="https://en.wikipedia.org/wiki/{{ post.wikipedia }}" target="_blank">Wikipedia</a>{% endif %}
+			   {% if post.parkweb %}{% if post.website or post.map or post.wikipedia %} • {% endif %}<a href="http://parkweb.vic.gov.au/explore/parks/{{ post.parkweb }}" target="_blank">Parks Victoria info page</a>{% endif %}
       		  {{ post.content }}
       		</article>
       		{% endfor %}
