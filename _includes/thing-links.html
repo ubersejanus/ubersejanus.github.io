@@ -1,0 +1,9 @@
+
+<h5>
+  {% if [include.type].website %}<a href="{{ [include.type].website }}" target="_blank">Website</a>{% endif %}
+  {% if [include.type].map %}{% if [include.type].website %} • {% endif %}<a href="https://www.google.com.au/maps{% if [include.type].map contains /dir/ %}{{ [include.type].map }}{% else %}/place/{{ [include.type].map }}{% endif %}" target="_blank">Google Maps</a>{% endif %}
+  {% if [include.type].wikipedia %}{% if [include.type].website or [include.type].map %} • {% endif %}<a href="https://en.wikipedia.org/wiki/{{ [include.type].wikipedia }}" target="_blank">Wikipedia</a>{% endif %}
+  {% if [include.type].parkweb %}{% if [include.type].website or [include.type].map or [include.type].wikipedia %} • {% endif %}<a href="http://parkweb.vic.gov.au/explore/parks/{{ [include.type].parkweb }}" target="_blank">Parks Victoria info page</a>{% endif %}
+  {% if [include.type].youtube %}{% if [include.type].website or [include.type].map or [include.type].wikipedia or [include.type].parkweb %} • {% endif %}<a href="{{ [include.type].youtube }}" target="_blank">YouTube</a>{% endif %}
+  {% if [include.type].twitter %}{% if [include.type].facebook or [include.type].website or [include.type].github or [include.type].stack or [include.type].youtube %} • {% endif %}<a href="{{ [include.type].twitter }}" target="_blank">Twitter</a>{% endif %}
+</h5>

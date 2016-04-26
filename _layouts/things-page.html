@@ -27,8 +27,7 @@ breadcrumb: yes
         <h1>AUSTRALIA <span>A list of things to do, stuff to look at, flavours to consume, sensations to experience, and general bits of everything you should try to be adjacent to</span></h1>
       </header>
       <div id="header-space"></div>
-      <section>{% if page.breadcrumb == yes %}
-        <p class="breadcrumb">Things to do in <a href="../">Australia</a> &gt; {% if page.state %}<a href="../{{page.state}}">{{page.state | capitalize}}</a> &gt; {% endif %}<b>{{ page.title }}</b></p>{% endif %}</p>        
+      <section> 
         {{ content }}
       </section>
       <footer>

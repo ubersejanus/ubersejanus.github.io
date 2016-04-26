@@ -2,23 +2,11 @@
 layout: things-page
 breadcrumb: yes
 ---
+<p class="breadcrumb">Things to do in <a href="/projects/thingstodo">Australia</a> &gt; {% if page.state %}<a href="/projects/thingstodo/{{page.state}}">{{page.state | capitalize}}</a> &gt; {% endif %}<b>{{ page.title }}</b></p>
               <div class="item-info">
 				<img src="{{ page.picture }}">
-				<h3>{{ page.title }}</h3>
-                <h5>
-			  	  {% if page.website %}<a href="{{ page.website }}" target="_blank">Website</a>{% endif %}
-			  	  {% if page.map %}{% if page.website %} • {% endif %}<a href="https://www.google.com.au/maps/place/{{ page.map }}" target="_blank">Google Maps</a>{% endif %}
-			  	  {% if page.wikipedia %}{% if page.website or page.map %} • {% endif %}<a href="https://en.wikipedia.org/wiki/{{ page.wikipedia }}" target="_blank">Wikipedia</a>{% endif %}
-			  	  {% if page.parkweb %}{% if page.website or page.map or page.wikipedia %} • {% endif %}<a href="http://parkweb.vic.gov.au/explore/parks/{{ page.parkweb }}" target="_blank">Parks Victoria info page</a>{% endif %}
-			  			{% if author.youtube %}
-			  				{% if page.website or page.map or page.wikipedia or author.parkweb %} • {% endif %}
-			  				<a href="{{ author.youtube }}" target="_blank">YouTube</a>
-			  			{% endif %}
-			  			{% if author.twitter %}
-			  				{% if author.facebook or author.website or author.github or author.stack or author.youtube %} • {% endif %}
-			  				<a href="{{ author.twitter }}" target="_blank">Twitter</a>
-			  			{% endif %}
-			  	</h5>
+				<h2>{{ page.title }}</h2>
+                  {% include thing-links.html type="page" %}
               </div>
               <div class="item">
                 {{ content }}
