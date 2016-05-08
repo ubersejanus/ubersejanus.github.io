@@ -152,7 +152,10 @@ The many queues were worth it though, because we eventually got in to the boat, 
   <img src="https://farm3.staticflickr.com/2208/12969438463_18b1a43b64_z_d.jpg" alt="Picture of the Horsehoe Falls taken from the Maid of the Mist" /></a>
   <em>Horseshoe Falls, Niagara Falls, ON</em>
 
-At Niagara-on-the-Lake, we dined at the Captain's Table — enjoying fish &amp; chips with the contingent leader, but we had an hour after that and I remembered something really cool about Lake Ontario... Basically, it's as wide as the horizon is far away. Meaning that at certain points, such as the lakeside at Niagara-on-the-Lake, where it looks towards Toronto with a nice steep bank is one of the best places on Earth to see that the planet is curved.
+At Niagara-on-the-Lake, we dined at the Captain's Table — enjoying fish &amp; chips with the contingent leader, but we had an hour after that and I remembered something really cool about Lake Ontario... Basically, it's as wide as the horizon is far away. Meaning that at certain points, such as the lakeside at Niagara-on-the-Lake, where it looks towards Toronto with a nice steep bank is one of the easiest places on Earth to demonstrate for yourself that the planet is curved.
+
+![For science!](/blog/assets/2013-08/science.png)
+*For science!*
 
 Turns out that if you take a photo of the Toronto skyline from just above the water, you can see way less buildings than you can just five metres from the shore — basically just the CN Tower. That little bit of science-ing was probably one of the major highlights of the entire trip for me. I haven't done the math, but the Bad Astronomer <a href="http://blogs.discovermagazine.com/badastronomy/2009/01/15/how-far-away-is-the-horizon/#.VTnMbmSeDGc" target="_blank">talks about the math</a> of the horizon here.
 
