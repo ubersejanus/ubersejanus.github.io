@@ -4,7 +4,7 @@ title: Writing good emails
 author: bradp
 hero:
 tags:
-- 
+- the-more-you-know
 ---
 
 A simple guide to writing emails that don't suck.
