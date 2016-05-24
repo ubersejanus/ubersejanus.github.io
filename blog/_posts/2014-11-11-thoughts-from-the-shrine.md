@@ -15,8 +15,8 @@ tags: thoughts-from-places
 
 I’ve never been to the Remembrance Day service before, so it was very interesting. It was much more like Reserve Forces Day than Anzac Day, I suppose that since Anzac day has become a bigger deal people are more keen to speak there?  This was more ... simple, although no less dedicated.
 
-<img src="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne 
-<em>Shrine of Remembrance, Melbourne on Remembrance Day 2014</em>
+<img src="/blog/assets/2014-11/shrine_poppies.jpg" alt="Shrine of Remembrance, Melbourne">
+<p class="caption">Shrine of Remembrance, Melbourne on Remembrance Day 2014</p>
 
 The usual VIPs - the Governor, MPs, the Lord Mayor, ADF &amp; RSL bigwigs, along with the Shrine Trustees were joined by most of the Consular Corps, a reminder that we and the Kiwis are weird for making Anzac Day our primary day of commemoration.
 

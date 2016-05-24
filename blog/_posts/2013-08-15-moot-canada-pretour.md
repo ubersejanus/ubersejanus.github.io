@@ -4,7 +4,10 @@ title: World Moot Pretour
 author: bradp
 hero: https://farm8.staticflickr.com/7297/12969436393_f65e05d810_k_d.jpg
 category: 
-tags: moots rovers travel 
+tags:
+- moots
+- rovers
+- travel 
 excerpt: My epic journey from Melbourne to Ottawa, via New York, Washington DC, Pennsylvania and Ontario, with the Australian/New Zealand Contingent.
 ---
 
@@ -13,7 +16,7 @@ The journey to World Moot began at about 4am on the couch of Mr Burridge's share
 
   <a href="https://www.flickr.com/photos/ubersejanus/17246438826/" target="_blank">
   <img src="https://farm8.staticflickr.com/7594/17246438826_c0e771ab9e_z_d.jpg" alt="picture of Qantas A380 'Lawrence Hargrave' awaiting passengers at Melbourne Airport International Terminal" /></a> 
-  <em>The Plane, Anton! The plane!</em>
+  <p class="caption">The Plane, Anton! The plane!</p>
 
 I got to Tullamarine and met up with my travelling companion, Beautiful Annie. There were some small issues at check-in, but before we knew it, we were clearing Immigration and hanging out in the departure lounge, having a look at the big ol' plane we were about to board and talking to each other through text message from opposite sides of the departure lounge, because you know, personal space or something.
 
@@ -39,7 +42,8 @@ The hotel for some reason didn't see fit to provide curtains in their rooms, so 
 Eventually, morning arrived and since we weren't meeting the rest of the group until dinnertime, we got spent the day wandering around the city.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12968514473/in/set-72157641950085705" target="_blank">
-  <img src="https://farm8.staticflickr.com/7423/12968514473_0b3312b561_z_d.jpg" alt="Picture of a Gazebo in Central Park" /></a><br><em>Central Park</em>
+  <img src="https://farm8.staticflickr.com/7423/12968514473_0b3312b561_z_d.jpg" alt="Picture of a Gazebo in Central Park" /></a>
+  <p class="caption">Central Park</p>
 
 The hotel was about a block from Central Park, so that was a good place to start. We headed off in that direction, passing through Columbus Circle, passing the baseball fields and some fun looking playgrounds before heading through the Central Park Zoo and stopping for breakfast at a little cafe run by some nice Italian people.
 
@@ -48,7 +52,8 @@ The first experience with breakfast in the USA was interesting. French fries wer
 After that, it was a wander down what I've been calling in my mind "church Street", but the map calls "5th Avenue" where we popped in to have a look at an large and fancy cathedral, went through Rockefeller Plaza and made our way through Times Square before visiting Macy's department store (feat. wooden escalators) and stopping for lunch at Maddison Square Gardens.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12968416895/in/set-72157641950085705" target="_blank">
-  <img src="https://farm8.staticflickr.com/7331/12968416895_008533b4f5_z_d.jpg" alt="Picture of New York's 9/11 memorial" /></a><br><em>New York's 9/11 Memorial</em>
+  <img src="https://farm8.staticflickr.com/7331/12968416895_008533b4f5_z_d.jpg" alt="Picture of New York's 9/11 memorial" /></a>
+  <p class="caption">New York's 9/11 Memorial</p>
 
 Once lunch was over, we dropped down into Penn Station and got an A line Subway down to the World Trade Centre site — but since we didn't understand how the ACE line worked, we had to get off the station before and wait for a C Line train to take us to the final stop. Luckily, the New York Subway is a "metro" system. Which means that timetables are irrelevant: You just stand on the platform, wait a few minutes, and BAM! your train is there. Which is good, because the platforms are really hot! The World Trade Centre station was a short walk from the site itself, which was still largely a construction site. There was a large queue there, but after about half an hour of waiting, we were admitted to the memorial park.The memorial park consists of two large square waterfalls that represent the footprint of the Twin Towers. Around them is listed the name of everyone who perished in the September 11 attacks. On the day we were there, several of the names had flowers in them, usually white roses, suggesting they had been visited recently, but how recently I couldn't say. We tagged along with a tour group for a bit, saw the new tower and a grizzled tree that had been recovered from the calamity and nursed back to health.
 
@@ -58,7 +63,7 @@ Once everyone was checked in, we were back down to the bar where we met Stevo, t
 
   <a href="https://www.flickr.com/photos/ubersejanus/12968880384/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7335/12968880384_729e29f5c9_z_d.jpg" alt="Picture of the Victorians taking pictures of the Statue of Liberty" /></a>
-  <em>Lady Liberty (rear) Friends taking pictures (front)</em>
+  <p class="caption">Lady Liberty (rear) Friends taking pictures (front)</p>
 
 Next day, it was breakfast down in the hotel. All three mornings I was there, right outside the restaurant when I came down for breakfast, they had the carpet fans blowing. I can only assume that the hotel was taking on water each night. Anyway, at the hotel, my bacon and eggs was accompanied by deep-fried potato, which while basically the same as the fries from the Italian cafe, were much more tasty.After breakfast, it was straight out onto the road as we had our first experience aboard what would soon become known as "the Gay Pride Bus" due to the large rainbow taking up the back quarter of the vehicle. It was here that I first met my frequent seatmate, Brother Gogerly.
 
@@ -74,7 +79,7 @@ On the third morning, we piled up into the bus, took a tunnel down under the Hud
 
   <a href="https://www.flickr.com/photos/ubersejanus/12968996154/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7445/12968996154_47d5f88306_z_d.jpg" alt="Picture of the group walking towards Independence Hall" /></a>
-  <em>Independence Hall, Philadelphia</em>
+  <p class="caption">Independence Hall, Philadelphia</p>
 
 
 Other Philly highlights included street signs at every intersection warning you "Don't block the box" which we all quite enjoyed, and a stop off at the Philadelphia Museum of Art - AKA "home of the Rocky steps." Naturally, we all ran up before pictures were posed for standing by the statue of the man (fictional character?) himself. Across the road of course, there was a much more impressive statue of George Washington. After a quick photo-op, we were off again, crossing two more states before stopping for the night in Washington DC.
@@ -87,7 +92,7 @@ Actually, there were several points that we had them confused. Steveo was used t
 
 <a href="https://www.flickr.com/photos/ubersejanus/12969277754/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7403/12969277754_6b947ea29f_z_d.jpg" alt="Picture of the White House from Pennsylvania Ave" /></a>
-  <em>The White House</em>
+  <p class="caption">The White House</p>
 
 Anyway, once we got to Washington, we promptly set off to a Mexican restaurant for dinner, and the fishbowls flowed. But before that, Steveo told us that it was Jacko's birthday. I'm about 99% sure that he was lying, but we organised him a card and sang Happy Birthday at dinner. He was quite shocked. I took advantage of this, to announce that due to the wondrous magic of the International Date Line, back home it was no longer today — it was tomorrow. A tomorrow was the day that two of our companions, Alisha and Ross were being announced as WF Waters Awardees. So there was much rejoicing.
 
@@ -97,7 +102,7 @@ Steveo was supplanted whilst we were in Washington, though as for some reason we
 
   <a href="https://www.flickr.com/photos/ubersejanus/12968816383/in/set-72157641950085705" target="_blank">
   <img src="https://farm3.staticflickr.com/2094/12968816383_6462f58e82_z_d.jpg" alt="Picture of rows upon rows of headstones at Arlington National Cemetery" /></a>
-  <em>Headstones at Arlington National Cemetary</em>
+  <p class="caption">Headstones at Arlington National Cemetary</p>
 
 We spent quite a bit of time at Arlington National Cemetery. It's really big, and really close to Washington. Much more of both than I was expected, but before it was a cemetery, it was the estate of Confederate General Robert E Lee and there was a quite a bit of legal wrangling by the Union officer in charge of burials in order to get hold of the land. The original Civil War graves are almost all Union soldiers, and they're basically whatever the soldier's survivors could afford. But the later sections of the cemetery are all perfectly uniform. Slabs of marble stretch as far as the eye can see in perfect lines.There really isn't anything in Australia that compares.
 
@@ -112,13 +117,13 @@ We visited a charming little community ... named Intercourse.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969275133/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7346/12969275133_0f22f074db_z_d.jpg" alt="Picture of an Amish family by the house" /></a>
-  <em>An extended Amish family</em>
+  <p class="caption">An extended Amish family</p>
 
 After lunch and some souvenir shopping — including my soon-to-be-famous Amish Hat, we picked up one of the local "English", so called because the Amish amongst themselves speak their own dialect of German. They can speak English, and while at church they speak old High German. Not bad for a education system that's basically replicated at Sovereign Hill.So we went for a drive around the Amish farms surrounding the township all up and down the valley. It was particularly strange to see brand new houses being built that were never going to get hooked up to mains power. Another strange highlight were the small outhouse-looking buildings on the street corners. Inside them were telephones rather than than long drops, though.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969215623/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7318/12969215623_66bb6e69b8_z_d.jpg" alt="Picture of a young Amish woman pushing a Victa lawn mower" /></a>
-  <em>Handmowers are fine, but ride-ons are out</em>
+  <p class="caption">Handmowers are fine, but ride-ons are out</p>
 
 Eventually, we made our way to one of the farms which was open to visitors, so we got out and had a look at the farming equipment, and as we drove in there was man working in the fields next to the driveway. With two horses and four hand lawnmower lashed together and being drawn behind them. There was also solar electricity available to power some specific equipment — turns out that the Amish don't think that electricity is sinful or anything like that, they just aren't big fans of what unrestricted electricity can provide. Natural gas is also used at length for fridges and lighting an so forth.
 
@@ -138,7 +143,7 @@ After a few hours, we were driving along through the town of Buffalo and out of 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969183685/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7414/12969183685_96ffbd77ca_z_d.jpg" alt="Picture of the Niagara Falls waterside walkway" /></a>
-  <em>Niagara Falls "waterfront" by night waterfall spray is visible to the left</em>
+  <p class="caption">Niagara Falls "waterfront" by night waterfall spray is visible to the left</p>
 
 We were back for dinner, and after that it was back out again, because at some point Canada realised that all these tourists were coming out to see the waterfalls, and they figured that the tourists would need something to do. And so, the town of Niagara Falls, Ontario became a party town. Ross, ACT Jess and I went out to a nearby Wal-Mart and once purchases had been made, we asked one of the cashiers if there was a phone somewhere that we could borrow to call a taxi. Instead, she offered to take us back downtown when her shift was up in a few minutes. So, I guess some stereotypes are true.
 
@@ -150,12 +155,12 @@ The many queues were worth it though, because we eventually got in to the boat, 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969438463/in/set-72157641950085705" target="_blank">
   <img src="https://farm3.staticflickr.com/2208/12969438463_18b1a43b64_z_d.jpg" alt="Picture of the Horsehoe Falls taken from the Maid of the Mist" /></a>
-  <em>Horseshoe Falls, Niagara Falls, ON</em>
+  <p class="caption">Horseshoe Falls, Niagara Falls, ON</p>
 
 At Niagara-on-the-Lake, we dined at the Captain's Table — enjoying fish &amp; chips with the contingent leader, but we had an hour after that and I remembered something really cool about Lake Ontario... Basically, it's as wide as the horizon is far away. Meaning that at certain points, such as the lakeside at Niagara-on-the-Lake, where it looks towards Toronto with a nice steep bank is one of the easiest places on Earth to demonstrate for yourself that the planet is curved.
 
 ![For science!](/blog/assets/2013-08/science.png)
-*For science!*
+<p class="caption">For science!</p>
 
 Turns out that if you take a photo of the Toronto skyline from just above the water, you can see way less buildings than you can just five metres from the shore — basically just the CN Tower. That little bit of science-ing was probably one of the major highlights of the entire trip for me. I haven't done the math, but the Bad Astronomer <a href="http://blogs.discovermagazine.com/badastronomy/2009/01/15/how-far-away-is-the-horizon/#.VTnMbmSeDGc" target="_blank">talks about the math</a> of the horizon here.
 
@@ -164,7 +169,7 @@ When we pulled up, the hotel we stayed at in Toronto definitely seemed to be the
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969361655/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7410/12969361655_a0063a482e_z_d.jpg" alt="Picture looking up at CN Tower" /></a>
-  <em>View from the bottom of CN Tower</em>
+  <p class="caption">View from the bottom of CN Tower</p>
 
 Our first full day in Toronto was basically just choose-your-own adventure. We were dropped off at the CN Tower, so that seemed as good a place as any to get started. I got in trouble from one of the girls though, because I thought that putting my feet to the base of the tower and looking up as stretched away from me into the sky would be an excellent way to start the day, but she disagreed. Something about the filthy ground...
 
@@ -172,7 +177,7 @@ Anyway, we went up to the veeerry top of the tower (passing a lego model on the 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969513723/in/set-72157641950085705" target="_blank">
   <img src="https://farm3.staticflickr.com/2852/12969513723_1786999481_z_d.jpg" alt="Picture looking down from CN Tower" /></a> 
-  <em>A view of Toronto from the top of CN Tower</em>
+  <p class="caption">A view of Toronto from the top of CN Tower</p>
 
 After we came down in dribs and drabs, the different groups went off and did different things. The group I was with had lunch in a sports bar with roughly the same amount of TVs in it as the street I live on at home before heading off to the Hockey Hall of Fame. I lost them there and went wandering around the city. I did visit "The Bay" a department store that is the last remnant of the Hudson's Bay Trading Company, one of the world's oldest corporations still in existence. It once ruled most of Canada on behalf of the Crown and has long outlasted other similar companies such as the British East India Company.
 
@@ -185,7 +190,7 @@ Out trip to Ottawa was pretty uneventful. I remember Jacko having trouble findin
 
   <a href="https://www.flickr.com/photos/ubersejanus/12969629833/in/set-72157641950085705" target="_blank">
   <img src="https://farm8.staticflickr.com/7297/12969629833_3584eb50b7_z_d.jpg" alt="Picture of the Changing of the Guard at gate to the Residence of the Candadian Governor-General" /></a> 
-  <em>Changing of the Guard at the GG's house</em>
+  <p class="caption">Changing of the Guard at the GG's house</p>
 
 We were staying in the same student accommodation as the rest of the Moot, so getting into our rooms was a bit of a nightmare. But eventually, we got there and after learning how to play "Spider - the People-stacking game" from the Brazilian Contingent before heading off to find the Irish pub that we were meeting the rest of the contingent at.
 
@@ -195,7 +200,7 @@ All of a sudden, we were joined by Steveo the Tour Director, who had been wander
 
   <a href="https://www.flickr.com/photos/ubersejanus/17247132226/" target="_blank">
   <img src="https://farm8.staticflickr.com/7672/17247132226_6d6a285f93_z_d.jpg" alt="Picture of Me, Ryan and international friends" width="240" height="180" /></a>
-  <em>Mexican Party!!</em>
+  <p class="caption">Mexican Party!!</p>
 
 After a while, we made our way down the street to the Mexican party. It was an interesting experience, with 300-400 Rovers all crammed into this pub in Canada. Princess finally got his wish of buying me drinks on the night before Moot. It started raining pretty hard as soon as we got inside so when it looked like it was starting to let up our group decided we'd better start heading back to the university.
 

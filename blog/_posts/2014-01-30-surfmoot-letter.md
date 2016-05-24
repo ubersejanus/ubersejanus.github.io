@@ -3,7 +3,10 @@ layout: post
 title: An Open Letter to Surfmoot
 author: bradp
 hero:
-tags: moots rovers reflection
+tags:
+- moots
+- rovers
+- reflection
 ---
 
 Surfmoot, my old friend.

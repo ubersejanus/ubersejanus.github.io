@@ -50,7 +50,7 @@ So today we did very little. Extremely little even. Getting up late we went to t
 At night, our friend Sasha The Maxicab Driver took us out to this wildlife reserve pretty similar to Healsville Sanctuary, they do this Maori experience fancy show that was pretty fun. The tour guide designated a random German guy as our tribal Chief so he got to have this Maori warrior scream at him, which I’m sure was great fun..
 
 [![Native bird](https://farm6.staticflickr.com/5597/15423379601_391b23463d_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15423379601/in/album-72157647905761520/)
-*Nature!*
+<p class="caption">Nature!</p>
 
 After that we were ‘accepted into their tribe’ which seemed to involve sitting around an amphitheatre and listening to them sing songs, a couple being their traditional songs, but a few that the parentals knew the tune to and also the hokie pokie. Then they taught the women there how to use poi, and got Chief Hans (or watever his name was) to bring down his ‘longhairs’ to do the haka. That was fun, although most of the guys aside from me, dad and this Irish guy nearby hadn’t cottoned on to the fact that Longhairs meant “Warriors” meant “Men in the audience” (we skipped the middle bit though) and had to get that spelled out to them.
 
@@ -79,7 +79,7 @@ I’m never up at 8am! it was terrible! But anyway, at 8am we met our new friend
 In the beginning, I wasn’t convinced that we were on the right tour, because he was going all around Christchurch but eventually we headed off through the Cambridge Mountains (I think that was what they was called) and off to Akaroa.
 
 [![An old truck](https://farm3.staticflickr.com/2945/15426599795_073a0ffe31_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426599795/in/album-72157647905761520/)
-*This old railway truck was super exciting*
+<p class="caption">This old railway truck was super exciting</p>
 
 On the way we stopped off at this old railway station which was what made Jaimie’s day. Back into the bus and we evenually made our way there, through a coffee shop/bar, a cheese factory (and I had thought that gravy fines were disgusting… thats nothing). Where Ernie cooked up an excellent barbeque, before we headed off to the ship.
 
@@ -94,7 +94,7 @@ Seriously, so many of them were around the boat, we were just sitting there unti
 On the way back into Christchurch, we stopped off at this beachcomber’s museum/house. He’s got all this stuff thats washed up on the shore and put it up to view. He’s got all sorts of good stuff in there, everything from petrified wood to cannon shells, to these massive lightglobes. Really interesting to see what washes up.
 
 [![The Akaroa River](https://farm4.staticflickr.com/3930/15239849309_11196c5b6a_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15239849309/in/album-72157647905761520/)
-*The Akaroa River was hidden behind where we had lunch*
+<p class="caption">The Akaroa River was hidden behind where we had lunch</p>
 
 ## Day Four
 
@@ -105,7 +105,7 @@ Today I went on a tour of Mt Sunday, which is a little knoll in this glacial val
 It was made famous by it’s role in two of Peter Jackson’s Lord of the Rings films, the location of the village of Edoras.
 
 [![Andúril, Flame of the West](https://farm4.staticflickr.com/3932/15426751922_77cf4a7b4f_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426751922/in/album-72157647905761520/)
-*I pose with Andúril, Flame of the West*
+<p class="caption">I pose with Andúril, Flame of the West</p>
 
 It was one long-arse drive from Christchurch to this valley, with Rex the tourguide, the two Frenchwomen, the French expat from London, this Japanese woman, two Germans, two guys from Denmark and two sheltered ladies from the Channel Islands.
 
@@ -114,7 +114,7 @@ When we got there, we met up with another tourgroup which was led by a woman tha
 Tonight, we went to this US chain restaurant called Denny’s, which Mum used to work at when Dad was working out on the gasfields every few weeks. As far as I know, we don’t have any of these in Australia anymore, and this is a really good thing, as they are terrible.
 
 [![Rakai River bridge view](https://farm3.staticflickr.com/2948/15426710722_5e4e252173_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426710722/in/album-72157647905761520/)
-*We stopped at this bridge, it had a nice view*
+<p class="caption">We stopped at this bridge, it had a nice view</p>
 
 Right now, I’m watching a bit of Fox News. It really is your voice for evil. Just before there was this Imam and some fat white guy getting interviewed about the Imam getting discriminated against and the guy was sayin flat out ‘If you want me to care, then denounce what’s his name, Osseta – Osama bin Laden’ and the Imam just said calmly “OK, I have. Several times.”
 
@@ -127,21 +127,21 @@ Oh look, now they’re mocking an ex-Air Force Colonel who says that he’s take
 We left the hotel we’ve been staying at all this time, the Holiday Inn-on-Avon bright and early and headed off to the Christchurch Railway Station to board the TraNZalpine (see what they did there?) train to Greymouth, chief city of the West Coast.
 
 [![TraNZalpine train](https://farm4.staticflickr.com/3933/15426910832_e3a434bbf3_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15426910832/in/album-72157647905761520/)
-*Ze train, Anton! Ze train!*
+<p class="caption">Ze train, Anton! Ze train!</p>
 
 And it was spectacular. Amazing scenery the whole way over. If you ever come here, then you should definitely take this trip.
 
 For something different, we stayed that night in a Backpacker’s Hostel, which is more of a cheap, communal hotel than whatever I was that I was expecting.
 
 [![Braided River from the train train](https://farm3.staticflickr.com/2946/15240571138_708e95ba0e_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15240571138/in/album-72157647905761520/)
-*Braided rivers are super cool*
+<p class="caption">Braided rivers are super cool</p>
 
 
 ## Day Six
 We went to a smaller, less polished, version of Sovereign Hill called Shantytown, which has a working steam train. Jaimie was very excited. Other than that, the only thing that had me excited there was the office was located in a building obstinately marked as the Bank of New Zealand, with a sign saying that they apologise for the inconvenience, but all of their staff hae taken off for the latest gold rush, and therefore this branch of the bank has been closed until further notice.
 
 [![Steam trains train](https://farm4.staticflickr.com/3930/15404246846_647b758599_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15404246846/in/album-72157647905761520/)
-*Steam trains at Shantytown*
+<p class="caption">Steam trains at Shantytown</p>
 
 Yesterday was mostly spent driving straight back to the East Coast, and the civilised-er part of the island.
 
@@ -160,7 +160,7 @@ Today we went to a place called Kaikoura. This is the “Whale Capital of New Ze
 So we go out on the tour boat and we saw one whale, albeit twice. But we did also this albatross with a massive wingspan.
 
 [![A whale](https://farm4.staticflickr.com/3935/15404316576_81aab44bc7_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/15404316576/in/album-72157647905761520/)
-*The whale*
+<p class="caption">The whale</p>
 
 And by massive, I mean that if I was to stand on my own shoulders, those wings would still be bigger. We also saw a fair-sized pod of dolphins, with their jumping antics.
 

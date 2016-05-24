@@ -19,7 +19,7 @@ In 1837, Surveyor Robert Hoddle arrived in the Port Phillip District with instru
 As a side note, Gipps is responsible for the lack of public squares in Melbourne and other towns laid out during his administration… he felt that they “encouraged democracy” 
 
 ![Robert Hoddle](/blog/assets/2016-03/robert_hoddle.jpg)
-*Surveyor-General Robert Hoddle*
+<p class="caption">Surveyor-General Robert Hoddle</p>
 
 In accordance with his instructions, Hoddle laid out Melbourne Town. Unlike cities such as New York where the grid aligns with the cardinal directions, Melbourne is orientated on a 70 degree angle from true north — 
 
@@ -45,7 +45,7 @@ These days, Melbourne is a sprawling metropolis. Home to over 4 million people, 
 
 Governor Gipps’ directive to put land to market ASAP may have made the Colony of New South Wales a lot of money (at one point, land sales in the Port Phillip District were bringing in more money to the NSW Treasury than the entire colony of Van Diemen's Land was turning over) but 180 years later it has left Melbourne with a CBD, and for that matter a state, that is well structured and easy to move around.
 
-<p>That's thanks to the <span style="font-style:italic;">other</span> grid that Robert Hoddle drew up from Batman’s Hill...</p>
+That's thanks to the *other* grid that Robert Hoddle drew up from Batman’s Hill...
 
 ![Map](/blog/assets/2016-03/osm_metro.png)
 

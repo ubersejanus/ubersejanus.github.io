@@ -18,7 +18,7 @@ Got up into the air and in about 2 minutes BAM! out like a light until we starte
 
 
 <img src="/blog/assets/2009-01/waterfall.png" alt="waterfalls at Mt Tamborine" /> 
-<em>GOSH I LIKE WATERFALLS</em>
+<p class="caption">GOSH I LIKE WATERFALLS</p>
 
 
 Aside from water there were also cool trees with funny looking trunks. We also visited the Mt Tamborine Botanical Gardens, much to the bemusement of our host. Other exciting events on the mountain included walking around and then on the way home almost loosing her car rego sticker out the window.

@@ -7,7 +7,7 @@ tags: space
 ---
 
 <img src="/blog/assets/2014-11/PIA18291_modest.jpg" alt="Image PIA18291" /> 
-<em><a href="http://photojournal.jpl.nasa.gov/catalog/PIA18291" target="_blank">PIA18291: Mimicking the Moon</a> (NASA/JPL-Caltech/Space Science Institute)</em>
+<p class="caption"><a href="http://photojournal.jpl.nasa.gov/catalog/PIA18291" target="_blank">PIA18291: Mimicking the Moon</a> (NASA/JPL-Caltech/Space Science Institute)</p>
 
 This image from the Cassini orbiter shows Saturn and it's moon Titan, both in a crescent phase. This image has a scientific purpose, as well as being astronomically hot - scientists can tell all kinds of exciting things about atmospheric conditions by looking at how the light acts.
 

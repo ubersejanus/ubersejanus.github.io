@@ -12,7 +12,7 @@ excerpt: Looking back on my experiences at the 2013 World Scout Moot held at Awa
 
   <a href="https://www.flickr.com/photos/ubersejanus/17284275172/" target="_blank">
   <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_z_d.jpg" /></a>
-  <em>Photobombing was a hobby of mine at Moot (and in life)</em>
+  <p class="caption">Photobombing was a hobby of mine at Moot (and in life)</p>
 
 Once breakfast was over, it was time to walk down to the Canadian Parliament, kick back and wait for the Governor-General to show up and officially start the show. Turns out that the Australian flag had been misplaced, but luckily we had been using a flag taped to Pete's Oar as a "follow me" beacon so no harm, no foul, I suppose.
 
@@ -25,7 +25,7 @@ But at length, the Canadian Governor-General arrived, and he made his way up the
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975847024/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_z_d.jpg" /></a>
-  <em>Rovers waiting for the opening ceremony in front of Parliament</em>
+  <p class="caption">Rovers waiting for the opening ceremony in front of Parliament</p>
 
 But, with the GG's Personal Standard fluttering high above, it was time to begin.
 
@@ -40,7 +40,7 @@ The Moot team had put us into Patrols based on our choice of "Urban Experience" 
 
   <a href="https://www.flickr.com/photos/ubersejanus/17286098345/in/set-72157641973511214" target="_blank">
   <img src="https://farm9.staticflickr.com/8726/17286098345_fbdd47e20c_z_d.jpg" alt="Picture of my Patrol" /></a>
-  <em>Patrol 147</em>
+  <p class="caption">Patrol 147</p>
 
 When the buses pulled up, we were excited to see that they were the iconic yellow North American school buses. That excitement lasted only as long as it took to climb aboard.
 
@@ -52,13 +52,13 @@ We were able to find most of our bags, and we set off for Subcamp Two to find ou
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975704985/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_z_d.jpg" alt="" /></a>
-  <em>Comparitive picture of flagpole height outside Contingent tents</em>
+  <p class="caption">Comparitive picture of flagpole height outside Contingent tents</p>
 
 These community dinners would have one thing in common with each other: horrible, horrible menus. The first night&#8217;s just consisted of one hot dog, and a bag of potato chips, possibly with some fruit. Needless to say, the poutine vendor did excellent business that night. On this night, there was also a second opening ceremony, but I was tired and thought that reopening an event which was already open was dumb, so I went to bed instead. I understand there were canoes coming off the lake involved however.
 
 Our first full day on site was full of various familiarisation activities. We were supposed to discuss our cultures and our moot-related hopes and dreams. A certain Rover told her patrol that a traditional Australian greeting was "Gidday [four letter word rhyming with runts]" and boy did that one spread fast...
 
-By the glorious property of timezones, back home familiarisation day was also my brother's 9th birthday so I went investigating where I might find myself a payphone to wish him the best. However, I'd messed up my maths, so $30 later I had left an incredibly expensive answering machine message because it was 5.30am instead of 7.30 like I thought. It's the thought that counts, right?
+By the glorious property of timezones, back home familiarisation day was also my brother's 9th birthday so I went investigating where I might find myself a payphone to wish him the best. However, I'd messed up my maths, so $30 later I had left an incredibly expensive answering machine message because it was 5.30am instead of 7.30am like I thought. It's the thought that counts, right?
 
 I'd said that I would meet up with the rest of my Patrol after they'd finished the scavenger hunt around site, so I went and did a bit of exploring myself. Right near the payphones was the Contingent Area, and as one of the larger contingents, Australia &amp; New Zealand had a "tent" (actually one of those temporary garages made from tarp material) all to itself. We had placed regular sized flagpoles on either side of the tent with an Australian and NZ flag on it, as had done the other contingents. However, when I arrived to have a look at the area, the Mexicans were in the process of building a large and elaborate flagpole.
 
@@ -70,7 +70,7 @@ Well the Mexicans saw our large pole, and spent the next hour building an elabor
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976157294/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7360/12976157294_7e16ef574b_z_d.jpg" alt="The beginnings of a campfire" /></a>
-  <em>The beginnings of a campfire</em>
+  <p class="caption">The beginnings of a campfire</p>
 
 
 The Moot was designed so that for most of the time, only half of the participants would be on site. My Unit (4 patrols made a Unit) was staying on site... so with the dawning of Day Three, we began our first activities. We started off with the Global Development Village, where we did some simple Messengers of Peace-type activities one of which was learning about landmines, the other was a bit more esoteric, and I'm not entirely sure what it was about... there was a bit of a commando course thing, it was all a bit odd.
@@ -80,7 +80,7 @@ Our afternoon activity was much more fun, we went paddling on the lake, charming
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975760885/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_z_d.jpg" alt="" /></a>
-  <em>Rideau Canal in operation</em>
+  <p class="caption">Rideau Canal in operation</p>
 
 That night I went wandering again and I soon discovered the neighbouring subcamp, confusingly this was not Subcamp One or Subcamp Three &#8211; but instead Subcamp Seven. On the plus side however, this subcamp was run by a couple from Melbourne, Chris and Lea who I knew reasonably well. Chris was running a tight ship, and amongst his Rovers were Brother Gogerly and Mr Beeby. Being a generous soul, I gave them a hand starting their campfire before continuing on my way.
 
@@ -90,7 +90,7 @@ Brother Gogerly and I ended up spending quite a bit of time hanging out by the P
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976462863/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_z_d.jpg" alt="" /></a>
-  <em>Flagpoles in the main arena. Guy&#8217;s tent has a stand of flags front of it</em>
+  <p class="caption">Flagpoles in the main arena. Guy&#8217;s tent has a stand of flags front of it</p>
 
 We spent a bit of time sharing stories with Guy and his team, and with other people who happened to be nearby — stories with varying degrees of accuracy&#8230;<br />
 One evening, early in the Moot, we were spinning a yarn about that most vicious of Australian animals, the Drop Bear. Explaining carefully the many brutal aspects of these fearsome creatures, we corroborated each other every step of the way, up until it came to the death toll amongst Victorian Rovers for the year. I said 12, but Brother Gogerly was firmly insisting that there had been 13 fatalities. We counted the "deaths" for a bit, before he revealed that "Chris from Corhanwarrabul" had been attacked shortly before we had left for Canada. Not knowing this, I had to excuse myself for a while, while Brother Gogerly continued the story.
@@ -105,7 +105,7 @@ Food at the Moot was an interesting experience. We were cooking in Patrols for m
 
   <a href="https://www.flickr.com/photos/ubersejanus/17098324108/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7674/17098324108_524ddd306c_z_d.jpg" alt="A bit of singing before the rugby" /></a>
-  <em>A bit of singing before the rugby <br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></em>
+  <p class="caption">A bit of singing before the rugby <br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 
 The middle day of the Moot was cultural day, and one of my favourite days of the entire trip. It was just really fun to get all green-and-gold (and also to share opinions via the blow-up Kangaroos the contingent had provided us with.)
 
@@ -119,7 +119,7 @@ Of course, that meant we had to explain what a meat tray was&#8230; In the end w
 
   <a href="https://www.flickr.com/photos/ubersejanus/17099896519/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7692/17099896519_551c97325e_z_d.jpg" alt="Anzac Rugby Team" /></a>
-  <em>Anzac Contingent Rugby Team<br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></em>
+  <p class="caption">Anzac Contingent Rugby Team<br />Image Credit &#8211; <a href="https://www.facebook.com/pages/Robbie-Z-Photography/109538649068138?fref=ts" target="_blank">Robbie Z Photography</a></p>
 
 Another part of cultural day was cultural dress/scout uniform. I was rocking my drizabone, which was really hot so I had shorts and thongs underneath with the green and gold contingent shirt. Most Australians went with the flanny, or a bluey, or both&#8230; there were a few other good ones, such as Ferret and Alisha dressing up as Crocodile Dundee and a crocodile.
 
@@ -133,8 +133,7 @@ After dinner, a group were discussing the dating profiles that they had put up i
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976267944/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7368/12976267944_48a33b5fab_z_d.jpg" alt="Photos of Rovers enjoying a tasty meal" /></a>
-  <em>Dinner in Quebec</em>
-
+  <p class="caption">Dinner in Quebec</p>
 
 My Urban Experience was in Quebec. Figuring that since we were in for such a long ride, we assumed that we would be in a grown-up bus for the nine hour drive from Awacamenj Mino to Quebec City, but alas it was not to be. We climbed aboard the yellow perils with a sense of dread, with many taller passengers claiming seats next to the aisle, at the back of the bus and just also giving up and lying in the aisle hoping for some semblance of comfort. We took a pretty easy drive up, stopping relatively frequently at Tim Hortons&#8217; and/or rest stops depending on the whims of our drivers. But after nine gruelling hours, we made it to our home for the next few day and a half or so, the Université Laval. First order of business was a hot shower and shave, followed by finding the dining hall.
 
@@ -142,7 +141,7 @@ After so long at Awacamenj Mino, just seeing the University cafeteria was like m
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976150003/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3605/12976150003_466498eeea_z_d.jpg" alt="Looking over the Pasage du Chien-d'Or as twilight falls" /></a>
-  <em>Looking over the Pasage du Chien-d&#8217;Or as twilight falls</em>
+  <p class="caption">Looking over the Pasage du Chien-d&#8217;Or as twilight falls</p>
 
 After dinner, it was time to get back onto the buses, but this was OK as it was only for a 10 minute trip into the Old Town.<br />
 The Old Town is the part of Quebec City which is within the town wall. The entire place is a UNESCO World Heritage Area and after we walked down from the Manège Militaire Voltigeurs de Québec, past the Parlement de Quebec and through the gate, it was like we were stepping across the Atlantic Ocean. Cobblestone streets and tiny narrow houses were everywhere.
@@ -151,7 +150,7 @@ The most impressive part of the city is of course the glorious Château Frontena
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976205705/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3468/12976205705_472a98a6b8_z_d.jpg" alt="Eating lunch at Village-Des-Hurons" /></a>
-  <em>Eating lunch at Village-Des-Hurons</em>
+  <p class="caption">Eating lunch at Village-Des-Hurons</p>
 
 One thing that I noticed is that as well as many public spaces (gardens, plazas, promenades, etc) there was also a lot of street performers. Possibly we were there over the weekend, but I suspect that it's just a part of the culture of the city that a) there are street performers and b) people stand there and watch them. Some of the performers were quite good, but I was more in the mood for exploring than watching shows, so I normally moved on pretty quickly. One street performer I came across though needs mentioning, sitting alone underneath St Edward's Gate, halfway around the world from home, was a man playing his didgeridoo.
 
@@ -163,7 +162,7 @@ We had over an hour for lunch, so after we&#8217;d finished eating, I went for a
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976264975/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7446/12976264975_3408ec1a6e_z_d.jpg" alt="Craftsmen build a canoe using traditional methods at the museum" /></a>
-  <em>Craftsmen build a canoe using traditional methods at the museum</em>
+  <p class="caption">Craftsmen build a canoe using traditional methods at the museum</p>
 
 When lunch was over, we moved on to the local museum, the Hotel-Musee Premieres Nations. There were exhibits inside, but outside the museum there was a traditional garden which showed, amongst other things, how they grew beans and squash by using corn stalks as a support in a system called the Three Sisters, as the beans would provide nitrogen in the soil, and the squash's broad leaves created shade. Other popular horticultural choices included sunflowers and artichoke. The trees that were cut down to build these gardens were then used to construct longhouses and palisades. As well as the longhouse, the museum palisade also contained a small workshop, where craftsmen were building a bark canoe using traditional methods.
 
@@ -175,7 +174,7 @@ Soon, we were back on the bus to the University, where it was time for dinner. C
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976431163/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3822/12976431163_7b95d41cd1_z_d.jpg" alt="Large fountain outside Parlement de Quebec" /></a>
-  <em>Large fountain outside Parlement de Quebec</em>
+  <p class="caption">Large fountain outside Parlement de Quebec</p>
 
 Unfortunately, he was a Québécois and didn't have a good understanding of english. Luckily, the man standing next to him was the chief bus driver from our little expedition, and he had also been trying to get similar questions answered so that he could ensure that his team were able to get their crew rest ahead of a long drive through the night back to Ottawa and Awacamenj Mino. He shared my frustration with the way the whole event had been organised. After a little while, we established that the buses would take us out to the activity at 7pm, return to the university for the drivers to rest and then return to pick us up at midnight.
 
@@ -183,7 +182,7 @@ As it was already after six, I did my best to help spread the word. Eventually, 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976722224/in/set-72157641973511214" target="_blank">
   <img src="https://farm3.staticflickr.com/2392/12976722224_2a15745d45_z_d.jpg" alt="La Promenade des Gouverneurs after an evening shower" /></a>
-  <em>La Promenade des Gouverneurs after an evening shower</em>
+  <p class="caption">La Promenade des Gouverneurs after an evening shower</p>
 
 So at long last, we were on our way back into Old Quebec, singing deeply inappropriate songs quite loudly. It was interesting to watch out the window, as people would hear that we were singing, have a listen and figure out what we were singing, and then in that great francophone tradition, pretend not to be able to comprehend english. We continued singing after getting into town, but switched to singing Australian songs such as Waltzing Matilda, Home Among the Gumtrees and Down Under when it became clear that we had run out of Australiana-type songs that we all knew the words to. But that was OK, as by this time we were walking up the city walls and that was a bit of a walk.
 
@@ -197,7 +196,7 @@ It was right on midnight when our little group made it back to the city armoury,
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976335695/in/set-72157641973511214" target="_blank">
   <img src="https://farm3.staticflickr.com/2874/12976335695_32d0aa815c_z_d.jpg" alt="Photo of late-Moot Contingent noticeboard" /></a>
-  <em>Contingent Communication System</em>
+  <p class="caption">Contingent Communication System</p>
 
 
 With the return of the second group of Urban Experiencers, the Moot was on the wind-down. By the time I woke up again, this notice had appeared at the &#8220;door&#8221; of the contingent tent — it was slightly more colourful than the comparable signs on other tents, although the gist was the same&#8230;
@@ -208,7 +207,7 @@ We got straight down to brass tacks this time, not bothering with the formalitie
 
   <a href="https://www.flickr.com/photos/ubersejanus/17286098195/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7690/17286098195_22dcdd3440_z_d.jpg" alt="Photo of a tackle in the rugby game ... I'm helping!" /></a>
-  <em>Photo of a tackle in the rugby game &#8230; I&#8217;m helping!</em>
+  <p class="caption">Photo of a tackle in the rugby game &#8230; I&#8217;m helping!</p>
 
 I was however less successful at tackling, as early in the game I was unable to move out of the way of a British gentleman who strongly resembled a brick outhouse before he was brought down on top of my knee. Hobbling from the field, I gladly surrendered my place to a Rover who hailed from the north of the Barassi Line; while Jenna our wonderful Contingent First Aider bandaged me up.
 
@@ -219,7 +218,7 @@ Once the rugby was over, it was time for the Australia &#8211; England cricket m
 
   <a href="https://www.flickr.com/photos/ubersejanus/17098541510/in/set-72157641973511214" target="_blank">
   <img src="https://farm8.staticflickr.com/7703/17098541510_cfac4549c5_z_d.jpg" alt="Photo of some Victorians" /></a>
-  <em>Apparently this is the &#8220;Family Portrait&#8221; I feel like I&#8217;m a foster brother</em>
+  <p class="caption">Apparently this is the &#8220;Family Portrait&#8221; I feel like I&#8217;m a foster brother</p>
 
 
 But it was all for naught, as we lost the cricket game as well, meaning that England would retain the Moot Ashes for another four years.
@@ -230,7 +229,7 @@ The final day was scheduled as &#8220;reflections day&#8221;, but a better name 
 
   <a href="https://www.flickr.com/photos/ubersejanus/17285588491/in/set-72157641973511214" target="_blank">
   <img src="https://farm9.staticflickr.com/8784/17285588491_259d38b5e7_z_d.jpg" alt="An official Photograph of the Australian Contingent" /></a>
-  <em>I am so pleased that this is legitimately an official Contingent Photograph</em>
+  <p class="caption">I am so pleased that this is legitimately an official Contingent Photograph</p>
 
 I mentioned earlier that the shower facilties weren&#8217;t the best, but that there was a lake nearby. Suffice to say, the Canadians were unimpressed by a common logical solution to this problem.
 
@@ -240,7 +239,7 @@ Finally, it was time for the closing ceremony.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976716125/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3354/12976716125_c756242698_z_d.jpg" alt="Photo of the closing ceremony MC" /></a>
-  <em>The MC of the closing ceremony</em>
+  <p class="caption">The MC of the closing ceremony</p>
 
 
 The MC was dressed in a very interesting style, one that I can only describe as &#8220;First Nations Willy Wonka&#8221;. I don't remember much of the closing ceremony, because I was in awe of First Nations Willy Wonka. I do remember watching a video of some Moot highlights, a few speeches, and a presentation from Iceland, who are going to be hosting the next Moot, in 2017.
@@ -257,7 +256,7 @@ Unfortunately, I wasn&#8217;t up to much jumping after that Englishman landed on
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976922393/in/set-72157641973511214" target="_blank">
   <img src="https://farm4.staticflickr.com/3826/12976922393_dfd189b072_z_d.jpg" alt="Photo of Australians taking over a part of Ottawa airport" /></a>
-  <em>Ottawa Airport Base Camp</em>
+  <p class="caption">Ottawa Airport Base Camp</p>
 
 On the final day, I awoke, packed my sleeping bag into my actual bag, strapped it to my back and pulled my day/hike pack onto my front and strolled out of Subcamp 2 for the last time. I didn't have much faith that our airport transfers were going to go well, so I intended to be out of there as soon as possible.
 
@@ -268,7 +267,7 @@ It was many, many hours before our flights were to depart, so a base camp was so
 
   <a href="https://www.flickr.com/photos/ubersejanus/12977212094/in/set-72157641973511214" target="_blank">
   <img src="https://farm3.staticflickr.com/2621/12977212094_5bb91b8e87_z_d.jpg" alt="LAX had plenty of people during this visit. This was not appreciated" /></a>
-  <em>LAX by night&#8230; too many people!</em>
+  <p class="caption">LAX by night&#8230; too many people!</p>
 
 
 After a while of hanging out in the airport, a pair of Italians decided that they would race their baggage trolleys along the concourse. Thinking that looked like it was a lot of fun, I thought it best to forbid us from taking part. Apparently this was enough to get me nominated as trip leader for the flight home — either that or the fact that I would not be travelling with them, I&#8217;m not sure.

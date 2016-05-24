@@ -18,7 +18,7 @@ When my eldest aunt was born, my grandparents put a notice in The Argus, which 
 <!--more-->
 
 [![Sale clock tower](https://farm9.staticflickr.com/8725/17441302860_f47a81910f_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17441302860)
-*Clock towers were once way more necessary than they are today, too*
+<p class="caption">Clock towers were once way more necessary than they are today, too</p>
 
 My grandparents had recently moved up near Nhil, far out in the western districts and back in the 50s that was a pretty big trek back in those days. So when they welcomed their firstborn into the world, the easiest way to share the news with friends and family was to put it in the newspaper. Over the following days, there would often be return notices wishing the best for the child - just like the Facebook posts we all know so well these days.
 
@@ -27,7 +27,7 @@ Before I figured out how I was going to tell this story, I listed a number of ab
 This was the first time I'd been to Sale; and a few weeks ago I got a text saying "Snapchat makes me feel like we're all together when apart." So, putting these two things together, I decided to put her theory to the test... since she wasn't here to show me around in person, I figured I'd just spam her snapchat feed instead.
 
 [![Sale clock tower](https://farm9.staticflickr.com/8743/17628906891_152df5424b_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17628906891)
-*In the name of all that is good and logical, we give thanks for the chemical energy we are about to absorb*
+<p class="caption">In the name of all that is good and logical, we give thanks for the chemical energy we are about to absorb</p>
 
 Regretfully I didn't decide to write this until I was on the way home, so I can't share the full experience. It seemed to work moderately well though.
 (At least from my end)
@@ -38,7 +38,7 @@ I sent a 'snap' of the "Welcome to Sale" sign asking for somewhere to have lunc
 But with my work done, and a song in my heart, I set off to find Mister Raymond — where lunch was indeed tasty and to snapchat that I'd made my way there. After lunch, I headed down to the lake, because I was told to, and because lakes are cool.
 
 [![Sale clock tower](https://farm9.staticflickr.com/8735/17050589664_71e6c45ba2_z_d.jpg)](https://www.flickr.com/photos/ubersejanus/17050589664)
-*I saved one!*
+<p class="caption">I saved one!</p>
 
 I found a path that split at the intersection of the two lakes... one track lined with plastic markers, the other cut between the two lakes heading straight to the botanic gardens. And I? I took the road that went closer to the Pelicans up ahead, because Pelicans are some of my favourite birds.
 
