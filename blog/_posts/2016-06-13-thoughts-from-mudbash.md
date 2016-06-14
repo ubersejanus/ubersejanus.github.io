@@ -23,14 +23,20 @@ This year, though I hadn't planned it, I found myself sitting by the same campfi
 
 The campfire belonged to Schwerkolt back then, a Crew since gone. I was a [Knight-errant](https://en.wikipedia.org/wiki/Knight-errant) in those days, wandering, exploring, keen to discover &mdash; and on the opposite side of the camping bays from my own campsite. Naturally, I was the youngest person sitting at the fire; a wide-eyed 18 year old who barely knew anyone from outside my own Crew.
 
-That campfire is in Mt Evelyn's care now, a Crew that only began recently. My questing days are over; I have seen my squires through to knighthood, and helped many more beside... straying far from my own campsite? Eh, no thanks. These days, people anywhere on the property who are older than I are starting to be in short supply; I knew hundreds of people who were there, and casually popped into HQ on my way home to thank the Chairman for a good weekend.
+That campfire is in Mt Evelyn's care now, a Crew that I saw start up. My questing days are over now; I have seen my squires through to knighthood, and helped many more beside... straying far from my own campsite? Eh, no thanks. These days, people anywhere on the property who are older than I are starting to be in short supply; I knew hundreds of people who were there, and casually popped into HQ on my way home to thank the Chairman for a good weekend.
 
-I love Mudbash. Over Queen's Birthday I've done lots of things:  
-I've seen dawn from Mt Quafftumbla, pulled *many* all-nighters and deep-fried bizarre things.    
-I've been a Track Commander, a Crew Leader, led training courses, and been a dishpig.  
-I've built up fires so big that they have held the rain at bay, and also called out the Fire Crew.  
-I've woken up the entire campsite over the PA, and woken up individuals much more personally with the waters of Lake Surfmoot.
+I love Mudbash. 
 
-As I steeled myself to head back into the cold and off to bed, I looked at a young woman on her first big Rover camp. Instead of her face, I saw possibility. Because I'm not the 18 year old who was sitting by the fire ten years before plus time.
+Over Queen's Birthday I've done many things:  
+I've seen dawn from Mt Quafftumbla, pulled a *lot* all-nighters and deep-fried bizarre things.    
+I've been a Track Commander, a Crew Leader, run training courses, and been a dishpig.  
+I've built up fires so big that they have held the rain at bay,  
+I've seen fires out of control and called for the Fire Crew.  
+I've woken everyone in the campsite over the PA, 
+I've woken up individuals using the waters from Lake Surfmoot.
+
+As I steeled myself to head back into the cold and off to bed, I looked at a young woman on her first big Rover camp. Instead of her face, I saw possibility. 
+
+Because I'm not the 18 year old who was sitting by that fire ten years before plus time.
 
 No. I'm that 18 year old plus experience.

@@ -533,8 +533,15 @@ blockquote {
 	
 /* Table style */
 tr:nth-child(even) {
-	background: #ccc; }
+	background: #e6e6e6; }
 	
 tr:nth-child(odd) {
 	background:#fbfbfb; }
+
+table {
+	font:inherit;
+    color:inherit;
+	border-collapse:collapse;
+	margin-top:10px;
+	margin-bottom:10px; }
 	
