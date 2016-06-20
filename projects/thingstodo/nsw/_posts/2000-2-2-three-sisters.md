@@ -6,7 +6,7 @@ website: http://www.nationalparks.nsw.gov.au/things-to-do/Lookouts/Echo-Point-lo
 map: Three+Sisters/@-33.2323029,149.9643496
 parkweb: 
 wikipedia: Three_Sisters_(Australia)
-state: NSW
+state: nsw
 area: blue-mountains
 tags:
 - things-sydney

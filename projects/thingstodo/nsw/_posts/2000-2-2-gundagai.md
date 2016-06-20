@@ -6,7 +6,7 @@ website: http://www.thedogonthetuckerbox.com
 map: Dog+on+the+Tuckerbox/@-35.001143,148.110872
 parkweb: 
 wikipedia: Dog_on_the_Tuckerbox
-state: NSW
+state: nsw
 area: albury
 tags:
 - things-nsw-south

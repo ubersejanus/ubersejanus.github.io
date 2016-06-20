@@ -6,7 +6,7 @@ website: http://www.ettamogahhotel.com.au
 map: Ettamogah+Pub/@-35.9683248,147.0082392
 parkweb: 
 wikipedia: Ettamogah_Pub
-state: NSW
+state: nsw
 area: albury
 tags:
 - things-nsw-south

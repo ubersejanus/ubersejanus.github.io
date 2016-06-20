@@ -6,7 +6,7 @@ website: http://www.bridgeclimb.com
 map: Sydney+Harbour+Bridge/@-33.8523063,151.2107871
 parkweb: 
 wikipedia: Sydney_Harbour_Bridge
-state: NSW
+state: nsw
 area: sydney-harbour
 tags:
 - things-sydney

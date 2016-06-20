@@ -6,7 +6,7 @@ website: http://www.sydneyoperahouse.com
 map: Sydney+Opera+House/@-33.8567844,151.2152967
 parkweb: 
 wikipedia: Sydney_Opera_House
-state: NSW
+state: nsw
 area: sydney-harbour
 tags:
 - things-sydney

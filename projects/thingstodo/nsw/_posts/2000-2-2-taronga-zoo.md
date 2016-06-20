@@ -6,7 +6,7 @@ website: https://taronga.org.au/taronga-zoo
 map: Taronga+Zoo/@-33.8430217,151.241913
 parkweb: 
 wikipedia: Taronga_Zoo
-state: NSW
+state: nsw
 area: sydney-harbour
 tags:
 - things-sydney
