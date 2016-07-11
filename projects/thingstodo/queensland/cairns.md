@@ -1,7 +1,7 @@
 ---
 layout: things-include
 title: Cairns
-state: qld
+state: queensland
 tag: things-cairns
 ---
 [Brisbane](brisbane) • [Gold Coast](gold-coast) • [Sunshine Coast](sunshine-coast) • [Bundaberg](bundaberg) • **Cairns**

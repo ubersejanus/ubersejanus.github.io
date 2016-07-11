@@ -1,7 +1,7 @@
 ---
 layout: things-include
 title: Brisbane
-state: qld
+state: queensland
 tag: things-brisbane
 ---
 **Brisbane** • [Gold Coast](gold-coast) • [Sunshine Coast](sunshine-coast) • [Bundaberg](bundaberg) • [Cairns](cairns)

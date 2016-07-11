@@ -1,7 +1,7 @@
 ---
 layout: things-include
 title: Sunshine Coast
-state: qld
+state: queensland
 tag: things-sunshinecoast
 ---
 [Brisbane](brisbane) • [Gold Coast](gold-coast) • **Sunshine Coast** • [Bundaberg](bundaberg) • [Cairns](cairns)

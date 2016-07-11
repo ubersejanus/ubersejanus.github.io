@@ -1,7 +1,7 @@
 ---
 layout: things-include
 title: Bundaberg
-state: qld
+state: queensland
 tag: things-bundaberg
 ---
 [Brisbane](brisbane) • [Gold Coast](gold-coast) • [Sunshine Coast](sunshine-coast) • **Bundaberg** • [Cairns](cairns)
