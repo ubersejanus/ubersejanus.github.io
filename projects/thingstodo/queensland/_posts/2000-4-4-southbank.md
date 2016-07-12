@@ -1,7 +1,7 @@
 ---
 layout: things-item
 permalink: /:categories/:title
-title: Southbank
+title: South Bank
 website: http://southbankcorporation.com.au/
 map: South+Bank+Parklands/@-27.4766308,153.0222406
 parkweb: 
@@ -17,9 +17,11 @@ A nice, long, park that most of the below items are scattered through.
 
 On the weekends, there are often sweet "farmer's" markets, with many tasty treats and fancy nick-knacks on offer.
 
+In contrast with Melbourne, South Bank is two words.
+
 ### State Library of Queensland
 The [State Library of Queensland](http://www.slq.qld.gov.au) is home to the Tree of Knowledge, birthplace of the Labor Party across the globe.
-Interesting, if thinky, exhibits on various pieces of Queensland history
+There are also a number of interesting, if thinky, exhibits on various pieces of Queensland history. Not to mention every book published in Queensland since that's what State Libraries do.
 
 ### Queensland Museum/Sciencentre
 The [Queensland Museum](http://www.southbank.qm.qld.gov.au) is your standard museum: Home to many an exhibit, some of which are hands-on. It also includes two different Art Galleries
