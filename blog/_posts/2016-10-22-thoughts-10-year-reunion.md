@@ -33,7 +33,7 @@ Shooting model rockets off on the oval only for them to be caught in the wind an
 Skipping the best part of a semester of Spanish and pretty much getting away with it scot-free because the teacher thought I was the new kid from South Africa in Year 8.  
 The excitement of being assigned my very first locker in Year 7.
 
-High School wasn't all sitting on uncomfortable chairs in cramped rooms with people you didn't really like that much, and I think it's good to think back on where you've been from time to time.
+High School wasn't all sitting on uncomfortable chairs in cramped rooms with people you didn't really like that much, and it's good to think back on where you've been from time to time.
 
 Those people, even those I disliked, were a part of my everyday life for a long time.
 
