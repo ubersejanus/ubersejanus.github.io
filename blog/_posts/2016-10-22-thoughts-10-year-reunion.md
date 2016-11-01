@@ -24,18 +24,18 @@ So this morning I scrolled through the event and found most of them and the peop
 
 What is a school reunion about though? Catching up on the lives of people you used to know, or just remembering things that happened when you all were young? Things that had slipped your mind until the old faces brought them back?
 
-Guiding other students through warm-up exercises with Josh while the dancers reheased for the musical.  
+Guiding younger students through warm-up stretches with Josh while the dancers reheased for Production.  
 Accidently instigating a fairly major clash between the graduating class and Year 9 over our "football" games in Year 12.
 Being introduced to the wife of Mr Fulu after running into him at Darwin's Mindal Market because the man was just a class act on Central.  
-Out-sprinting a champion long distance runner in year 11.
-Staring up at the Milky Way on the banks of the Murray River with Sam and showing her constellations in year 10.  
-Shooting model rockets off on the oval only for them to be caught in the wind and land on portable classrooms in year 9.
-Skipping the best part of a semester of Spanish and pretty much getting away with it scot-free because the teacher thought I was the new kid from South Africa in year 8.  
-The excitement of being assigned my very first locker in year 7.
+Out-sprinting a champion long-distance runner in Year 11.  
+Lying on the banks of the Murray River with Sam, staring at the Milky Way and showing her constellations in Year 10.  
+Shooting model rockets off on the oval only for them to be caught in the wind and land on portable classrooms in Year 9.
+Skipping the best part of a semester of Spanish and pretty much getting away with it scot-free because the teacher thought I was the new kid from South Africa in Year 8.  
+The excitement of being assigned my very first locker in Year 7.
 
 High School wasn't all sitting on uncomfortable chairs in cramped rooms with people you didn't really like that much, and I think it's good to think back on where you've been from time to time.
 
-Those people, even those I disliked, were a part of my everyday life for a long time. They helped shape me into who I am now.
+Those people, even those I disliked, were a part of my everyday life for a long time.
 
 So Familiar.
 
