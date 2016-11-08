@@ -9,7 +9,7 @@ wikipedia: Coober_Pedy,_South_Australia
 state: sa
 area: red-centre
 tags:
-- things-not-adelaide
+- things-sa-other
 - things-sa
 ---
 

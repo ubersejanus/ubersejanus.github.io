@@ -9,7 +9,7 @@ wikipedia: Kangaroo_Island
 state: sa
 area: offshore-islands
 tags:
-- things-not-adelaide
+- things-sa-other
 - things-sa
 ---
 
