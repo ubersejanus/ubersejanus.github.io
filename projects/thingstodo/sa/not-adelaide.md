@@ -1,7 +1,7 @@
 ---
 layout: things-include
 title: Outback SA
-state: sa
+state: South Australia
 tag: things-sa-other
 ---
 [Adelaide](adelaide) • **Outback SA**
