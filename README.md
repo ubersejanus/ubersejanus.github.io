@@ -124,14 +124,59 @@ Ex:
 layout: post-no-feature
 ```
 
-### Categories
+## Adding tags
 
-In the sample `_posts` folder you may have noticed `category: articles` in the front matter. I like keeping all posts grouped in the same folder. If you decide to rename or add categories you will need to modify the permalink in `articles.md` along with the filename (if renaming).
+When writing a new post, you can add listed tags at the top of the post markdown file. 
+```
+---
+layout: post
+title: [title of post]
+author: [author id]
+tags:
+- [tag1]
+- [tag2]
+- [tag3]
+---
 
-For example. Say you want to group all your posts under `blog/` instead of `articles/`. In your post add `category: blog` to the front matter, rename or duplicate `articles.md` to `blog.md` and change the permalink in that file to `permalink: /blog/index.html`.
+```
 
-If done correctly `/blog` should be a page listing all the site's posts.
+Tag pages have to be created manually. It's annoying. They're placed under the tags folder, obviously.
 
+## Code snippets
+
+Jekyll has support for code snippets and highlighting. To include a codeblock with in your markdown, use the following syntax:
+```
+{% highlight [language] %}
+[Your code here]
+{% endhighlight %}
+```
+So if you were going to be including a snippet of Ruby code in your post, it would look like:
+```
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+```
+
+## YouTube videos
+
+To embed a YouTube video directly in a post, use the `youtube.html` include like this:
+
+```
+{% include youtube.html video_id="SQoA_wjmE9w" %}
+```
+
+You can get a video's id by looking at the URL of the video's page on YouTube ([youtube.com/watch?v=SQoA_wjmE9w](https://www.youtube.com/watch?v=SQoA_wjmE9w) in this example).
+
+You can also use only part of a video by specifying the start time like this:
+```
+{% include youtube.html video_id="SQoA_wjmE9w" start_seconds="33s" %}
+```
 
 ## License
 
