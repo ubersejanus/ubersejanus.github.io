@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Zealand 2007
-author: bradp
 date: 2007-01-31 12:00:00
-hero: https://farm4.staticflickr.com/3931/15423899641_22c229f0c0_k_d.jpg
+image:
+ feature: https://farm4.staticflickr.com/3931/15423899641_22c229f0c0_k_d.jpg
 tags:
 - travel
 - family

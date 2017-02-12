@@ -2,7 +2,8 @@
 layout: post
 title: Thoughts from Places &mdash; Sale
 author: bradp
-hero: https://farm9.staticflickr.com/8876/17487548629_ed5964bdef_k_d.jpg
+image:
+ feature: https://farm9.staticflickr.com/8876/17487548629_ed5964bdef_k_d.jpg
 category: reflection
 tags: thoughts-from-places
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: Thoughts from Places &mdash; My Ten-Year Reunion
 author: bradp
-hero: /blog/assets/2016-10/vce06.jpg
+image:
+ feature: /blog/assets/2016-10/vce06.jpg
 tags:
 - thoughts-from-places
 - school

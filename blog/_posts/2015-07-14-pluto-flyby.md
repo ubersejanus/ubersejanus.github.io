@@ -2,7 +2,8 @@
 layout: post
 title: Finding New Horizons
 author: bradp
-hero: http://www.bpeters.id.au/blog/assets/2015-07/pluto-charon.jpg
+image:
+ feature: http://www.bpeters.id.au/blog/assets/2015-07/pluto-charon.jpg
 tags: space
 ---
 We are currently about 25 hours from New Horizons’ blistering (872km/h) flyby of the Pluto-Charon system.

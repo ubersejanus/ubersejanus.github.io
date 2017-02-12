@@ -3,7 +3,8 @@ layout: post
 title: World Moot - A Blow-by-blow Account
 author: bradp
 date:   2013-08-31 12:00
-hero: https://farm8.staticflickr.com/7435/12976462863_ed7d07a59e_o_d.jpg
+image:
+ feature:  https://farm8.staticflickr.com/7435/12976462863_ed7d07a59e_o_d.jpg
 tags: moots rovers travel
 excerpt: Looking back on my experiences at the 2013 World Scout Moot held at Awacamenj Mino Scout Camp, a few trips to Ottawa, and my Urban Experience in Quebec City.
 ---

@@ -3,7 +3,8 @@ layout: post
 title: Lance Peters (1940-2015)
 author: bradp
 section: blog
-hero: http://www.bpeters.id.au/blog/assets/2015-08/trailer.jpg
+image:
+ feature: http://www.bpeters.id.au/blog/assets/2015-08/trailer.jpg
 tags:
 - reflecting
 - family

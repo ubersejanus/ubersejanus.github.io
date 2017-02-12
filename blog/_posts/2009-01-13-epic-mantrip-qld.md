@@ -4,7 +4,9 @@ title: EPIC MANTRIP IN QUEENSLAND, Feat. the Sisters Stripeikis
 author: bradp
 hero:
 date: 2009-01-13 17:10:00
-tags: travel queensland
+tags: 
+- travel 
+- queensland
 excerpt: The thrilling tale of the time that we went to Queensland for no good reason. (NB tale may not be thrilling)
 ---
 

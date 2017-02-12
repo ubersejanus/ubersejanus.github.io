@@ -2,8 +2,10 @@
 layout: page
 section: media
 title: WF Waters Rover Service Award Acceptance
+image:
+ feature: bushland-rovershirt.jpg
 ---
-<p class="centre"><em>This is (more or less) the speech I made when I was presented with the <a href="http://www.vicrovers.com.au/awards/wf-waters/" target="_blank">WF Waters Rover Service Award</a> at the 2014 Rover Dinner at Albert Park.</em></p>
+<p class="centre"><em>This is (more or less) the speech I made when I was presented with the <a href="http://www.vicrovers.com.au/awards/wf-waters/" target="_blank">WF Waters Rover Service Award</a> at the 2014 Rover Dinner.</em></p>
 <p style="width: 25%; position:relative; float:right; margin-left:25px;">
   <img src="wf-crewscarf.jpg" alt="WF medallion + Crew scarf" style="width: 100%;">
   <em style="display:table; margin-left:auto; margin-right:auto; font-size:12px;">The medallion</em>

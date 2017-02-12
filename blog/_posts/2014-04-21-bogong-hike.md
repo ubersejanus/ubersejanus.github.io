@@ -2,7 +2,8 @@
 layout: post
 title: Conway's Easter Ramble
 author: bradp
-hero: https://farm8.staticflickr.com/7047/13981150853_4b2052c912_k_d.jpg
+image:
+ feature: https://farm8.staticflickr.com/7047/13981150853_4b2052c912_k_d.jpg
 section: blog
 tags:
 - bogong

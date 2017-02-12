@@ -1,187 +1,138 @@
-# [My webpage](http://www.bpeters.id.au)
+# Balzac
 
-## Getting Started
-This webpage runs on [Jekyll](http://jekyllrb.com/). Posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
 
-## Quick Links
- - [Add yourself as a contributor](https://github.com/ubersejanus/ubersejanus.github.io/blob/master/_data/authors.yml) 
- - [Publish a new post](https://github.com/ubersejanus/ubersejanus.github.io/tree/master/blog/_posts) ([See an example file](https://github.com/ubersejanus/ubersejanus.github.io/blob/master/blog/_posts/2007-01-31-new-zealand.md), [published version](http://www.bpeters.id.au/blog/2007-01/new-zealand))
 
-## What is this blog for?
-This is my website. Most content are blogposts, but there are a few other things here or there. If I ever need to, I can also include other contributors.
+If you'd like give me credit somewhere on your blog or tweet a shout out to
+[@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
 
-**This GitHub repository is public**, so anyone can immediately see updates, new post drafts, and similar changes, even before they are deployed to the blog.
+If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
 
-## Quickstart
-
-###1. Add yourself as a contributor in the authors file
-
-[Add yourself as a contributor](https://github.com/ubersejanus/ubersejanus.github.io/blob/master/_data/authors.yml) 
-
-You need to edit the authors.yaml file to be included as a contributor on the blog. For example, I use the username `bradp` so I have a section, `bradp:`. In the content of this markdown file should be the following (you don't need the square brackets):
-```
----
-id: [username, must be same as file name]
-name: [your full name]
-location: [where you are]
-avatar: [url to an image to be used with all your posts. Most people use their Gravatar pic url]
-twitter: [your twitter handle, without the @]
-github: [optional, your github user name]
-stack: [optional, url to your stack overflow/exchange profile]
-facebook: [optional, your facebook username (facebook.com/whoever)]
-youtube: [optional, url to youtube video or playlist]
-website: [optional, url to your personal site]
----
-```
-So my section of the file looks like this:
-```
-bradp:
-  name: Brad Peters
-  location: Melbourne, VIC
-  avatar: /images/bradp.jpg
-  twitter: ubersejanus
-  github: ubersejanus
-  facebook: brad.j.peters
-  stack: 
-  website: /
-```
-**How to add this file**
-
-If you are a developer, you can do this simply by submitting a PR or adding this file to the `_people` directory. If you are not a developer, you can use [this link on GitHub](https://github.com/StackExchange/blog/new/master/_people) to create this file, then submit your changes by adding a commit message like `Added [your name] to authors` and hitting the `Commit file` button:
-
-###2. Publishing a post
-
-[Publish a new post](https://github.com/ubersejanus/ubersejanus.github.io/tree/master/blog/_posts) ([See an example file](https://github.com/ubersejanus/ubersejanus.github.io/blob/master/blog/_posts/2007-01-31-new-zealand.md), [published version](http://www.bpeters.id.au/blog/2007-01/new-zealand))
-
-To create a new post, you need to create a new markdown file with a particular format in the `/blog/_posts` folder in order to publish. The file needs to include the date and title separated by dashes: `YYYY-MM-DD-Title-With-Dashes-As-Spaces.md`. For example, I published a post on January 30th 2007 titled "New Zealand 2007". The title of this file was `2007-01-31-new-zealand.md`.  In the content of this markdown file should be the following (you don't need the square brackets): 
-```
----
-layout: post
-title: [title of your post]
-author: [your author id]
-date: [the date you want this to be published in YYYY-MM-DD HH:MM:SS format. Optional, you can remove this whole line]
-hero: [url of a high quality hero image to be used for your post. Optional, you can remove this whole line]
-source: [url of the original post so a source banner will be added to the post. Optional, you can remove this whole line]
-excerpt: [override the auto-generated excerpt displayed in various places. Optional, you can remove this whole line]
-tags: related tags, required]
----
-[Content of your post in markdown]
-```
-So my post `2007-01-31-new-zealand.md` would look something like the following:
-```
----
-layout: post
-title: New Zealand 2007
-author: bradp
-date: 2007-01-31 12:00:00
-hero: https://farm4.staticflickr.com/3931/15423899641_22c229f0c0_k_d.jpg
-tags:
-- travel
-- family
 ---
 
-Goin’ to NZ to celebrate finishing school. As you do.
 
-<!--more-->
+![Balzac for Jekyll](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
+![Balzac for Jekyll](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
 
-## Day One
+## Features:
+- flexible, uses max-width for responsive goodness
+- responsive drop down menu
+- retina images using @2x
+- post loop in the footer showing 3 latest posts
+- custom portfolio page for case studies
 
-Well after getting up 16 hours ago, it’s now time to write what is sure to be the first of one reports into my trip to New Zealand.
+## Basic Setup
 
-...
-```
-The `<!--more-->` html tag tells Jekyll where to stop auto-creating the excerpt. If the excerpt has been set in the using the excerpt parameter, this tag is not required.
+1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
+2. Download this bad boy.
+3.  Fork the [Balzac repo](http://github.com/coletownsend/balzac-for-jekyll/)
+4. Twerk it out so it's just for you.
+5.  ???
+6.  Profit
 
-You can see what [this post](http://www.bpeters.id.au/blog/2007-01/new-zealand) looks like as a full markdown file by going to [this link](https://github.com/ubersejanus/ubersejanus.github.io/blob/master/blog/_posts/2007-01-31-new-zealand.md).
-
-**How to add this file**
-
- You can use git to add your post markdown file in the `/blog/_posts` folder, or you can use the [GitHub user interface](https://github.com/ubersejanus/ubersejanus.github.io/tree/master/blog/_posts) to do so. Note that the moment you commit this file, it will be published to the blog.
-
-**Writing your post with Markdown**
-
-Everything following the second set of three dashes in your post markdown file will be the content of your post. We use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the post.
-
-**Adding tags**
-
-When writing a new post, you can add listed tags at the top of the post markdown file. 
-```
----
-layout: post
-title: [title of post]
-author: [author id]
-tags:
-- [tag1]
-- [tag2]
-- [tag3]
----
-
-```
-
-Tag pages have to be created manually. It's annoying. They're placed under the tags folder, obviously.
-
-**Where to get good hero images**
- - [Unsplash](https://unsplash.com/grid)
- - [Stocksnap](http://stocksnap.io)
- - You can also upload them to the repository and they will also be included in the site
-
-**Code snippets**
-
-Jekyll has support for code snippets and highlighting. To include a codeblock with in your markdown, use the following syntax:
-```
-{% highlight [language] %}
-[Your code here]
-{% endhighlight %}
-```
-So if you were going to be including a snippet of Ruby code in your post, it would look like:
-```
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+## [Preview the Theme](http://jekyll.gtat.me)
+=======
+ [Preview the Theme](http://jekyll.gtat.me)
+ 
+``` bash
+balzac-for-jekyll/
+├── _includes
+|    ├── footer.html  //site footer
+|    ├── head.html  //site head
+|    ├── head-dark.html  //dark site head for light pages
+├── _layouts
+|    ├── home.html  //homepage layout
+|    ├── page.html  //page layout
+|    ├── post-index.html  //post listing layout
+|    └── post.html  //post layout
+|    ├── post-no-feature.html  //feature image-less post layout
+├── _posts
+├── assets
+|    ├── css  //preprocessed less styles. good idea to minify
+|    ├── img  //images and graphics used in css and js
+|    ├── js
+|    |   ├── main.js  //jQuery plugins and settings
+|    |   └── vendor  //all 3rd party scripts
+|    └── sass 
+├── images  //images for posts and pages
+├── about.md  //about page
+├── articles.md  //lists all posts from latest to oldest
+└── index.md  //homepage. lists 5 most recent posts
 ```
 
-**YouTube videos**
+# Customization
 
-To embed a YouTube video directly in a post, use the `youtube.html` include like this:
+## _config.yml
 
-```
-{% include youtube.html video_id="SQoA_wjmE9w" %}
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. When working locally comment out `url` or else you will get a bunch of broken links because they are absolute and prefixed with `{{ site.url }}` in the various `_includes` and `_layouts`. Just remember to uncomment `url` when building for deployment or pushing to **gh-pages**...
+
+### Owner/Author Information
+
+Change your name, bio, Twitter url, email, Dribbble URL, etc.
+
+
+### Top Navigation Links
+
+Edit page/post titles and URLs to include in the site's navigation. For external links add `external: true`.
+
+``` yaml
+# sample top navigation links
+links:
+  - title: About Page
+    url: /about
+  - title: Other Page
+    url: /other-page
+  - title: External Page
+    url: http://coletownsend.com
+    external: true
 ```
 
-You can get a video's id by looking at the URL of the video's page on YouTube ([youtube.com/watch?v=SQoA_wjmE9w](https://www.youtube.com/watch?v=SQoA_wjmE9w) in this example).
+## Other Stuff
 
-You can also use only part of a video by specifying the start time like this:
-```
-{% include youtube.html video_id="SQoA_wjmE9w" start_seconds="33s" %}
+The rest is just your average Jekyll config settings. Nothing too crazy here...
+
+### _includes
+
+For the most part you can leave these as is since the author/owner details are pulled from `_config.yml`. That said you'll probably want to customize the copyright stuff in `footer.html` to your liking.
+
+### Adding Posts and Pages
+
+There are two main content layouts: `post.html` (for posts) and `page.html` (for pages). Both have large **feature images** that span the full-width of the screen, and both are meant for text heavy blog posts (or articles). 
+
+### Feature Images
+
+A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. 
+
+``` yaml
+image:
+# local image 
+  feature: feature-image-filename.jpg
+# link image
+  feature: "http(s)://image.domain.com/feature-image-filename.jpg"
 ```
 
-## Making code changes
+This makes the assumption that the feature image is in the *images* folder unless it has a link address. To add a feature image to a post or page just include the filename in the front matter like so.
+You can "serve" images responsively with retina.js. All you need to do is have a file with @2x before the file type. That should be placed in the *images* folder. You literally don't have to do anything other than that. 2 copies. One is linked. That's it.
+Ex:
+`cool-photo@2x.jpg` 
 
-If you are interested in making changes to the design, functionality, or structure of the blog, you're going to need to set up a local environment and understand some of the technologies behind the site.
+**There is a default feature image that will show up for and posts. It isn't retina or anything. It's just there in case you want one but forget <3*
 
-**1. Install Jekyll and dependencies.** First thing you're going to need to do is set up Jekyll and the appropriate dependencies so you can develop locally. To do this, just make sure you have Ruby and Bundler installed then run:
+#### If you don't want a feature image
+…just say so in the front-matter. Go to your-post-name.md and make sure it has this guy up top.
 ```
-bundle install
+layout: post-no-feature
 ```
 
-**2. Run a local version of the blog.** Using Git, clone the latest version of this repository to your local machine using the following command:
-```
-git clone https://github.com/ubersejanus/ubersejanus.github.io.git
-```
-Then go into root of the folder and run `jekyll serve`:
-```
-cd ubersejanus.github.io
-jekyll serve
-```
-This will get a local version of the blog running on your machine, accessible on `localhost:4000/blog/`
+### Categories
 
-**3. Read up on the documentation.** To really understand how to develop the site there are a few things you're going to need to read up on to make meaningful changes:
- - [Jekyll](http://jekyllrb.com/docs/home/) The static site generator used for the site
- - [GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/) How the site is hosted
- - [Liquid](https://docs.shopify.com/themes/liquid-documentation/basics) The templating language used with Jekyll by Shopify
+In the sample `_posts` folder you may have noticed `category: articles` in the front matter. I like keeping all posts grouped in the same folder. If you decide to rename or add categories you will need to modify the permalink in `articles.md` along with the filename (if renaming).
+
+For example. Say you want to group all your posts under `blog/` instead of `articles/`. In your post add `category: blog` to the front matter, rename or duplicate `articles.md` to `blog.md` and change the permalink in that file to `permalink: /blog/index.html`.
+
+If done correctly `/blog` should be a page listing all the site's posts.
+
+
+## License
+
+This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's. 

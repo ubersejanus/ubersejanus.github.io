@@ -3,7 +3,8 @@ layout: post
 title: Where does the aqueduct go?
 author: bradp
 section: blog
-hero: https://farm4.staticflickr.com/3395/12982531983_035e1f9739_z_d.jpg
+image:
+ feature: https://farm4.staticflickr.com/3395/12982531983_035e1f9739_z_d.jpg
 tags:
 - bogong
 - history

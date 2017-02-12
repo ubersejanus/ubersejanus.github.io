@@ -3,7 +3,8 @@ layout: post
 title: Making a Rover Training Course
 author: bradp
 section: blog
-hero: http://www.bpeters.id.au/blog/assets/2016-04/brainstorm_whiteboards.jpg
+image:
+ feature: http://www.bpeters.id.au/blog/assets/2016-04/brainstorm_whiteboards.jpg
 tags:
 - rovers
 - training

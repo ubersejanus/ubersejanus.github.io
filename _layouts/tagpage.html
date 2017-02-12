@@ -1,30 +1,32 @@
----
-layout: default
-sitemap: false
----
+{% include head.html %}
+<section class="article">
+{% if page.image.feature %}
+  <div class="overlay"></div>
+  {% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
+  <div class="featured-image" style="background-image: url({{ page.image.feature }})"></div>
+  {% else %}
+  <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
+  {% endif %}
+{% endif %}
+</section>
 
-   <div class="page-content">
-          <div class="post-list archive">
-            <div class="main-col">
-              <h2>{{ page.tag }}</h2>
-            </div>
-	{% for post in site.tags[page.tag] %}
-  		  	<article class="post-preview">
-  		  	  <hr>
-      		  {% if post.hero %}<img src="{{ post.hero }}">{% endif %}
-      		  <h2><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      		  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      		  <p>{{ post.excerpt }}</p>
-      		  {% capture content_words %} 
-      		  {{ post.content | number_of_words }} 
-      		  {% endcapture %} 
-      		  {% capture excerpt_words %} 
-      		  {{ post.excerpt | number_of_words }} 
-      		  {% endcapture %} 
-      		  {% if excerpt_words != content_words %}
-      		  <p><a class="blog-readmore" href="{{ post.url }}">Read more</a></p>
-      		  {% endif %}
-      		</article>
-      		{% endfor %}
-          </div>
-   <div>
+    <div id='bump'>
+        <section class="article archive">
+          <article class="archive-wrap">
+              <ol class="post-list">
+                 <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
+                  {% for post in site.tags[page.tag] %}
+                  <li>
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+                    </div>
+                  </li>
+                  {% endfor %}
+              </ol>
+          </article>
+        </section>
+    </div>
+
+{% include footer.html %}

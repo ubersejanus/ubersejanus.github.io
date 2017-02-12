@@ -3,7 +3,8 @@ layout: post
 title: Bayswater Rail Redevelopment Underway
 author: bradp
 section: blog
-hero: https://farm2.staticflickr.com/1535/25661382164_7f49ed4674_z_d.jpg
+image:
+ feature: https://farm2.staticflickr.com/1535/25661382164_7f49ed4674_z_d.jpg
 tags:
 - transport
 

@@ -3,7 +3,8 @@ layout: post
 title: The Mysterious Blue Pole of Spencer Street Station
 author: bradp
 section: blog
-hero: http://www.bpeters.id.au/blog/assets/2016-03/osm_cbd.png
+image:
+ feature: http://www.bpeters.id.au/blog/assets/2016-03/osm_cbd.png
 tags:
 - history
 - australia
