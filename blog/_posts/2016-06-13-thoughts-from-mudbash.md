@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; Mafeking
-author: bradp
+comments: yes
 image:
  feature: /blog/assets/2016-06/mega10.jpg
 tags:

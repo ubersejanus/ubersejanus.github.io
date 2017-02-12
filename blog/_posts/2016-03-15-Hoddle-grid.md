@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Mysterious Blue Pole of Spencer Street Station
-author: bradp
-section: blog
+comments: yes
 image:
  feature: http://www.bpeters.id.au/blog/assets/2016-03/osm_cbd.png
 tags:

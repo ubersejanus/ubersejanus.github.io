@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; Sale
-author: bradp
+comments: yes
 image:
  feature: https://farm9.staticflickr.com/8876/17487548629_ed5964bdef_k_d.jpg
 category: reflection

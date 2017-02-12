@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cairns Moot 2014
-author: bradp
+comments: yes
 image:
  feature: https://farm8.staticflickr.com/7505/15670868928_2fa01d2777_k_d.jpg
 tags:

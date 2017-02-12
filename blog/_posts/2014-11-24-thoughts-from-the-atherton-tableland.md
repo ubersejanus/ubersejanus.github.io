@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; The Atherton Tableland
+comments: yes
 image:
  feature: https://farm8.staticflickr.com/7563/15858030082_f366f673ae_k_d.jpg
 tags: thoughts-from-places queensland

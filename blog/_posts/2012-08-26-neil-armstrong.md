@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neil Armstrong (1930-2012)
-author: bradp
+comments: yes
 date:   2012-08-26
 section: blog
 tags: reflecting space

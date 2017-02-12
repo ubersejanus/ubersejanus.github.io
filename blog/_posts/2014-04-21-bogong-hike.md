@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conway's Easter Ramble
-author: bradp
+comments: yes
 image:
  feature: https://farm8.staticflickr.com/7047/13981150853_4b2052c912_k_d.jpg
 section: blog

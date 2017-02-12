@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Moot - A Blow-by-blow Account
-author: bradp
+comments: yes
 date:   2013-08-31 12:00
 image:
  feature:  https://farm8.staticflickr.com/7435/12976462863_ed7d07a59e_o_d.jpg

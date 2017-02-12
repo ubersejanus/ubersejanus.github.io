@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Moot Pretour
-author: bradp
+comments: yes
 image:
  feature: https://farm8.staticflickr.com/7297/12969436393_f65e05d810_k_d.jpg
 category: 

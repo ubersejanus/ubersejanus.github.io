@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sunday Night
-author: bradp
+comments: yes
 hero:
 category: 
 tags:

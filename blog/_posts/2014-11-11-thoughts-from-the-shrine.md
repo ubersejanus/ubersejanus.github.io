@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; The Shrine of Remembrance
-author: bradp
+comments: yes
 hero:
 category: reflection
 tags: thoughts-from-places

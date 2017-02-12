@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Harry Potter and the Deathly Hallows 
-author: bradp
+comments: yes
 hero:
 category: 
 tags:

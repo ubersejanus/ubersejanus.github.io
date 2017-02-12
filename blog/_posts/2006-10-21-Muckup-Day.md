@@ -2,7 +2,9 @@
 layout: post
 title: Muckup Day? No Deal...
 author: bradp
-hero:
+comments: yes
+image:
+ feature: /blog/assets/2016-10/vce06.jpg
 tags: school
 ---
 

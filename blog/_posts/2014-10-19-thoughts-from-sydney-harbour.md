@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts from Places &mdash; Sydney Harbour
-author: bradp
+comments: yes
 hero: 
 category: rovers
 tags: thoughts-from-places

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding New Horizons
-author: bradp
+comments: yes
 image:
  feature: http://www.bpeters.id.au/blog/assets/2015-07/pluto-charon.jpg
 tags: space

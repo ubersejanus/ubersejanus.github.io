@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Lance Peters (1940-2015)
-author: bradp
-section: blog
+comments: yes
 image:
  feature: http://www.bpeters.id.au/blog/assets/2015-08/trailer.jpg
 tags:

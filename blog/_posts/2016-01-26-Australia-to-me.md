@@ -1,7 +1,7 @@
 ---
 layout: post
 title: That's Australia to Me
-author: bradp
+comments: yes
 image:
  feature: https://farm6.staticflickr.com/5749/22972980605_63de42c8f2_k_d.jpg
 category: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Open Letter to Surfmoot
-author: bradp
+comments: yes
 hero:
 tags:
 - moots

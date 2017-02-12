@@ -1,8 +1,9 @@
 ---
 layout: post
 title: EPIC MANTRIP IN QUEENSLAND, Feat. the Sisters Stripeikis
-author: bradp
-hero:
+comments: yes
+image:
+ feature: 
 date: 2009-01-13 17:10:00
 tags: 
 - travel 
