@@ -1,11 +1,11 @@
 <div class="push"></div>
   <footer>
-    <aside class="wrap">
       <div class="social">
         {% for link in site.social %}<a href="{{ link.url }}" class="fa fa-{{ link.title}}" target="_blank"></a>{% endfor %}
     </div>
     </aside>
     <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br>Powered by <a href="http://jekyllrb.com">Jekyll</a> using a modified <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+    <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} <br> Powered by <a href="http://jekyllrb.com">Jekyll</a> using a modified <a href="http://jekyll.gtat.me/about">Balzac</a> theme</small>
   </footer>
 
   <!-- If they're out, get some from the cellar -->

@@ -42,6 +42,8 @@ links:
 social:
   - title: "facebook"
     url: "https://www.facebook.com/brad.j.peters"
+  - title: "instagram"
+    url: "https://www.instagram.com/ubersejanus"
   - title: "twitter"
     url: "https://www.twitter.com/ubersejanus"
   - title: "flickr"
@@ -50,8 +52,6 @@ social:
     url: "https://www.youtube.com/channel/UCyMViNv6JQeE5yqT3WYuoDQ/videos"    
   - title: "snapchat"
     url: "https://www.snapchat.com/add/ubersejanus"    
-  - title: "instagram"
-    url: "https://www.instagram.com/ubersejanus"
   - title: "rss"
     url: "/feed.xml"
 
