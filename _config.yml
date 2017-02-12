@@ -1,13 +1,12 @@
 title:            Brad Peters
-tagline:          A beautiful theme.
-description:      Describe your website.
+description:      My website.
 canonical: http://www.bpeters.id.au
 
 # Owner/author information
 owner:
   name:           Brad Peters
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            " "
   email:          website@bpeters.id.au
   twitter:        ubersejanus
   github:         ubersejanus
@@ -81,6 +80,8 @@ sass:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:	/:categories/:year-:month/:title
+
+excerpt_separator: <!--more-->
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
