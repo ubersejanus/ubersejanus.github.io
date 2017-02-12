@@ -58,8 +58,9 @@ em {
 	font-style:italic;
 	background:none; }
 	
-footer {
-	height:120px;  }
+footer {height:120px; }
+
+.push {display:none; }
 
 footer .social {
 	top: 30px;
@@ -72,14 +73,20 @@ footer small {color: rgba(249,249,249,0.2)}
 footer a:hover {color:white;}
 
 .social .fa {
-    padding: 20px;
+    padding: 15px;
     font-size: 30px;
     text-align: center;
     text-decoration: none;
     color:rgba(249,249,249,0.3);
-    display:inline;
-    padding:15px;
-}
+    display:inline; }
+
+@media (max-width: 680px) {
+	.social .fa { padding:10px;}
+	footer .social {display: inherit;}
+	.social .fa-rss {display:none;} }
+
+@media (max-width: 400px) {
+	.social .fa { padding:7px;} }
 
 .archive-wrap {padding-top:0;}
 
