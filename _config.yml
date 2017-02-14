@@ -40,7 +40,7 @@ links:
 
 # Links for social media buttons
 social:
-  - title: "facebook"
+  - title: "facebook-official"
     url: "https://www.facebook.com/brad.j.peters"
   - title: "instagram"
     url: "https://www.instagram.com/ubersejanus"
@@ -48,10 +48,12 @@ social:
     url: "https://www.twitter.com/ubersejanus"
   - title: "flickr"
     url: "https://www.flickr.com/photos/ubersejanus/albums"
-  - title: "youtube"
+  - title: "youtube-play"
     url: "https://www.youtube.com/channel/UCyMViNv6JQeE5yqT3WYuoDQ/videos"    
   - title: "snapchat"
-    url: "https://www.snapchat.com/add/ubersejanus"    
+    url: "https://www.snapchat.com/add/ubersejanus"
+  - title: "steam"
+    url: "https://steamcommunity.com/id/ubersejanus"
   - title: "rss"
     url: "/feed.xml"
 
