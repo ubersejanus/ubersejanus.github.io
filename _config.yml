@@ -5,13 +5,10 @@ canonical: http://www.bpeters.id.au
 # Owner/author information
 owner:
   name:           Brad Peters
-  avatar:         avatar.png
+  avatar:         bradp.jpg
   bio:            " "
   email:          website@bpeters.id.au
-  twitter:        ubersejanus
-  github:         ubersejanus
-  instagram:      ubjersejanus
-  dribbble:       
+  github:         ubersejanus     
   disqus:         bradpeters
   location:       "Melbourne, AU"
   # Plug in your disqus shortname!
