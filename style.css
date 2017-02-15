@@ -83,7 +83,7 @@ footer a:hover {color:white;}
 @media (max-width: 680px) {
 	.social .fa { padding:10px;}
 	footer .social {display: inherit;}
-	.social .fa-rss, .social .fa-steam {display:none;} }
+	.social .fa-rss, .social .fa-steam, .social .fa-envelope {display:none;} }
 
 @media (max-width: 400px) {
 	.social .fa { padding:7px;} }
