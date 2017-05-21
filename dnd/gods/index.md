@@ -12,7 +12,7 @@ Pelor glided down to earth and saw that it was bare. But he awoke and called tog
 
 These spirits were...
 
-##The Gods of the Pantheon##
+## The Gods of the Pantheon ##
 
 <h3 style="text-align:center;margin-bottom:0;">Avandra</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Chaotic Good</p>
@@ -142,7 +142,7 @@ They expect their followers to abide by these commandments:
 * Help others die with dignity at their appointed time and no sooner. Act against those that would artificially prolong their life beyond natural limits.
 * Do honor to the dead, for their strivings in life brought us to where we are now. To forget them is to forget part of yourself.
 
-###The Black Gods###
+### The Black Gods ###
 
 These deities —whose worship isn't sanctioned by the priests of the pantheon gods— are evil. While sometimes these deities aid the pantheon, at others, they work against them or aid their enemies. They have their own cults, attracting social outcasts and villains to their worship, exhorting these followers to pursue evil ends or commit destructive deeds.
 
