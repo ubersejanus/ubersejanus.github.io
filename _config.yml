@@ -83,5 +83,5 @@ permalink:	/:categories/:year-:month/:title
 excerpt_separator: <!--more-->
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", vendor]
 
