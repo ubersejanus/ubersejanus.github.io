@@ -12,7 +12,7 @@ excerpt: Looking back on my experiences at the 2013 World Scout Moot held at Awa
 ###Moot Begins!
 
   <a href="https://www.flickr.com/photos/ubersejanus/17284275172/" target="_blank">
-  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_z_d.jpg" /></a>
+  <img src="https://farm9.staticflickr.com/8718/17284275172_cc852b94b8_z_d.jpg alt="photobomning a photo" /></a>
   <p class="caption">Photobombing was a hobby of mine at Moot (and in life)</p>
 
 Once breakfast was over, it was time to walk down to the Canadian Parliament, kick back and wait for the Governor-General to show up and officially start the show. Turns out that the Australian flag had been misplaced, but luckily we had been using a flag taped to Pete's Oar as a "follow me" beacon so no harm, no foul, I suppose.
@@ -25,7 +25,7 @@ But at length, the Canadian Governor-General arrived, and he made his way up the
 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975847024/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_z_d.jpg" /></a>
+  <img src="https://farm4.staticflickr.com/3520/12975847024_340df6d0e6_z_d.jpg" alt="pre-opening ceremony"/></a>
   <p class="caption">Rovers waiting for the opening ceremony in front of Parliament</p>
 
 But, with the GG's Personal Standard fluttering high above, it was time to begin.
@@ -52,7 +52,7 @@ None too soon, we made it to the site and were told that we needed to wait for t
 We were able to find most of our bags, and we set off for Subcamp Two to find our campsite. Conveniently, we were actually pretty near to the eating area/entrance and a reasonable distance from the collection of porta-potties that were supplementing the woefully inadequate amenities that were at the site. There was also a cold-water shower not too far away. As we set up our tents, we were joined by many other patrols and before we knew it, it was time for the first of only a handful of community dinners that were scheduled.
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975704985/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_z_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3574/12975704985_d637c232f9_z_d.jpg" alt="our big flapole" /></a>
   <p class="caption">Comparitive picture of flagpole height outside Contingent tents</p>
 
 These community dinners would have one thing in common with each other: horrible, horrible menus. The first night&#8217;s just consisted of one hot dog, and a bag of potato chips, possibly with some fruit. Needless to say, the poutine vendor did excellent business that night. On this night, there was also a second opening ceremony, but I was tired and thought that reopening an event which was already open was dumb, so I went to bed instead. I understand there were canoes coming off the lake involved however.
@@ -80,7 +80,7 @@ Our afternoon activity was much more fun, we went paddling on the lake, charming
 
 
   <a href="https://www.flickr.com/photos/ubersejanus/12975760885/in/set-72157641973511214" target="_blank">
-  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_z_d.jpg" alt="" /></a>
+  <img src="https://farm4.staticflickr.com/3128/12975760885_dfb2ca06cf_z_d.jpg" alt="Rideau Canal" /></a>
   <p class="caption">Rideau Canal in operation</p>
 
 That night I went wandering again and I soon discovered the neighbouring subcamp, confusingly this was not Subcamp One or Subcamp Three &#8211; but instead Subcamp Seven. On the plus side however, this subcamp was run by a couple from Melbourne, Chris and Lea who I knew reasonably well. Chris was running a tight ship, and amongst his Rovers were Brother Gogerly and Mr Beeby. Being a generous soul, I gave them a hand starting their campfire before continuing on my way.
@@ -90,7 +90,7 @@ Our second day of activities, was offsite in Ottawa. We were supposed to spend t
 Brother Gogerly and I ended up spending quite a bit of time hanging out by the Poutine stand, which was next to the protocol tent, where Guy and his team of VIP welcomers hung out. I didn't see many VIPs in our time there, but when we were allowed to sign the Big Book of Quebec Scouting Events, I saw that there had been quite a few coming in. We were also involved in the raising and lowering of the many Moot Canada flags when happened to be around at the at the right times, and one night when all his offsiders were out doing stuff and there were no Canadians were about to help, I even got to take down the Canadian flag. I suppose he figured that I'm a subject of the right Queen (Strangely, there were not a lot of Canadians at Moot Canada&#8230;)
 
   <a href="https://www.flickr.com/photos/ubersejanus/12976462863/in/set-72157641973511214" target="_blank">
-  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_z_d.jpg" alt="" /></a>
+  <img src="https://farm8.staticflickr.com/7435/12976462863_dabf2dc001_z_d.jpg" alt="campsite enterance" /></a>
   <p class="caption">Flagpoles in the main arena. Guy&#8217;s tent has a stand of flags front of it</p>
 
 We spent a bit of time sharing stories with Guy and his team, and with other people who happened to be nearby — stories with varying degrees of accuracy&#8230;<br />

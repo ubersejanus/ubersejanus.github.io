@@ -17,7 +17,7 @@ These spirits were...
 <h3 style="text-align:center;margin-bottom:0;">Avandra</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Chaotic Good</p>
 
-<p>The god of change, Avandra delights in freedom, trade, travel, adventure, and the frontier.<img src="avandra.png" style="width:150px;float:right;margin:0;"> Her temples are few in civilized lands, but her wayside shrines appear throughout the world. Halflings, merchants, and all types of adventurers are drawn to her worship, and many people raise a glass in her honor, viewing her as the god of luck.</p>
+<p>The god of change, Avandra delights in freedom, trade, travel, adventure, and the frontier.<img src="avandra.png" alt="sigil" style="width:150px;float:right;margin:0;"> Her temples are few in civilized lands, but her wayside shrines appear throughout the world. Halflings, merchants, and all types of adventurers are drawn to her worship, and many people raise a glass in her honor, viewing her as the god of luck.</p>
 
 Her commandments are few: 
 
@@ -27,7 +27,7 @@ Her commandments are few:
 
 <h3 style="text-align:center;margin-bottom:0;">Bahamut</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Lawful Good</p>
-<p><img src="bahamut.png" style="width:150px;float:right;margin:0;">Called the Platinum Dragon, Bahamut is the god of justice, protection, nobility, and honor. Lawful good paladins often revere him, and metallic dragons worship him as the first of their kind. Monarchs are crowned in his name.</p>
+<p><img src="bahamut.png" alt="sigil" style="width:150px;float:right;margin:0;">Called the Platinum Dragon, Bahamut is the god of justice, protection, nobility, and honor. Lawful good paladins often revere him, and metallic dragons worship him as the first of their kind. Monarchs are crowned in his name.</p>
 
 He commands his followers thus:
 
@@ -38,7 +38,7 @@ He commands his followers thus:
 <h3 style="text-align:center;margin-bottom:0;">Corellon</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Chaotic Good</p>
 
-The god of thawing, beauty, and the arts, Corellon is the patron of arcane magic and the fey. <img src="corellon.jpg" style="width:150px;float:right;margin:0;">He seeded the world with arcane magic and planted the most ancient forests. Artists and musicians worship him, as do those who view their spellcasting as an art. He despises Lolth and her priestesses for leading the drow astray. Sehanine is his wife, and they are revered by Elves above all other gods.
+The god of thawing, beauty, and the arts, Corellon is the patron of arcane magic and the fey. <img src="corellon.jpg" alt="sigil" style="width:150px;float:right;margin:0;">He seeded the world with arcane magic and planted the most ancient forests. Artists and musicians worship him, as do those who view their spellcasting as an art. He despises Lolth and her priestesses for leading the drow astray. Sehanine is his wife, and they are revered by Elves above all other gods.
 
 He urges his followers thus:
 
@@ -49,7 +49,7 @@ He urges his followers thus:
 <h3 style="text-align:center;margin-bottom:0;">Erathis</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Lawful Good</p>
 
-Erathis is the god of civilization. She is the muse of great invention, founder of cities, and author of laws.<img src="erathis.jpg" style="width:150px;float:right;margin:0;"> Rulers, judges, pioneers, and devoted citizens revere her, and her temples hold prominent places in most of the subcontinents’s major cities. Her husband is Pelor, and together they lead the pantheon.
+Erathis is the god of civilization. She is the muse of great invention, founder of cities, and author of laws.<img src="erathis.jpg" alt="sigil" style="width:150px;float:right;margin:0;"> Rulers, judges, pioneers, and devoted citizens revere her, and her temples hold prominent places in most of the subcontinents’s major cities. Her husband is Pelor, and together they lead the pantheon.
 
 Her laws are many, but their purpose is straightforward:
 
@@ -60,7 +60,7 @@ Her laws are many, but their purpose is straightforward:
 <h3 style="text-align:center;margin-bottom:0;">Ioun</h3>
 <p style="margin:0; text-align:center; font-size:medium;">True Neutral</p>
 
-Ioun is the god of knowledge, skill, and prophecy. Sages, seers, and tacticians revere her, as do all who live by their knowledge and mental power.<img src="ioun.png" style="width:150px;float:right;margin:0;"> Corellon is the patron of arcane magic, but Ioun is the patron of its study. Libraries and wizard academies are built in her name. 
+Ioun is the god of knowledge, skill, and prophecy. Sages, seers, and tacticians revere her, as do all who live by their knowledge and mental power.<img src="ioun.png" alt="sigil" style="width:150px;float:right;margin:0;"> Corellon is the patron of arcane magic, but Ioun is the patron of its study. Libraries and wizard academies are built in her name. 
 
 Her commands are also teachings:
 
@@ -71,7 +71,7 @@ Her commands are also teachings:
 <h3 style="text-align:center;margin-bottom:0;">Kord</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Chaotic Neutral</p>
 
-Kord is the storm god and the lord of battle. <img src="kord.png" style="width:150px;float:right;margin:0;">He revels in strength, battlefield prowess, and thunder. Fighters and athletes revere him. He is a mercurial god, unbridled and wild, who summons storms over land and sea; those who hope for better weather appease him with prayers and spirited toasts. 
+Kord is the storm god and the lord of battle. <img src="kord.png" alt="sigil" style="width:150px;float:right;margin:0;">He revels in strength, battlefield prowess, and thunder. Fighters and athletes revere him. He is a mercurial god, unbridled and wild, who summons storms over land and sea; those who hope for better weather appease him with prayers and spirited toasts. 
 
 He gives few commands:
 
@@ -82,7 +82,7 @@ He gives few commands:
 <h3 style="text-align:center;margin-bottom:0;">Melora</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Chaotic Good</p>
 
-Melora is the god of the wilderness and the sea.<img src="melora.jpg" style="width:150px;float:right;margin:0;"> She is both the wild beast and the peaceful forest, the raging whirlpool and the quiet desert. Rangers, hunters, and elves revere her, and sailors make offerings to her before beginning their voyages. 
+Melora is the god of the wilderness and the sea.<img src="melora.jpg" alt="sigil" style="width:150px;float:right;margin:0;"> She is both the wild beast and the peaceful forest, the raging whirlpool and the quiet desert. Rangers, hunters, and elves revere her, and sailors make offerings to her before beginning their voyages. 
 
 Her strictures are these:
 
@@ -93,7 +93,7 @@ Her strictures are these:
 <h3 style="text-align:center;margin-bottom:0;">Moradin</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Lawful Good</p>
 
-Moradin is the god of creation and patron of artisans, especially miners and smiths.<img src="moradin.jpg" style="width:150px;float:right;margin:0;"> He carved the mountains from primordial earth and is the guardian and protector of the hearth and the family. He and his wife Berronar created the Dwarves and stand at the head of their pantheon.
+Moradin is the god of creation and patron of artisans, especially miners and smiths.<img src="moradin.jpg" alt="sigil" style="width:150px;float:right;margin:0;"> He carved the mountains from primordial earth and is the guardian and protector of the hearth and the family. He and his wife Berronar created the Dwarves and stand at the head of their pantheon.
 
 He demands these behaviors of his followers:
 
@@ -104,7 +104,7 @@ He demands these behaviors of his followers:
 <h3 style="text-align:center;margin-bottom:0;">Pelor</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Neutral Good</p>
 
-God of the sun, Pelor is the keeper of time.<img src="pelor.png" style="width:150px;float:right;margin:0;"> He supports those in need  and opposes all that is evil. He is Chief of the Gods, and husband of Erathis. As the lord of agriculture and the bountiful harvest, he is the deity most commonly worshiped by ordinary humans, and his priests are well received wherever they go. Paladins and rangers are found among his worshipers. 
+God of the sun, Pelor is the keeper of time.<img src="pelor.png" alt="sigil" style="width:150px;float:right;margin:0;"> He supports those in need  and opposes all that is evil. He is Chief of the Gods, and husband of Erathis. As the lord of agriculture and the bountiful harvest, he is the deity most commonly worshiped by ordinary humans, and his priests are well received wherever they go. Paladins and rangers are found among his worshipers. 
 
 He directs his followers thus:
 
@@ -115,7 +115,7 @@ He directs his followers thus:
 <h3 style="text-align:center;margin-bottom:0;">Sehanine & Eilistraee</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Neutral Good</p>
 
-**Sehanine** God of mysteries and the major moon, Sehanine is the patron of trickery and illusions. <img src="sehanine.jpg" style="width:150px;float:right;margin:0;">She is the wife of Corellon, has close ties to Melora and is a favorite deity among elves and halflings. She is also the god of love, who sends shadows to cloak lovers’ trysts. Scouts and thieves ask for her blessing. 
+**Sehanine** God of mysteries and the major moon, Sehanine is the patron of trickery and illusions. <img src="sehanine.jpg" alt="sigil" style="width:150px;float:right;margin:0;">She is the wife of Corellon, has close ties to Melora and is a favorite deity among elves and halflings. She is also the god of love, who sends shadows to cloak lovers’ trysts. Scouts and thieves ask for her blessing. 
 
 She teaches:
 
@@ -123,7 +123,7 @@ She teaches:
 * Keep to the shadows, avoiding the blazing light of zealous good and the utter darkness of evil.
 * Seek new horizons and new experiences, and let nothing tie you down.
 
-Her daughter, **Eilistraee**, "the Dark Dancer," represents moonlight and the lesser moon. <img src="eilistraee.jpg" style="width:150px;float:right;margin:0;">She is also god of song & dance, swordwork, charity, and beauty. She is patron of the Drow who live on the surface and those Drow in the underdark who would live in peace with the surface dwellers. She is allied with Nusemnee.
+Her daughter, **Eilistraee**, "the Dark Dancer," represents moonlight and the lesser moon. <img src="eilistraee.jpg" alt="sigil" style="width:150px;float:right;margin:0;">She is also god of song & dance, swordwork, charity, and beauty. She is patron of the Drow who live on the surface and those Drow in the underdark who would live in peace with the surface dwellers. She is allied with Nusemnee.
 
 Her teachings are:
 
@@ -134,7 +134,7 @@ Her teachings are:
 <h3 style="text-align:center;margin-bottom:0;">Kelemvor</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Lawful Neutral</p>
 
-Kelemvor is also known as the Lord of the Dead or Judge of the Damned. <img src="kelemvor.jpg" style="width:150px;float:right;margin:0;">They mark the end of each mortal life, and mourners call upon them during funeral rites, in the hope that they will guard the departed from the curse of undeath. 
+Kelemvor is also known as the Lord of the Dead or Judge of the Damned. <img src="kelemvor.jpg" alt="sigil" style="width:150px;float:right;margin:0;">They mark the end of each mortal life, and mourners call upon them during funeral rites, in the hope that they will guard the departed from the curse of undeath. 
 
 They expect their followers to abide by these commandments:
 
@@ -164,7 +164,7 @@ Gruumsh is the god of destruction, and overlord of marauding barbarian hordes. W
 <h3 style="text-align:center;margin-bottom:0;">Nusemnee</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Neutral Good</p>
 
-The daughter of Zehir and a powerful devil was originally one of her father's assassins, but was redeemed by a High Priest of Pelor she tried to kill when he saved her from death. <img src="nusemnee.png" style="width:150px;float:right;margin:0;">Now she is the god of redemption, heroism, and hope; and the girlfriend of Eilistraee. Her worship is tolerated by priests of the Pantheon, but not encouraged &mdash; it is opposed by the priests of the Dark Gods as she purges the evil from a mortal's soul as soon as they seek redemption. Numerous redeemed antipaladins enter her service.
+The daughter of Zehir and a powerful devil was originally one of her father's assassins, but was redeemed by a High Priest of Pelor she tried to kill when he saved her from death. <img src="nusemnee.png" alt="sigil" style="width:150px;float:right;margin:0;">Now she is the god of redemption, heroism, and hope; and the girlfriend of Eilistraee. Her worship is tolerated by priests of the Pantheon, but not encouraged &mdash; it is opposed by the priests of the Dark Gods as she purges the evil from a mortal's soul as soon as they seek redemption. Numerous redeemed antipaladins enter her service.
 
 * It is never too late to seek redemption
 * True heroism does not come from good deeds. It comes from doing good when it matters.
