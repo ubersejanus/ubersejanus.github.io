@@ -149,7 +149,8 @@ These deities —whose worship isn't sanctioned by the priests of the pantheon g
 **Asmodeus** is the god of the Nine Hells. He is patron of the powerful, god of tyranny and domination, and the commander of devils.
 
 **Loviatar** is the god of war and conquest. Militaristic nations of humans and goblins serve her and conquer in her name. 
-Gruumsh is the god of destruction, and overlord of marauding barbarian hordes. Where Loviatar commands conquest, Gruumsh exhorts his followers to slaughter and pillage. Orcs are his most fervent followers.
+
+**Gruumsh** is the god of destruction, and overlord of marauding barbarian hordes. Where Loviatar commands conquest, Gruumsh exhorts his followers to slaughter and pillage. Orcs are his most fervent followers.
 
 **Lolth** is the god of shadow, lies, and spiders. Scheming and treachery are her commands, and her clerics are a constant force of disruption in the otherwise stable society of the evil drow. 
 
@@ -164,7 +165,7 @@ Gruumsh is the god of destruction, and overlord of marauding barbarian hordes. W
 <h3 style="text-align:center;margin-bottom:0;">Nusemnee</h3>
 <p style="margin:0; text-align:center; font-size:medium;">Neutral Good</p>
 
-The daughter of Zehir and a powerful devil was originally one of her father's assassins, but was redeemed by a High Priest of Pelor she tried to kill when he saved her from death. <img src="nusemnee.png" alt="sigil" style="width:150px;float:right;margin:0;">Now she is the god of redemption, heroism, and hope; and the girlfriend of Eilistraee. Her worship is tolerated by priests of the Pantheon, but not encouraged &mdash; it is opposed by the priests of the Dark Gods as she purges the evil from a mortal's soul as soon as they seek redemption. Numerous redeemed antipaladins enter her service.
+The daughter of Zehir and a powerful devil was originally one of her father's assassins, but was redeemed by a High Priest of Pelor she tried to kill when he saved her from death. <img src="nusemnee.png" alt="sigil" style="width:150px;float:right;margin:0;">Now she is the god of redemption, heroism, and hope; and the wife of Eilistraee. Her worship is tolerated by priests of the Pantheon, but not encouraged &mdash; it is opposed by the priests of the Dark Gods as she purges the evil from a mortal's soul as soon as they seek redemption. Numerous redeemed antipaladins enter her service.
 
 * It is never too late to seek redemption
 * True heroism does not come from good deeds. It comes from doing good when it matters.
