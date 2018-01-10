@@ -1,0 +1,2 @@
+install: gem install jekyll html-proofer
+script: jekyll build && htmlproofer ./_site --empty-alt-ignore --file-ignore /portfolio/ --disable-external
