@@ -7,7 +7,7 @@ task :test => [:build, 'html:check'] do
     :href_ignore => [
 			"#",
 		    ],
-    :url-ignore => /portfolio/*,  
+    :url-ignore => "/portfolio/*",  
     :check_sri => true,
     :check_external_hash => true,
     :check_html => true,
