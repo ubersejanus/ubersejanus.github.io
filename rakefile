@@ -4,10 +4,6 @@ require 'html-proofer'
 desc "Test the website"
 task :test => [:build, 'html:check'] do
   options = {
-    :href_ignore => [
-			"#",
-		    ],
-    :url-ignore => "/portfolio/*",  
     :check_sri => true,
     :check_external_hash => true,
     :check_html => true,
@@ -15,7 +11,7 @@ task :test => [:build, 'html:check'] do
     :check_opengraph => true,
     :enforce_https => true,
     :cache => {
-    :timeframe => '6w'
+      :timeframe => '6w'
     }
   }
   begin
