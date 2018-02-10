@@ -10,7 +10,6 @@ state: sa
 area: red-centre
 tags:
 - things-sa-other
-- things-sa
 ---
 
 Coober Pedy is mostly famous for being one of the centres of Australia's opal mining industry, but there are a few other things that make this a great place to stop &mdash; other than the fact that this is the outback and you need to fuel up.

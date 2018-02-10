@@ -9,7 +9,6 @@ state: sa
 area: west-sa
 tags:
 - things-sa-other
-- things-sa
 ---
 
 

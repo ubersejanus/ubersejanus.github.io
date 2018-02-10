@@ -10,7 +10,6 @@ state: sa
 area: offshore-islands
 tags:
 - things-sa-other
-- things-sa
 ---
 
 Kangaroo Island is Australia’s third largest island.
