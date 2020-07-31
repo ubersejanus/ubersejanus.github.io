@@ -49,17 +49,17 @@ Where to from here? Well for starters, this court decision will also now become 
 Who knows what is going to happen next? Find out in a few hours on the next exciting episode of "Brexit"!
 
 ### Dramatis Personae 
-- *The Rt Hon David Cameron, Prime Minister of the United Kingdom (2010-2016)
-- Marshal Philippe Pétain, Vichy French Chief of State (1940-1944) and convicted traitor
-- The Rt Hon Theresa May MP, Prime Minister of the United Kingdom (2016-2019)
-- The Rt Hon John Bercow MP, Speaker of the House of Commons
-- The Rt Hon Borris Johnson MP, Prime Minister of the United Kingdom
-- Her Majesty The Queen, the Queen.
-- The Rt Hon Sir Winston Churchill KG OM CH TD DL FRS RA, Prime Minister of the United Kingdom (1940-1945, 1951-1955)
-- The Royal Commission: the Lord Speaker; Baroness Evans, the Leader of the House of Lords; and Lord Hope of Craighead, Convenor of the Crossbench Lords. They should have been joined by the leaders of the Liberal Democrats and Labour Party in the Lords, Lord Newby, and Baroness Smith of Basildon, but they joined the boycott instead.
-- The Baroness Hale of Richmond, President of the Supreme Court of the United Kingdom
-- The Baron Fowler of Sutton Coldfield, Lord Speaker of the House of Lords
-- The Rt Hon Jeremy Corbyn MP, Leader of Her Majesty's Most Loyal Opposition 
-- The Rt Hon Ian Blackford MP, Leader of the Scottish National Party in the House of Commons
-- The Rt Hon Mark Drakeford AM, First Minister of Wales
-- The Rt Hon Nicola Sturgeon MSP, First Minister of Scotland*
+- *The Rt Hon David Cameron, Prime Minister of the United Kingdom (2010-2016)*
+- *Marshal Philippe Pétain, Vichy French Chief of State (1940-1944) and convicted traitor*
+- *The Rt Hon Theresa May MP, Prime Minister of the United Kingdom (2016-2019)*
+- *The Rt Hon John Bercow MP, Speaker of the House of Commons*
+- *The Rt Hon Borris Johnson MP, Prime Minister of the United Kingdom*
+- *Her Majesty The Queen, the Queen.*
+- *The Rt Hon Sir Winston Churchill KG OM CH TD DL FRS RA, Prime Minister of the United Kingdom (1940-1945, 1951-1955)*
+- *The Royal Commission: the Lord Speaker; Baroness Evans, the Leader of the House of Lords; and Lord Hope of Craighead, Convenor of the Crossbench Lords. They should have been joined by the leaders of the Liberal Democrats and Labour Party in the Lords, Lord Newby, and Baroness Smith of Basildon, but they joined the boycott instead.*
+- *The Baroness Hale of Richmond, President of the Supreme Court of the United Kingdom*
+- *The Baron Fowler of Sutton Coldfield, Lord Speaker of the House of Lords*
+- *The Rt Hon Jeremy Corbyn MP, Leader of Her Majesty's Most Loyal Opposition*
+- *The Rt Hon Ian Blackford MP, Leader of the Scottish National Party in the House of Commons*
+- *The Rt Hon Mark Drakeford AM, First Minister of Wales*
+- *The Rt Hon Nicola Sturgeon MSP, First Minister of Scotland*

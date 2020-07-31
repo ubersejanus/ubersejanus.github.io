@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the Dickens is happening at the Palace of Westminster (September 2019 Edition)
+title: Brad's Guide to Tomorrow's Election
 comments: no
 image:
  feature: /blog/assets/2019-05/election.png

@@ -29,11 +29,11 @@ Mr Morrison now has to ensure that the Coalition stays together, and his discuss
 We, the people, won’t get to have our say on this whole saga until the next election (unless you happen to live in Wentworth and Mr Turnbull follows through on his promise to resign if he lost the vote today [note])
 
 ### Dramatis Personae ###
-- *Dr Stephen Donaghue QC – Commonwealth Solicitor-General (Statutory Office Holder)
-- Senator Arthur Sinodinos – Backbench Senator, formerly Cabinet Secretary (NSW)
-- Josh Frydenberg MP – Energy Minister, now Deputy Leader of the Liberal Party & Treasurer-Designate (VIC)
-- Greg Hunt MP – Until recently, Health Minister (VIC)
-- Steven Ciobo MP – Until recently,Trade Minister (QLD) 
-- His Excellency General Sir Peter Cosgrove AK MC Ret’d – Governor General of the Commonwealth of Australia*
+- *Dr Stephen Donaghue QC – Commonwealth Solicitor-General (Statutory Office Holder)*
+- *Senator Arthur Sinodinos – Backbench Senator, formerly Cabinet Secretary (NSW)*
+- *Josh Frydenberg MP – Energy Minister, now Deputy Leader of the Liberal Party & Treasurer-Designate (VIC)*
+- *Greg Hunt MP – Until recently, Health Minister (VIC)*
+- *Steven Ciobo MP – Until recently,Trade Minister (QLD)* 
+- *His Excellency General Sir Peter Cosgrove AK MC Ret’d – Governor General of the Commonwealth of Australia*
 
 [note] Fun fact: the last Prime Minister to leave on his own terms was Sir Robert Menzies who retired at the age of 71 in 1966, having become PM in 1949.

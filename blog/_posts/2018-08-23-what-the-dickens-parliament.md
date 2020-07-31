@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the Dickens is happening at the Palace of Westminster (September 2019 Edition)
+title: What the Dickens is Going on at Parliament House (August 2018 Edition)
 comments: yes
 image:
  feature: /blog/assets/2018-08/parliament.jpg
@@ -58,12 +58,12 @@ So as at 8pm, Mr Turnbull remains (for now) the Prime Minister, with Mr Dutton �
 Meanwhile, at Yarralumla, the Governor-General’s calendar has been hastily rejigged to allow him to remain in Canberra until someone clears this mess up.
 
 ### Dramatis Personae
-- *Malcolm Turnbull MP - 29th Prime Minister of the Commonwealth of Australia (NSW, Liberal Party, moderate wing)
-- Tony Abbott MP - 28th Prime Minister of Australia (NSW, Liberal Party, conservative wing)
-- Peter Dutton MP - Leadership Contender, formerly Minister for Home Affairs et al (QLD Liberal National Party, conservative wing)
-- Senator Mathias Cormann- until today, Leader of the Government in the Senate (WA Liberal Party, conservative wing)
-- Julie Bishop MP – Minister for Foreign Affairs, Deputy Leader of the Liberal Party since 2007 (WA, Liberal Party, moderate wing)
-- Scott Morrison MP – Treasurer, formerly Minister for Immigration and Social Services (NSW, Liberal Party*
+- *Malcolm Turnbull MP - 29th Prime Minister of the Commonwealth of Australia (NSW, Liberal Party, moderate wing)*
+- *Tony Abbott MP - 28th Prime Minister of Australia (NSW, Liberal Party, conservative wing)*
+- *Peter Dutton MP - Leadership Contender, formerly Minister for Home Affairs et al (QLD Liberal National Party, conservative wing)*
+- *Senator Mathias Cormann- until today, Leader of the Government in the Senate (WA Liberal Party, conservative wing)*
+- *Julie Bishop MP – Minister for Foreign Affairs, Deputy Leader of the Liberal Party since 2007 (WA, Liberal Party, moderate wing)*
+- *Scott Morrison MP – Treasurer, formerly Minister for Immigration and Social Services (NSW, Liberal Party*
 
 [Note 1] Literally *every* Liberal PM who wasn’t Malcolm Fraser between 1975 – 1980 has led a minority government and relied on the support of the National Party to govern.
 
