@@ -42,15 +42,15 @@ I was lucky enough so squeeze in a quick adventure to fabulous Bris Vegas and su
 On the downside though, my grand plans of a grand tour through Europe this winter, didn't occur because "of course it didn't". To deal with this disappointment, I did the natural thing and purchased a green screen to at least get some pictures.
 
 # Awards for 2020
-I continue to award my ridiculously named awards, and you won't be surprised to see that they go to the three people I've spent most time with this year: 
-**The Leonard W Briscoe Award for Solving the Crime of the Century** went to Kate  
-**The John Birmingham Award for Impromptu Sharehousing** went to Hannah  
-**The Captain Robert Falcon Scott CVO RN Award for for Facing Adversity with Dignity** went to Chloe  
-and of course, there is a plenary grant of **The Mountain Goats Award for Making it Through this Year, Though it Killed You** for all the obvious reasons.
+I continue to award my ridiculously named awards, and you won't be surprised to see that they go to the three people I've spent most time with this year:  
+* **The Leonard W Briscoe Award for Solving the Crime of the Century** went to Kate
+* **The John Birmingham Award for Impromptu Sharehousing** went to Hannah
+* **The Captain Robert Falcon Scott CVO RN Award for for Facing Adversity with Dignity** went to Chloe
+* and of course, there is a plenary grant of **The Mountain Goats Award for Making it Through this Year, Though it Killed You** for all the obvious reasons.
 
 # Goals for 2021
-* Four Minor/overnight/weekend expeditions 
+* Four Minor/overnight/weekend expeditions  
 I have a long list of places I want to hike that I wrote up in 2019 that still isn't finished. Time to get onto that.
-* Two major expeditions 
+* Two major expeditions  
 *in theory* it's 130 days until we depart for a trek through the mountains of Nepal, but in actuality, lol. The Biosecurity Act says no (or at least will soon.) But I (and no doubt HR) refuse to cancel all that leave again.
 * Follow the advice of The Mountain Goats and make it through this year, if it kills me.
