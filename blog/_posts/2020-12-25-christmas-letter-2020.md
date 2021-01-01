@@ -6,7 +6,7 @@ tags: reflecting
 ---
 Something that I always remember amongst the craziness of December as a kid was mum taking the time to write a christmas letter, sort of an irregular family newsletter that was mailed in with the Christmas card to distant relatives, old school/basketball chums who had drifted away, and also confusingly to people who would also be told all the pertinent news around the christmas table.
 
-In recent years, Esther has been doing the same thing, only digitally &mdash; since we live in the future now. As I haven't had anything to blog about, I thought I'd give joining in a burl.
+In recent years, Esther has been doing the same thing, only digitally &mdash; since we live in the future now. As I haven't had anything to blog about, because 2020, I thought I'd give joining in a burl.
 
 <!--more-->
 
@@ -43,9 +43,9 @@ On the downside though, my grand plans of a grand tour through Europe this winte
 
 # Awards for 2020
 I continue to award my ridiculously named awards, and you won't be surprised to see that they go to the three people I've spent most time with this year: 
-**The Leonard W Briscoe Award for Solving the Crime of the Century** went to Kate 
-**The John Birmingham Award for Impromptu Sharehousing** went to Hannah 
-**The Captain Robert Falcon Scott CVO RN Award for for Facing Adversity with Dignity** went to Chloe 
+**The Leonard W Briscoe Award for Solving the Crime of the Century** went to Kate  
+**The John Birmingham Award for Impromptu Sharehousing** went to Hannah  
+**The Captain Robert Falcon Scott CVO RN Award for for Facing Adversity with Dignity** went to Chloe  
 and of course, there is a plenary grant of **The Mountain Goats Award for Making it Through this Year, Though it Killed You** for all the obvious reasons.
 
 # Goals for 2021
