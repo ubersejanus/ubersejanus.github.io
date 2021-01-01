@@ -26,12 +26,12 @@ Speaking of which, we've refurbed the loungeroom this year, and are probably 75%
 
 Back at base though, I gained new appreciation for the local parks about here, and that two of my best mates live within that sweet spot between 4.5 and 5 kilometres from my home. Then there's been endless Zoom trivia, D&D, murder mysteries, and even a baby shower. This year has definitely taught us all that it's possible to be together, from the comfort of home.
 
-![/blog/assets/2020-12/christmas_lights.jpg](/blog/assets/2020-12/christmas_lights.jpg)
+![house christmas](/blog/assets/2020-12/christmas_lights.jpg)
 
 And, of course, we continue to go waaay harder than necessary when it comes to decorating the house for Christmas. You're welcome.
 
 # Adventure
-For the first time in way too many years, I went on an overnight hike this year! Back in the Before Times, I gatecrashed the final day of Kate, Matt and Hannah's trek around the eastern circuit at Wilson's Prom by coming in to meet them at the final campsite from the other direction (isn't daylight savings grand??) I was very excited
+For the first time in way too many years, I went on an overnight hike this year! Back in the Before Times, I gatecrashed the final day of Kate, Matt and Hannah's trek around the eastern circuit at Wilson's Prom by coming in to meet them at the final campsite from the other direction (isn't daylight savings grand??) I also did this as a hammock camp which was different and relax-y.
 
 ![hike complete](/blog/assets/2020-12/hike_complete.jpeg)
 
@@ -54,3 +54,5 @@ I have a long list of places I want to hike that I wrote up in 2019 that still i
 * Two major expeditions  
 *in theory* it's 130 days until we depart for a trek through the mountains of Nepal, but in actuality, lol. The Biosecurity Act says no (or at least will soon.) But I (and no doubt HR) refuse to cancel all that leave again.
 * Follow the advice of The Mountain Goats and make it through this year, if it kills me.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ii6kJaGiRaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
