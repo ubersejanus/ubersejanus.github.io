@@ -55,4 +55,4 @@ I have a long list of places I want to hike that I wrote up in 2019 that still i
 *in theory* it's 130 days until we depart for a trek through the mountains of Nepal, but in actuality, lol. The Biosecurity Act says no (or at least will soon.) But I (and no doubt HR) refuse to cancel all that leave again.
 * Follow the advice of The Mountain Goats and make it through this year, if it kills me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ii6kJaGiRaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ii6kJaGiRaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
