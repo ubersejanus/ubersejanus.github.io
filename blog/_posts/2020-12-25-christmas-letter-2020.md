@@ -20,24 +20,24 @@ Actually, just before I move on there is one other success to highlight - after 
 # Home
 Out here at Sevenoaks Avenue, things are pretty good. Chloe and Kate continue to put up with me, and with all the time that we've been forced to spend together this year, that's a success in my eyes. For a few weeks, we also opened our hearts/lounge room to Hannah when she was in need of somewhere to stay. To have your best friend stay with you when you aren't allowed to see anyone outside of your house is a blessing indeed. We even managed to get away to my family's house at the beach for a weekend, when Dan Andrews wouldn't let us go camping yet, but the shiftworkers had a free weekend. 
 
-![/blog/assets/2020-12/christmas.jpeg]
+![christmas](/blog/assets/2020-12/christmas.jpeg)
 
 Speaking of which, we've refurbed the loungeroom this year, and are probably 75% of the way through the first attention that the laundry has seen since Nan and Pop bought the house and moved it down from Yallorn in the late 70s. 
 
 Back at base though, I gained new appreciation for the local parks about here, and that two of my best mates live within that sweet spot between 4.5 and 5 kilometres from my home. Then there's been endless Zoom trivia, D&D, murder mysteries, and even a baby shower. This year has definitely taught us all that it's possible to be together, from the comfort of home.
 
-![/blog/assets/2020-12/christmas_lights.jpg]
+![/blog/assets/2020-12/christmas_lights.jpg](/blog/assets/2020-12/christmas_lights.jpg)
 
 And, of course, we continue to go waaay harder than necessary when it comes to decorating the house for Christmas. You're welcome.
 
 # Adventure
 For the first time in way too many years, I went on an overnight hike this year! Back in the Before Times, I gatecrashed the final day of Kate, Matt and Hannah's trek around the eastern circuit at Wilson's Prom by coming in to meet them at the final campsite from the other direction (isn't daylight savings grand??) I was very excited
 
-![/blog/assets/2020-12/hike_complete.jpeg]
+![hike complete](/blog/assets/2020-12/hike_complete.jpeg)
 
 I was lucky enough so squeeze in a quick adventure to fabulous Bris Vegas and surrounds back in February, when airline travel was easy and carefree. I spent about a week exploring the Sunshine Coast - which I've never done before, chasing waterfalls, and visiting Australia Zoo. As well as stopping in to visit Laura and Josh. The picture below is definitely from this trip and not when she came to Melbourne a few weeks later.
 
-![/blog/assets/2020-12/laura_defs_qld.jpg]
+![totally in QLD](/blog/assets/2020-12/laura_defs_qld.jpg)
 
 On the downside though, my grand plans of a grand tour through Europe this winter, didn't occur because "of course it didn't". To deal with this disappointment, I did the natural thing and purchased a green screen to at least get some pictures.
 
