@@ -22,7 +22,7 @@ Out here at Sevenoaks Avenue, things are pretty good. Chloe and Kate continue to
 
 ![christmas](/blog/assets/2020-12/christmas.jpeg)
 
-Speaking of which, we've refurbed the loungeroom this year, and are probably 75% of the way through the first attention that the laundry has seen since Nan and Pop bought the house and moved it down from Yallorn in the late 70s. 
+Speaking of which, we've refurbed the loungeroom at Venus Bay this year, and are probably 75% of the way through the first serious attention that the laundry has seen since Nan and Pop bought the house and moved it down from Yallorn in the late 70s. 
 
 Back at base though, I gained new appreciation for the local parks about here, and that two of my best mates live within that sweet spot between 4.5 and 5 kilometres from my home. Then there's been endless Zoom trivia, D&D, murder mysteries, and even a baby shower. This year has definitely taught us all that it's possible to be together, from the comfort of home.
 
