@@ -43,6 +43,7 @@ On the downside though, my grand plans of a grand tour through Europe this winte
 
 # Awards for 2020
 I continue to award my ridiculously named awards, and you won't be surprised to see that they go to the three people I've spent most time with this year:  
+![we made it](/blog/assets/2020-12/celebrate.jpeg)
 * **The Leonard W Briscoe Award for Solving the Crime of the Century** went to Kate
 * **The John Birmingham Award for Impromptu Sharehousing** went to Hannah
 * **The Captain Robert Falcon Scott CVO RN Award for for Facing Adversity with Dignity** went to Chloe
