@@ -41,6 +41,8 @@ I was lucky enough so squeeze in a quick adventure to fabulous Bris Vegas and su
 
 On the downside though, my grand plans of a grand tour through Europe this winter, didn't occur because "of course it didn't". To deal with this disappointment, I did the natural thing and purchased a green screen to at least get some pictures.
 
+![on safari](/blog/assets/2020-12/safari.jpg)
+
 # Awards for 2020
 I continue to award my ridiculously named awards, and you won't be surprised to see that they go to the three people I've spent most time with this year:  
 ![we made it](/blog/assets/2020-12/celebrate.jpeg)
@@ -56,4 +58,5 @@ I have a long list of places I want to hike that I wrote up in 2019 that still i
 *in theory* it's 130 days until we depart for a trek through the mountains of Nepal, but in actuality, lol. The Biosecurity Act says no (or at least will soon.) But I (and no doubt HR) refuse to cancel all that leave again.
 * Follow the advice of The Mountain Goats and make it through this year, if it kills me.
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/ii6kJaGiRaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="100%" src="https://www.youtube.com/embed/ii6kJaGiRaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
