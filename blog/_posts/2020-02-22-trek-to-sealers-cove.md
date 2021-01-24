@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sealers Cove Trek
-hero: /blog/assets/2020-02/bk_hike.jpg
+image:
+ feature: /blog/assets/2020-02/bk_hike.jpg
 comments: no
 tags: hiking 
 excerpt: The trip log for my overnight hike into Sealer's Cove.
@@ -9,7 +10,7 @@ excerpt: The trip log for my overnight hike into Sealer's Cove.
 
 Kate, Matt, and Hannah were doing the three-day Wilson's Prom Eastern Circuit, so, literally never having hiked the Prom after 20+ years as a Scout in Victoria, decided to come in and meet them at Sealer's Cove for the final push. Luckily, I have a bit of flexibility with my working hours on a Friday, so a twilight solo trek in sounded like a good use of late summer.
 
-##Friday##
+## Friday ##
 Start: 6.30pm  
 Dusk: 8.30pm
 End: 10.00pm  
@@ -21,20 +22,29 @@ Weather: Clear, night
 
 * The tide was up, but not too much. I was able to make my way along the foreshore easily enough, and despite the darkness I was able to ford Sealers Creek without difficulty. My final problem was then trying to find my friends! I had anticipated that they would still be awake, but the campsite was very quiet and asleep by the time I got in so I strung up my hammock not far from the toilets and resolved to deal with the problem tomorrow.
 
-##Saturday##
+## Saturday ##
 Start: 8.30am  
 Lunch: 12.00pm  
 End: 1.00pm  
 Weather: Sunny
 
-* Most of the track between Federal Mill and the Ada Tree Picnic Area is actually a closed road. There was an old gate that's still there that confused us momentarily. Our trusty map/compass bearing and the GPS showed that we were on the right track.
+* My gamble paid off next morning, finding my friends in short order. 
 
+* We headed out earlier than planned, instead of spending the morning lazying upon the beach, but that was ok - I hadn't seen this end of the path.
 
-##What I learnt##
-* Should make 
+* The boardwalk turned out to be a very nice little path through a charming wetland, and I appreciated getting to see it both at night and during the day.
 
-* Camelbak should not be relied upon
+* Heading up the rough-hewn staircase at a group pace was much more of an intense experience than casually making my way down at my own pace with my headphones for company.
 
-* The Bump is not a campsite
+* After three days' hiking, my friends were very excited to have my memories of the major landmarks although I wasn't able to give any useful measure of how long it was from there to the end of the trail.
 
-* When people say that you should start on doing the Queen's Scout as soon as possible, they are right.
+* At the last major feature, a very prominent switchback, we made friends with another pair of hikers and were able to swap photographer duty from some nice scenic group pics (which are on Hannah's phone so I can't share)
+
+## What I Learnt ##
+* When you're going to meet up with your party on the trail, probably have some kind of system.
+
+* Night hiking can be fun.
+
+* That if everything you've read about a hike talks about fording a creek, they probably would update that if they put a bridge in.
+
+* Some people are happy to take your picture for you, but not so keen to take advantage of returning the favour.
