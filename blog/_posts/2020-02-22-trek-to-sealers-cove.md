@@ -2,7 +2,7 @@
 layout: post
 title: Sealers Cove Trek
 image:
- feature: /blog/assets/2020-02/bk_hike.jpg
+ feature: /blog/assets/2020-02/sealers-cove.jpg
 comments: no
 tags: hiking 
 excerpt: The trip log for my overnight hike into Sealer's Cove.
@@ -39,6 +39,8 @@ Weather: Sunny
 * After three days' hiking, my friends were very excited to have my memories of the major landmarks although I wasn't able to give any useful measure of how long it was from there to the end of the trail.
 
 * At the last major feature, a very prominent switchback, we made friends with another pair of hikers and were able to swap photographer duty from some nice scenic group pics (which are on Hannah's phone so I can't share)
+
+![nearly made it out](/blog/assets/2020-02/bk_hike.jpg)
 
 ## What I Learnt ##
 * When you're going to meet up with your party on the trail, probably have some kind of system.
