@@ -49,7 +49,7 @@ category: blog
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       </aside>
       {% endif %}
-      {% for tag in post.tags %}
+      {% for tag in page.tags %}
         <h3>{{ tag[0] }}</h3>
           <ul>
             {% for post in tag[1] %}
