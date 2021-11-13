@@ -7,6 +7,8 @@ tags: computer
 
 My former housemate asked me to build her a copy of the Christmas light controller that has been making the Christmas Tree lights dance to music for the past few years, because she was crushingly disappointed to realise that she couldn't enjoy mine this year. Serves her right for buying a house and ditching me.
 
+<!--more-->
+
 This project is based on Osprey22's [Raspberry Pi Christmas Tree Light Show](https://www.instructables.com/Raspberry-Pi-Christmas-Tree-Light-Show/) article from instructables.com. Osprey's article is written based on their north american experience, so requires alteration for the Australian environment.
 
 Essentially, we're hooking a tiny little computer up to a electronic light switch and making it power on strings of lights in time to the music.
@@ -85,6 +87,7 @@ I like to put my music into a /lightshowpi/music/christmas/ directory, just to k
 
 ```bash
 sudo python py/synchronized_lights.py --file=/home/pi/lightshowpi/music/christmas/spirit-of-the-season.mp3
+```
 
 Automating the process
 
@@ -92,7 +95,7 @@ Ain't no one want to be running songs one by one by one from the terminal, thoug
 
 ```bash
 crontab -e
-``` 
+```
 
 I then set the following commands to run daily (or, at power on, in the case of starting the web controller) I run the show for myself for an hour each night, then leave a couple of lights running for the whole evening. Then I use the web controller to control things from my phone if there's visitors to impress.
 
