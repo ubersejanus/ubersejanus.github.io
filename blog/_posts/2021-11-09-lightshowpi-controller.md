@@ -30,9 +30,9 @@ Shopping List
 * Double-ended USB-A male cable
 * Double-ended male 3.5mm audio cable
 * Keystone Wall Plate
-..* HDMI insert
-..* USB-A insert
-..* 3.5mm audio jack insert
+  * HDMI insert
+  * USB-A insert
+  * 3.5mm audio jack insert
 * Box to contain the above
 
 The box I created was 400mm high, 450mm wide and 140mm deep. The sides are made of pine boards and the faces are plywood. These dimensions are sufficient to contain the Raspberry Pi with HDMI cable inserted and the faceplate.
