@@ -97,7 +97,7 @@ Ain't no one want to be running songs one by one by one from the terminal, thoug
 crontab -e
 ```
 
-I then set the following commands to run daily (or, at power on, in the case of starting the web controller) I run the show for myself for an hour each night, then leave a couple of lights running for the whole evening. Then I use the web controller to control things from my phone if there's visitors to impress.
+I then set [the following commands](/blog/assets/2021-11/chrontab.txt) to run daily (or, at power on, in the case of starting the web controller) I run the show for myself for an hour each night, then leave a couple of lights running for the whole evening. Then I use the web controller to control things from my phone if there's visitors to impress.
 
 ```bash
 SYNCHRONIZED_LIGHTS_HOME=/home/pi/lightshowpi
