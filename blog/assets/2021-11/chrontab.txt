@@ -1,0 +1,19 @@
+SYNCHRONIZED_LIGHTS_HOME=/home/pi/lightshowpi
+
+# Start lightshowpi program on boot
+#@reboot $SYNCHRONIZED_LIGHTS_HOME/bin/start_music_and_lights >> $SYNCHRONIZED_LIGHTS_HOME/logs/music_and_lights.play 2>&1 &
+
+# Start lightshowpi webserver
+@reboot $SYNCHRONIZED_LIGHTS_HOME/bin/start_microweb >> $SYNCHRONIZED_LIGHTS_HOME/logs/microweb.log 2>&1
+
+# Start playing back songs and checking sms message at 6pm
+00 18 * * * $SYNCHRONIZED_LIGHTS_HOME/bin/start_music_and_lights >> $SYNCHRONIZED_LIGHTS_HOME/logs/music_and_lights.play 2>&1 &
+
+# Turn off the songs / sms at 7pm
+00 19 * * * $SYNCHRONIZED_LIGHTS_HOME/bin/stop_music_and_lights >> $SYNCHRONIZED_LIGHTS_HOME/logs/music_and_lights.stop 2>&1 &
+
+# Turn on the lights at 7:01pm
+01 19 * * * python $SYNCHRONIZED_LIGHTS_HOME/py/hardware_controller.py --state=on --light 1,4 >> $SYNCHRONIZED_LIGHTS_HOME/logs/music_and_lights.stop 2>&1 &
+
+# Turn off the lights at 1:00 am
+00 01 * * * python $SYNCHRONIZED_LIGHTS_HOME/py/hardware_controller.py --state=off >> $SYNCHRONIZED_LIGHTS_HOME/logs/music_and_lights.stop 2>&1 &
