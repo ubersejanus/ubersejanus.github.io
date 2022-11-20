@@ -45,6 +45,8 @@ The Raspberry Pi is powered through [GIPO pins 4 and 6](https://pinout.xyz/pinou
 
 At this point, the Raspberry Pi is ready to go, so we fire it up, [install Raspbian](https://www.raspberrypi.com/software/), and go through the installation process. 
 
+Depending on how old the pi is, you may need to  jump into `sudo raspi-config` select advanced options -> GL driver -> legacy
+
 Osprey goes a bit gung ho at this point, and starts off on a path that leads to hand-coding lighting control files my the milisecond - more power to them. I on the other hand, grab the stable version of [lightshowpi](https://lightshowpi.org/) from bitbucket and run the installer script:
 
 ```bash
