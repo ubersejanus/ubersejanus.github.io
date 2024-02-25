@@ -7,7 +7,7 @@ owner:
   name:           Brad Peters
   avatar:         bradp.jpg
   bio:            " "
-  email:          website@bpeters.id.au
+  email:          
   github:         ubersejanus     
   disqus:         bradpeters
   location:       "Melbourne, AU"
@@ -41,8 +41,6 @@ social:
     url: "https://www.facebook.com/brad.j.peters"
   - title: "instagram"
     url: "https://www.instagram.com/fun_brad"
-  - title: "twitter"
-    url: "https://www.twitter.com/ubersejanus"
   - title: "flickr"
     url: "https://www.flickr.com/photos/ubersejanus/albums"
   - title: "youtube-play"
@@ -50,11 +48,10 @@ social:
   - title: "snapchat"
     url: "https://www.snapchat.com/add/ubersejanus"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/brad-peters-9360a122"
+    url: "https://www.linkedin.com/in/brad-j-peters"
   - title: "steam"
     url: "https://steamcommunity.com/id/ubersejanus"
-  - title: "rss"
-    url: "/feed.xml"
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Victoria
