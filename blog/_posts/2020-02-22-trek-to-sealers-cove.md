@@ -4,7 +4,7 @@ title: Sealers Cove Trek
 image:
  feature: /blog/assets/2020-02/sealers-cove.jpg
 comments: no
-tags: hiking 
+tags: trip-report hiking 
 excerpt: The trip log for my overnight hike into Sealer's Cove.
 ---
 
